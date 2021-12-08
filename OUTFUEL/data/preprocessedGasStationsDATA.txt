@@ -1,0 +1,1756 @@
+Caltex Woolworths Bankstown, 1618 Canterbury Road , Punchbowl, 125, rp, false, -33.9339696, 151.0391184
+Caltex Woolworths Shellharbour, New Lake Entrance Road , Shellharbour, 132, r, true, -34.5655583, 150.8271017
+Caltex Woolworths Granville, 158 Clyde Street , Granville, 138, r, false, -33.8462394, 151.0125241
+Caltex Woolworths Katoomba, 52 Great Western Hwy , Katoomba, 135, rpd, true, -33.7070555, 150.3066012
+Caltex Woolworths Fairy Meadow, 47 Princes Highway, Fairy Meadow, 133, rpd, false, -34.3939969, 150.8925364
+Caltex Woolworths Lakewood, 108 Sirus Drive, Lakewood, 132, rpd, false, -31.6348731, 152.7557895
+Caltex Woolworths Albury, 515 Young Street, Albury, 130, r, false, -36.0805011, 146.9235743
+Caltex Woolworths Moss Vale, 609 Argyle Street, Moss Vale, 136, rpd, true, -34.5541631, 150.3611329
+Caltex Woolworths Ballina, 44 Pacific Hwy , Ballina, 125, r, false, -28.8640007, 153.5104799
+Caltex Woolworths Gloucester, 115-115 Church Street, Gloucester, 138, rpd, false, -32.0101492, 151.9581428
+Caltex Woolworths Leeton, Cnr Warnoon , Leeton, 134, rp, false, 1000, 1000
+Caltex Woolworths Seven Hills North, 1/155 Prospect Highway, Seven Hills, 127, rp, true, -33.7692561, 150.9425066
+Caltex Woolworths Tweed Heads Sth, 98-100 Minjungbal Drive , Tweed Heads, 124, rpd, true, -28.2048835, 153.5448091
+Caltex Woolworths Glenmore Park, Cnr. Glenmore Parkway , Glenmore Park, 129, r, false, -33.7865355, 150.6699077
+Caltex Woolworths Marsfield, Cnr Epping , Marsfield, 137, r, true, -33.7762896, 151.1061965
+Caltex Woolworths Turramurra, 1233 Pacific Highway, Turramurra, 127, rp, false, -33.7332114, 151.1313310
+Caltex Woolworths Strathfield, 287 Liverpool Road, Burwood, 129, r, false, -33.8854507, 151.0936904
+Caltex Woolworths Greenacre, 51 Roberts Road , Greenacre, 129, rp, true, -33.9001020, 151.0660130
+Caltex Woolworths Inverell, 262 Byron Street, Inverell, 132, r, false, -29.7688802, 151.1181465
+Caltex Woolworths Glenrose, 60 Glenn Street, Belrose, 134, rp, true, -33.7400650, 151.2091286
+Caltex Woolworths Cootamundra, 88 Murray Street, Cootamundra, 128, rp, true, -34.6363208, 148.0250677
+Caltex Woolworths Tuggerah, 24-26 Gavenlock Road, Tuggerah, 127, rp, true, -33.3091958, 151.4148602
+Caltex Woolworths Goulburn, 12 Verner Street, Goulburn, 121, rpd, true, -34.7582462, 149.7176527
+Caltex Woolworths Eaglevale, Eaglevale Road , Eagle Vale, 126, r, true, -34.0327653, 150.8164808
+Caltex Woolworths Temora, Cnr. Polaris , Temora, 128, r, false, -34.4432312, 147.5310179
+Caltex Woolworths Macquarie Fields, Brooks St , Macquarie Fields, 129, rpd, true, -33.9889166, 150.8895753
+Caltex Woolworths Kellyville, 662 Windsor Rd , Kellyville, 130, rp, true, -33.6995490, 150.9279371
+Caltex Woolworths Tumut, 29-37 Fitzroy St , Tumut, 130, rpd, false, -35.3000837, 148.2243305
+Caltex Woolworths Morisset, 125 Dora Street, Morisset, 124, rpd, true, -33.1115209, 151.4816995
+Caltex Woolworths Tamworth, 119 Bridge Street , Tamworth, 127, r, true, -31.0935878, 150.9167973
+Caltex Woolworths Campbelltown, 48-50 Blaxland Road, Campbelltown, 135, rp, true, -34.0611869, 150.8119441
+Caltex Woolworths Wollongong West, 425 Crown Street, Wollongong West, 115, rpd, true, -34.4264220, 150.8798847
+Caltex Woolworths Berkshire Park, 770 Richmond Road, Berkshire Park, 118, r, true, -33.6664351, 150.8011898
+Caltex Woolworths Maitland, 48 Denman Street , Maitland, 121, rp, false, -32.7322749, 151.5511526
+Caltex Woolworths Armidale, 244A Beardy Street, Armidale, 132, r, false, -30.5127657, 151.6624053
+Caltex Woolworths Bateau Bay, 9 Bay Village Rd, BATEAU BAY, 121, r, false, -33.3732966, 151.4738513
+Caltex Woolworths Lansvale, 136 Hume Highway , Lansvale, 128, r, false, -33.8947171, 150.9581214
+Caltex Woolworths Bulli, 261-265 Princes Highway, Bulli, 138, rpd, true, -34.3356410, 150.9132751
+Caltex Woolworths North Narrabeen, 1412-1414 Pittwater Road, North Narrabeen, 133, rp, true, -33.7009119, 151.2996886
+Caltex Woolworths Minto, 2 Cary Grove , Minto, 127, r, false, -34.0260320, 150.8368098
+Caltex Woolworths Windsor, 11 Macquarie Street, Windsor, 131, rp, true, -33.6056601, 150.8233241
+Metro Fuel Shortland, 278 Sandgate Road, Shortland, 116, rp, false, -32.8874830, 151.6952217
+Caltex Woolworths Plumpton, Jersey Road , Plumpton, 131, r, false, -33.7440424, 150.8339554
+Caltex Woolworths Chester Hill, 35 Woodville Road , Chester Hill, 128, r, false, -33.8666361, 150.9886964
+Caltex Woolworths Queanbeyan, 196 Crawford Street, Queanbeyan, 126, rp, true, -35.3515885, 149.2333353
+Caltex Woolworths Cooma, Cnr Bombala , Cooma, 135, rp, false, -36.2378437, 149.1293728
+Caltex Woolworths Blacktown, 41 - 43 Third Avenue, Blacktown, 124, rpd, true, -33.7649354, 150.9082175
+Caltex Woolworths Casino, 130 Canterbury St , Casino, 127, rp, false, -28.8623134, 153.0464643
+Caltex Woolworths Bomaderry, 272 Princes Highway, Bomaderry, 118, rpd, true, -34.8405552, 150.5951316
+Caltex Woolworths Kogarah, 69 Princes Hwy , Kogarah, 133, r, true, -33.9632385, 151.1371792
+Caltex Woolworths Leichardt, 774 Parramatta Road, Lewisham, 130, rp, true, -33.8903112, 151.1479693
+Caltex Woolworths Merrylands, 185 Pitt Street , Merrylands, 128, rp, true, -33.8340497, 150.9917832
+Caltex Woolworths Byron Bay, 76-78 Shirley Street, Byron Bay, 126, r, false, -28.6398735, 153.6034455
+Caltex Woolworths Warilla, 43-57 Shellharbour Rd , Warilla, 124, rpd, true, -34.5468313, 150.8629907
+Caltex Woolworths Spring Farm, 254a Richardson Street, Spring Farm, 132, rpd, false, -34.0684710, 150.7298472
+Caltex Woolworths Kingswood, 66 Parker Street , Penrith, 128, rpd, true, -33.7550287, 150.7126183
+Caltex Woolworths Corrimal, 275-277 Princes Highway, Corrimal, 139, rp, true, -34.3365165, 150.9128958
+Caltex Woolworths Prestons, Cnr Camden Valley Way , Prestons, 121, r, false, -33.9548791, 150.8642296
+Caltex Woolworths Gosford, 522 Pacific Highway , Wyoming, 116, r, false, -33.4043812, 151.3493918
+Caltex Woolworths Umina, 337 West Street , Umina, 131, rp, true, -33.5210014, 151.3170285
+Caltex Woolworths Cessnock, 220 Wollombi Road, Cessnock, 121, rp, true, -32.8324897, 151.3544158
+Caltex Woolworths Ingleburn, 12-14 Norfolk Street, Ingleburn, 125, rpd, false, -33.9999663, 150.8647644
+Caltex Woolworths Prospect, 360 Flushcombe Road, Prospect, 132, rpd, true, -33.7961597, 150.9050546
+Caltex Woolworths Unanderra, 106 Princes Hwy , Unanderra, 141, rp, false, -34.4545829, 150.8451533
+Caltex Woolworths Dapto, 83 Byamee Street, Dapto, 141, rpd, false, -34.4966306, 150.7988215
+Caltex Woolworths Lithgow, 41 Lithgow Street , Lithgow, 131, r, true, -33.4831889, 150.1533219
+Caltex Woolworths Glen Innes, 143 Meade Street, Glen Innes, 130, rp, true, -29.7374562, 151.7384889
+Caltex Woolworths Rutherford, 300 New England Highway, Rutherford, 124, rpd, false, -32.7148398, 151.5251305
+Caltex Woolworths Dubbo, Cnr Mitchell Hwy and Wheelers Lane, Dubbo, 125, r, true, -32.2559354, 148.6314256
+Caltex Woolworths Ulladulla, 155-157 Princes Highway, Ulladulla, 133, rpd, true, -35.3351220, 150.4519465
+Caltex Woolworths Scone, 254 Kelly St, Scone, 127, r, true, -32.0577724, 150.8707699
+Caltex Woolworths Young, Cnr Lovell , Young, 130, rpd, true, -34.3115887, 148.2952564
+Caltex Woolworths Forbes, 26 Dowling Street , Forbes, 108, rp, true, -33.3814910, 148.0111458
+Caltex Woolworths Edgeworth, 736-742 Main Road, Edgeworth, 121, rp, true, -32.9245658, 151.6196902
+Caltex Woolworths Hoxton Park, 490 Cowpasture Road, Hoxton Park, 128, rpd, false, -33.9156272, 150.8548729
+Caltex Woolworths Bega, 100 Gipps Street, Bega, 132, rp, true, -36.6756312, 149.8433289
+Caltex Woolworths Cowra, 13 Railway Lane, Cowra, 132, rp, true, -33.8362686, 148.6927266
+Caltex Woolworths Moama, 2 Perricoota Rd, Moama, 125, rpd, false, -36.1064024, 144.7428063
+Caltex Woolworths Goulburn South, Corner Hume Street And Ducks Lane, GOULBURN, 126, rp, true, -34.7723165, 149.6910397
+Caltex Woolworths Orange, 357-361 Summer St , Orange, 137, rp, true, -33.2845705, 149.1054203
+Caltex Woolworths Orange North, 1 Hanrahan Place , Orange, 133, r, true, -33.2589640, 149.1135400
+Caltex Woolworths Moruya, 2808 Princes Hwy , Moruya, 138, r, true, -35.9201575, 150.0839200
+Caltex Woolworths Richmond, Cnr Lennox , Richmond, 128, r, false, -33.6010681, 150.7517719
+Caltex Woolworths Nowra, 58 North Street, Nowra, 124, r, false, -34.8723566, 150.6010854
+Caltex Woolworths Fairfield Heights, 163 The Boulevarde , Fairfield Heights, 132, r, false, -33.8665460, 150.9378262
+Caltex Woolworths Tuggerah North, 186 Pacific Highway, Tuggerah, 129, rpd, true, -33.2938125, 151.4224812
+Caltex Woolworths Park Beach Plaza, Pacific Hwy , Coffs Harbour, 127, rp, true, -30.3089214, 153.0997600
+Caltex Woolworths Bathurst, 74 Bentinck Street , Bathurst, 130, rp, false, -33.4203497, 149.5817694
+Caltex Woolworths Woolooware, 449 Captain Cook Drive, Woolooware, 129, rpd, false, -34.0385775, 151.1439963
+Caltex Woolworths Wellington, 79 Lee Street, Wellington, 137, rp, true, -32.5487368, 148.9408250
+Caltex Woolworths West Ryde, 924 Victoria Rd, WEST RYDE, 130, rp, true, -33.8109474, 151.0934931
+Caltex Woolworths Lake Cathie, 1609 Ocean Drive, Lake Cathie, 136, rpd, false, -31.5529134, 152.8543807
+Caltex Woolworths Muswellbrook, Cnr Brook , Muswellbrook, 128, r, false, -32.2633319, 150.8885878
+Caltex Woolworths Narellan, 316 Camden Valley Way, Narellan, 133, rp, false, -34.0409378, 150.7353730
+Caltex Woolworths Menai, Cnr Allison Cres , Menai, 131, rp, false, -34.0139088, 151.0176113
+Caltex Woolworths Brookvale, 756 Pittwater Rd , Brookvale, 131, rp, true, -33.7617715, 151.2761225
+Caltex Woolworths Goonellabah, 2 Simeoni Drive, Goonellabah, 132, rpd, false, -28.8229437, 153.3278999
+Caltex Woolworths Grafton, 75-77 Fitzroy Street, Grafton, 119, r, false, -29.6922108, 152.9343480
+Caltex Woolworths Marrickville, 490 Illawarra Road , Marrickville, 133, r, false, -33.9185418, 151.1459086
+Caltex Woolworths Rosemeadow, 3 Thomas Rose Drive, Rosemeadow, 132, rp, true, -34.1000598, 150.7986853
+Caltex Woolworths Mount Annan, 157 Narellan Rd , Mount Annan, 131, rp, false, -34.0467975, 150.7602302
+Caltex Woolworths Seven Hills, 240 Prospect Highway, Seven Hills, 127, rp, false, -33.7762584, 150.9332713
+Caltex Woolworths Singleton, Cnr Ryan Avenue , Singleton, 136, rp, true, -32.5649208, 151.1652486
+Caltex Woolworths Glendale, Stockland Drive , Glendale, 122, rp, false, -32.9336472, 151.6443679
+Caltex Woolworths Kelso, 180 Sydney Road, Kelso, 131, r, false, -33.4189839, 149.6194869
+Caltex Woolworths Warabrook, 3 Angaphora Drive, Warabrook, 127, r, true, -32.8864598, 151.7193493
+Caltex Woolworths Batemans Bay, 27 Vesper Street , Batemans Bay, 140, rpd, false, -35.7120695, 150.1743626
+Caltex Woolworths Bass Hill, 862 Hume Highway, Bass Hill, 128, r, true, -33.9010513, 150.9990874
+Caltex Woolworths Tura Beach, 3-5 Tura Beach Drive , Tura Beach, 135, rp, true, -36.8639497, 149.9159297
+Caltex Woolworths Macarthur Square, Macarthur Gardens Village U 57 100 Gilchrist Drive, CAMPBELLTOWN, 131, rp, true, -34.0774210, 150.7944670
+Caltex Woolworths Rockdale, 314 Princes Highway , Banksia, 128, r, false, -33.9456696, 151.1416946
+Caltex Woolworths Chatswood East, 364-366 Eastern Valley Way, Chatswood East, 130, r, true, -33.7865969, 151.2010511
+Caltex Woolworths Moree, 215 Balo Street, Moree, 130, r, false, -29.4672035, 149.8402266
+Caltex Woolworths Mount Hutton, Wilsons Road , Mount Hutton, 103, rpd, false, -32.9844074, 151.6710915
+Caltex Woolworths Mount Druitt, North Parade , Mount Druitt, 129, rpd, true, -33.7698362, 150.8234876
+Caltex Woolworths Newington, 1 Avenue of the Americas, Newington, 136, rp, true, -33.8340060, 151.0564605
+Caltex Woolworths Marayong, Cnr Vardys , Marayong, 122, rpd, false, -33.7457691, 150.8988398
+Caltex Woolworths Belmont, 397 Pacific Highway, Belmont, 127, r, false, -33.0272191, 151.6615203
+Caltex Woolworths Kempsey, 77 Smith Street, Kempsey, 127, r, true, -31.0777253, 152.8430184
+Caltex Woolworths Bonnyrigg, 100 Bonnyrigg Avenue, Bonnyrigg, 130, r, true, -33.8866866, 150.8887568
+Caltex Woolworths Vineyard, 1432 Windsor Rd , Vineyard, 130, rp, true, -33.6573099, 150.8743855
+Caltex Woolworths Chullora, 97 Hume Highway, Chullora, 131, r, false, -33.8918805, 151.0575137
+Caltex Woolworths Green Hills, Molly Morgan Drive , East Maitland, 123, r, false, -32.7631086, 151.5943956
+Caltex Woolworths Jerrabomberra, 10 Limestone Drive, Jerrabomberra, 130, rp, true, -35.3807439, 149.2001081
+Caltex Woolworths Gunnedah, 18-22 Tempest Street, Gunnedah, 140, rpd, true, -30.9761966, 150.2482412
+Caltex Woolworths Lavington, 370 Griffith Rd, Lavington, 122, rp, true, -36.0482339, 146.9374751
+Caltex Woolworths Charlestown, 93 Pacific Highway, Charlestown, 125, r, false, -32.9663446, 151.6956876
+Caltex Woolworths Lake Munmorah, Cnr Pacific Highway , Lake Munmorah, 133, rp, true, -33.1904487, 151.5679948
+Caltex Woolworths Cardiff, 43 Macquarie Road, Cardiff, 120, r, false, -32.9410978, 151.6578687
+Caltex Woolworths Newport, 348 Barrenjoey Road, Newport, 131, rpd, false, -33.6557042, 151.3201386
+Caltex Woolworths Tahmoor, Cnr Thirlmere Way , Tahmoor, 135, rp, true, -34.2206877, 150.5832549
+Caltex Woolworths Appin, 136 Appin Road, Appin, 132, rp, true, -34.1951690, 150.7899850
+Caltex Woolworths Roselands, 218 King Georges Road, Roselands, 134, r, false, -33.9330368, 151.0734516
+Caltex Woolworths Peakhurst, 742 Forest Road, Peakhurst, 134, rp, false, -33.9575169, 151.0679920
+Caltex Woolworths Vincentia, Cnr Naval College Rd , Vincentia, 132, r, false, -35.0887004, 150.6673585
+Caltex Woolworths Burwood, 400 Parramatta Road, Burwood, 128, r, true, -33.8686177, 151.1016217
+Caltex Woolworths Blakehurst, 390 Princes Highway, Blakehurst, 132, rpd, true, -33.9902682, 151.1136010
+Caltex Woolworths Mayfield, 262 Maitland Rd , Islington, 114, r, false, -32.9102266, 151.7455596
+Caltex Woolworths Wagga Central, 17 Forsyth Street, Wagga Wagga, 129, rpd, false, -35.1142006, 147.3740649
+Caltex Woolworths Albion Park, Cnr Russell , Albion Park, 135, r, true, -34.5727047, 150.7735358
+Caltex Woolworths Griffith, 29 Banna Avenue, Griffith, 137, r, true, -34.2889787, 146.0599325
+Caltex Woolworths Raymond Terrace, 39-41 Port Stephens Rd , Raymond Terrace, 137, r, true, -32.7611857, 151.7441304
+Caltex Woolworths Emu Plains, 283 Great Western Hwy , Emu Plains, 124, rp, false, -33.7537447, 150.6530651
+Caltex Woolworths Corowa, Cnr Queen , Corowa, 116, r, false, -35.9979709, 146.3899921
+Caltex Woolworths Port Macquarie, 1 Bay Street, Port Macquarie, 125, r, false, -31.4270464, 152.8953418
+Caltex Woolworths Carnes Hill, Kurrajong Road , Hoxton Park, 126, r, false, -33.9433716, 150.8758601
+Caltex Woolworths Werrington, 574 Great Western Hwy, Werrington, 130, rpd, false, -33.7680706, 150.7568748
+Caltex Woolworths Emu Heights, 132 Old Bathurst Road, Emu Plains, 129, rpd, true, -33.7429741, 150.6559515
+Caltex Woolworths Lismore, 99 Diadem Street, Lismore, 130, rpd, true, -28.8118185, 153.2871210
+Caltex Woolworths North Liverpool, 67 Orange Grove Road, Liverpool, 128, rpd, true, -33.9070670, 150.9177777
+Caltex Woolworths Nambucca Heads, 115 Mann Street, Nambucca Heads, 131, r, false, -30.6393070, 152.9886506
+Caltex Woolworths Parkes, 78 Currajong St , Parkes, 132, rp, false, -33.1336002, 148.1752585
+Caltex Woolworths Surry Hills, 475 Cleveland St, Redfern, 135, rp, true, -33.8922004, 151.2159906
+Caltex Woolworths Broken Hill, Cnr Galena , Broken Hill, 120, r, false, -31.9618549, 141.4494108
+Caltex West Wyalong, Mid Western Hwy Cnr Emu St, West Wyalong, 136, rp, true, 1000, 1000
+Caltex Wetherill Park, Cnr The Horsley Dr , Wetherill Park, 129, r, true, -33.8496102, 150.9056100
+Caltex Windang, 244-248 Windang Rd, Windang, 135, r, true, -34.5274782, 150.8691818
+Caltex Windsor South, 741 George St, Windsor South, 132, rpd, false, -33.6387055, 150.7839799
+Caltex Wingham, Isabella St Cnr Primrose St, Wingham, 134, rp, false, 1000, 1000
+Caltex Wollongong North, 9 Flinders St, Wollongong North, 130, r, true, -34.4150500, 150.8932117
+Caltex Woodburn, 129 River St Cnr Woodburn St, Woodburn, 122, r, true, -29.0718478, 153.3405924
+Caltex Woollahra, 118 Old South Head Rd, Woollahra, 138, rpd, false, -33.8896235, 151.2553519
+Caltex Woolooware, 100 Woolooware Rd, Woolooware, 135, r, true, -34.0527470, 151.1408431
+Caltex Woolworths Erina, 155 The Entrance Rd, Erina, 116, r, false, -33.4377736, 151.3802336
+Caltex Barrack Heights, 332-336 Shellharbour Rd, Barrack Heights, 126, rp, true, -34.5648919, 150.8597784
+Caltex Batehaven, 264 Beach Road, Batehaven, 133, r, false, -35.7325350, 150.1997515
+Caltex Batemans Bay, 2 Princes Hwy Cnr Kings Hwy, Batemans Bay, 129, r, false, 1000, 1000
+Caltex Bathurst, 53 Durham St, Bathurst, 130, rpd, false, -33.4168511, 149.5848755
+Caltex Baulkham Hills, 117 Seven Hills Rd, Baulkham Hills, 138, rp, false, -33.7614372, 150.9751699
+Caltex Belrose, 153 Forest Way, Belrose, 142, rpd, true, -33.7347490, 151.2212191
+Caltex Beresfield, Yangan Avenue, Beresfield, 124, r, true, -32.8094221, 151.6321212
+Caltex Beresfield North, Weakleys Dr Cnr Balook Dr, Beresfield North, 124, r, false, -32.8066482, 151.6334250
+Caltex Berowra, 12-14 Berowra Waters Rd, Berowra, 143, rp, true, -33.6233814, 151.1505540
+Caltex Bomaderry, 341 Princes Hwy, Bomaderry, 126, r, false, -34.8456636, 150.5947423
+Caltex Bombala, 161 Maybe Street, Bombala, 130, rpd, true, -36.9124026, 149.2374580
+Caltex Bonnyrigg, Smithfield Rd Cnr Elizabeth Dr, Bonnyrigg, 130, rpd, false, -33.8883880, 150.8811669
+Caltex Broken Hill, 73-87 Oxide St Cnr Beryl St, Broken Hill, 121, r, true, -31.9547962, 141.4659472
+Caltex Brownsville, 342 Kanahooka Rd, Brownsville, 143, r, false, -34.4859174, 150.8065645
+Caltex Buronga, 3-7 Hendy Rd, Buronga, 129, rp, false, -34.1705662, 142.1813574
+Caltex Camden, 21 Barsden St Cnr Cawdor Rd, Camden, 131, rp, true, -34.0582445, 150.6909559
+Caltex Canley Heights, 280-286 Canley Vale Rd, Canley Heights, 134, rpd, false, -33.8838593, 150.9241242
+Caltex Casino, 96 Centre St, Casino, 123, r, true, -28.8653900, 153.0451003
+Caltex Casula, 646 Hume Hwy, Casula, 132, rpd, false, -33.9564132, 150.8934788
+Caltex Charmhaven, 13-15 Pacific Hwy Cnr Costa Ave, Charmhaven, 117, rp, false, -33.2165476, 151.5084819
+Caltex Chipping Norton, 30-40 Alfred Rd, Chipping Norton, 131, rp, false, -33.9244447, 150.9648489
+Caltex Cobar, Barrier Highway, Cobar, 131, r, true, -31.5061637, 145.7973928
+Caltex Coffs Harbour, Cnr Pacific Hwy , Coffs Harbour, 128, r, true, -30.2971750, 153.1129804
+Caltex Coogee, 146-148 Coogee Bay Rd, Coogee, 140, rp, false, -33.9199406, 151.2517628
+Caltex Coogee South, 169-173 Malabar Rd, Coogee South, 138, rpd, true, -33.9323506, 151.2574183
+Caltex Cooma, 44 Sharp St Cnr Barron St, Cooma, 130, rp, true, -36.2327696, 149.1306776
+Caltex Coonabarabran, 85-87 John Street, Coonabarabran, 142, r, false, -31.2723111, 149.2771566
+Caltex Crows Nest, 111-121 Falcon St, Crows Nest, 136, rpd, false, -33.8286801, 151.2060304
+Caltex Cundletown, Old Pacific Highway, Cundletown, 131, rpd, false, 1000, 1000
+Caltex Dee Why, 793-797 Pittwater Rd, Dee Why, 131, rp, false, -33.7456837, 151.2920603
+Caltex Drummoyne, 191-195 Lyons Rd, Drummoyne, 135, r, false, -33.8569342, 151.1460021
+Caltex Dubbo, 119 Bourke St Cnr Erskine St, Dubbo, 130, rpd, true, -32.2437734, 148.6093996
+Caltex Dubbo, 60-64 Windsor Parade, Dubbo, 133, r, false, -32.2541096, 148.6312296
+Caltex Dubbo, Cobra St Cnr Brisbane St, Dubbo, 131, rpd, false, -32.2534852, 148.6026645
+Caltex East Maitland, Newcastle Rd Cnr William St, East Maitland, 120, rpd, false, -32.7488638, 151.5834893
+Caltex Eastern Creek, M4 Motorway Eastbound, Eastern Creek, 131, rpd, true, -33.8016005, 150.8859626
+Caltex Eastern Creek, M4 Motorway Westbound, Eastern Creek, 131, rp, true, -33.8023821, 150.8811129
+Caltex Eden, 159 Imlay St, Eden, 126, rp, false, -37.0631530, 149.9046370
+Caltex Five Dock, Fairlight St Cnr Ramsay Rd, Five Dock, 136, rp, true, -33.8701144, 151.1309131
+Caltex Forbes, Parkes Road, Forbes, 107, r, true, -33.3692731, 148.0208525
+Caltex Forster, 16-18 Lake St Cnr Macintosh St, Forster, 133, r, false, -32.1827624, 152.5166678
+Caltex Gilgandra, 6425 Newell Hwy, Gilgandra, 138, rpd, false, -31.7255587, 148.6531188
+Caltex Glenbrook, 78 Great Western Hwy Cnr Ross St, Glenbrook, 137, r, false, -33.7650517, 150.6219057
+Caltex Gloucester, 141 Church St, Gloucester, 140, r, false, -32.0122337, 151.9579414
+Caltex Gosford West, 283 Manns Rd Cnr Merinee Rd, Gosford West, 116, rp, true, -33.4169310, 151.3247698
+Caltex Gosford West, 30A Pacific Hwy, Gosford West, 112, rp, true, -30.8010167, 152.8690518
+Caltex Gosford West, 69-71 Pacific Highway, Gosford West, 114, rpd, true, -33.4187980, 151.2773830
+Caltex Goulburn, 315 Auburn St Cnr Bradley St, Goulburn, 120, rp, true, 1000, 1000
+Caltex Goulburn, 68 Goldsmith St Cnr Bourke St, Goulburn, 129, r, false, 1000, 1000
+Caltex Greenacre, 87-91 Roberts Rd Cnr Moondo St, Greenacre, 129, rp, false, -33.9050959, 151.0640241
+Caltex Gumly Gumly, 3723 Sturt Hwy, Gumly Gumly, 129, r, true, -35.1353516, 147.4428468
+Caltex Hazelbrook, 198 Great Western Highway, Hazelbrook, 138, rp, true, -33.7210590, 150.4520960
+Caltex Heathcote, 1344 Princes Highway, Heathcote, 132, rp, true, -34.0882811, 151.0075092
+Caltex Jindabyne, 4-6 Kosciusko Rd, Jindabyne, 136, rpd, false, -36.4132261, 148.6196447
+Caltex Kariong, Lot 2 Langford Drive Cnr Mitchell D, Kariong, 119, rp, true, -33.4397330, 151.2933411
+Caltex Kemps Creek, 1163 Mamre Rd, Kemps Creek, 127, rp, false, -33.8696993, 150.7966309
+Caltex Kempsey South, 52 Lachlan St, Kempsey South, 129, rpd, true, -31.0935230, 152.8370930
+Caltex Kingsford, 603-611 Anzac Pde Cnr Snape St, Kingsford, 137, rp, false, -33.9342167, 151.2371558
+Caltex Kirrawee, 487 Princes Hwy, Kirrawee, 130, rpd, true, -34.0292721, 151.0805339
+Caltex Kooringal, 265-267 Lake Albert Rd, Kooringal, 124, rpd, true, -35.1407736, 147.3755366
+Caltex Kyogle, 26 Summerland Way, Kyogle, 134, rp, true, -28.6181058, 153.0038475
+Caltex Lake Haven, Goobarabah Ave Cnr Gorokan Drive, Lake Haven, 124, r, false, 1000, 1000
+Caltex Lane Cove, Burns Bay Road, Lane Cove, 137, rpd, true, -33.8149449, 151.1570609
+Caltex Lansvale, 141-151 Hume Hwy Cnr Chadderton St, Lansvale, 130, rp, true, -33.8945348, 150.9577319
+Caltex Lavington, 436 Wagga Rd Cnr Dick Rd, Lavington, 124, rpd, false, -36.0443816, 146.9449262
+Caltex Leppington, 1370-1380 Camden Valley Hwy, Leppington, 129, rp, false, -33.9633190, 150.8182660
+Caltex Leumeah, 6 Rudd Rd, Leumeah, 133, r, false, -34.0539810, 150.8299220
+Caltex Lilli Pilli, 477-481 Port Hacking Rd, Lilli Pilli, 136, r, false, -34.0524306, 151.1215625
+Caltex Longueville, 5-7 Northwood Rd, Longueville, 143, rpd, true, -33.8242994, 151.1724645
+Caltex Macquarie Fields, 68 Harold St, Macquarie Fields, 134, rpd, true, -33.9855705, 150.8933998
+Caltex Manly Vale, 236-238 Condamine St, Manly Vale, 137, rp, true, -33.7850220, 151.2674222
+Caltex Mascot, 125 O'riordan St, Mascot, 138, rpd, false, -33.9229540, 151.1912660
+Caltex Menai, Menai Rd Cnr Carter Rd, Menai, 134, rp, true, -34.0203052, 151.0125824
+Caltex Merimbula, 19-25 Merimbula Drive, Merimbula, 131, rp, true, -36.8875785, 149.9089176
+Caltex Merrylands, 150 Woodville Rd Cnr Merrylands Rd, Merrylands, 130, rpd, false, -33.8385235, 150.9999902
+Caltex Merrylands, 229 Woodville Rd Cnr Lackey St, Merrylands, 133, r, true, -33.8457021, 150.9979126
+Caltex Miller, 86 Cartwright Ave Cnr Woodward Cres, Miller, 133, r, true, -33.9183670, 150.8825517
+Caltex Mittagong, 65 Bowral Rd, Mittagong, 130, r, true, -34.4524823, 150.4383585
+Caltex Moonbi, New England Highway, Moonbi, 133, r, true, -30.9744363, 151.1028659
+Caltex Moorebank, 2 Bridges Rd Cnr Newbridge Rd, Moorebank, 126, rp, false, -33.9285452, 150.9321325
+Caltex Moorebank, 216 Newbridge Rd, Moorebank, 126, rp, true, -33.9294742, 150.9548624
+Caltex Moruya, 80-84 Campbell Street, Moruya, 118, r, false, -35.9120161, 150.0823744
+Caltex Mount Colah, 603 Pacific Hwy, Mount Colah, 142, rp, false, -33.6705389, 151.1154528
+Caltex Mt Victoria, 36A Great Western Hwy Cnr Mt York R, Mount Victoria, 139, rpd, true, -33.5849773, 150.2467492
+Caltex Mungindi, 30 St George St Cnr Yarouah St, Mungindi, 132, r, false, -28.9777501, 148.9974837
+Caltex Nabiac, 3964 Wallanbah Rd Cnr Pacific Hwy, Nabiac, 120, rpd, false, -32.0957916, 152.3789962
+Caltex Narellan, Narellan Rd Cnr Maxwell Pl, Narellan, 129, rp, true, -34.0401220, 150.7435634
+Caltex Narrabeen, 1509-1511 Pittwater Rd, Narrabeen, 137, rp, true, -33.7047166, 151.2970406
+Caltex Narrabri, Anne St Cnr Dangar St, Narrabri, 137, rpd, true, -30.3304507, 149.7756005
+Caltex Narwee, Cnr Broadarrow , Narwee, 125, rpd, false, -33.9487065, 151.0689436
+Caltex Neutral Bay, 16-38 Military Rd, Neutral Bay, 135, r, true, -33.8290891, 151.2164578
+Caltex Newtown, 26 Enmore Rd, Newtown, 132, r, true, -33.8985092, 151.1771458
+Caltex North Bondi, 321 Old South Head Rd, North Bondi, 138, rp, false, -33.8846731, 151.2686065
+Caltex North Ryde, 41-43 Epping Rd Cnr Wicks Rd, North Ryde, 126, r, true, -33.7912863, 151.1304060
+Caltex Northmead, 98-100 Windsor Rd Cnr Lombard Rd, Northmead, 134, rp, false, -33.7882043, 150.9949995
+Caltex Old Guildford, 636-644 Woodville Rd Cnr Orchardlei, Old Guildford, 127, r, true, -33.8670824, 150.9880166
+Caltex Orange, 70-74 Summer St, Orange, 131, rpd, true, -33.2831181, 149.0940725
+Caltex Orange, 91-93 Elsham Ave Leewood Estate, Orange, 134, r, true, -33.2833330, 149.1000000
+Caltex Padstow, 115 Fairford Rd, Padstow, 128, rp, true, -33.9434142, 151.0341809
+Caltex Parkes, 352-360 Clarinda St Cnr Bushman St, Parkes, 126, rp, false, -33.1420047, 148.1823244
+Caltex Parklea, 1190 Old Windsor Rd Near Miami St , Parklea, 127, rpd, false, -33.7251932, 150.9392537
+Caltex Pendle Hill, 602-606 Great Western Hwy, Pendle Hill, 130, rpd, false, -33.8083237, 150.9420360
+Caltex Penshurst, 641 King Georges Rd Cnr Percival St, Penshurst, 134, r, false, -33.9599001, 151.0896526
+Caltex Port Macquarie, 100 Hastings River Dr, Port Macquarie, 132, r, true, -31.4289249, 152.8820717
+Caltex Punchbowl, 1285-1289 Canterbury Rd Cnr Duncan, Punchbowl, 126, r, false, -33.9317158, 151.0591841
+Caltex Queanbeyan, Bungendore Rd, Queanbeyan, 132, r, true, -35.3510584, 149.2392098
+Caltex Queanbeyan, Lanyon Dr Cnr Mccrae St, Queanbeyan, 129, r, true, -35.3635169, 149.2077685
+Caltex Raymond Terrace, 40 Richardson Rd, Raymond Terrace, 130, rp, true, -32.7559273, 151.7628779
+Caltex Raymond Terrace, Cnr Adelaide , Raymond Terrace, 137, rpd, false, -32.7624143, 151.7468993
+Caltex Rose Bay, 488 Old South Head Rd Cnr Albemarle, Rose Bay, 140, r, true, -33.8751813, 151.2724728
+Caltex Sandgate, 162 Maitland Rd, Sandgate, 121, r, true, -32.8650429, 151.7061704
+Caltex Seven Hills, 105 Station Rd Cnr Powers St, Seven Hills, 128, rp, false, -33.7738903, 150.9443515
+Caltex Seven Hills, 38 Abbott Rd, Seven Hills, 130, rp, true, -33.7668196, 150.9546672
+Caltex South Nowra, 100 Princes Hwy Cnr Browns Rd, South Nowra, 120, r, false, -34.9043430, 150.6027890
+Caltex South Wentworthville, 313 Great Western Hwy, South Wentworthville, 133, r, true, -33.8163788, 150.9718311
+Caltex St Ives North, 363 Mona Vale Rd, St Ives North, 136, rp, false, -33.7168700, 151.1734779
+Caltex Sylvania Heights, 414-416 Princes Hwy, Sylvania Heights, 134, r, true, -34.0125978, 151.0946988
+Caltex Tamworth, 109 Gunnedah Rd, Tamworth, 138, rpd, true, -31.0973191, 150.8955510
+Caltex Tamworth, Kent St Cnr Kathleen St, Tamworth, 138, rp, false, -31.1033294, 150.9183327
+Caltex Taree South, Cnr Manning River Dr , Taree South, 129, rpd, false, -31.9296893, 152.4655584
+Caltex Taren Point, 114 Taren Point Rd, Taren Point, 135, rpd, false, -34.0206494, 151.1219560
+Caltex Toormina, 2 Minorca Pl Cnr Toormina Rd, Toormina, 127, rp, false, -30.3526459, 153.0902792
+Caltex Tweed Heads West, 96-98 Kennedy Dr Cnr Barrett St, Tweed Heads West, 136, r, false, -28.1867536, 153.5231419
+Caltex Wagga Wagga, 170 Fitzmaurice St, Wagga Wagga, 127, rpd, false, -35.1028826, 147.3679066
+Caltex Wagga Wagga, Docker St Cnr Edward St, Wagga Wagga, 127, rp, true, -35.1171564, 147.3562138
+Caltex Wamberal, 656 The Entrance Rd, Wamberal, 123, rp, false, -33.4234643, 151.4375194
+Caltex Warners Bay, 55 King St, Warners Bay, 123, rp, false, -32.9741369, 151.6475616
+Caltex Albion Park, 222 Tongarra Rd Cnr Calderwood St, Albion Park, 139, rp, false, -34.5715578, 150.7653290
+Caltex Albion Park Rail, 172-174 Princes Highway, Albion Park Rail, 139, rp, false, -34.5612792, 150.7955746
+Caltex Albion Park Rail, 31 Princes Hwy, Albion Park Rail, 135, rpd, true, -34.5518147, 150.7880686
+Caltex Alexandria, 133 Wyndham St Cnr Mcevoy St, Alexandria, 130, r, false, -33.9017381, 151.2001398
+Caltex Alstonville, 73 Main St, Alstonville, 137, rpd, true, -28.8411584, 153.4388702
+Caltex Ambarvale, 37 Woodhouse Dr Cnr Wickfield St, Ambarvale, 138, rpd, true, -34.0837852, 150.8024716
+Caltex Balranald, Sturt Highway, Balranald, 127, rp, true, -34.6212878, 143.3910720
+Caltex Banora Point West, Darlington Drive Cnr Leisure Drive, Banora Point West, 134, rpd, false, 1000, 1000
+Caltex Woy Woy, 66 Memorial Avenue, Woy Woy, 113, rpd, false, -33.5070183, 151.3314559
+Caltex Wyong, M1 Northbound, Wyong, 127, r, true, -33.2795285, 151.4233877
+Caltex Wyong, M1 Southbound, Wyong, 128, rp, true, -33.2540870, 151.4054091
+Caltex Yamba, 22 Treelands Dr, Yamba, 134, r, false, -29.4270821, 153.3280150
+Caltex Yass, 1715 Yass Valley Way, Yass, 124, r, false, -34.8069633, 148.8825199
+Caltex Woolworths Bowral, 2-4 Banyette Street , Bowral, 127, rp, true, -34.4810966, 150.4154470
+Caltex Woolworths Campbelltown Mall, 90-94 Queen Street , Campbelltown, 127, r, true, -34.0636095, 150.8173509
+Caltex Mount Druitt, 17 Mount St, Mount Druitt, 127, rpd, true, -33.7656167, 150.8244953
+Caltex Luddenham, 19 The Northern Rd, Luddenham, 131, rp, true, -33.8740734, 150.6900898
+Caltex Heathcote, 1403 Princes Hwy, Heathcote, 133, r, true, -34.0905378, 151.0041386
+Caltex Albury, Dean St Cnr Creek St, Albury, 127, r, false, -36.0799969, 146.9105682
+Puma Casino, 37 Johnston Street, Casino, 121, rpd, false, -28.8590989, 153.0489517
+Puma Energy Rutherford, Cnr Brooks St , Rutherford, 127, rp, false, -32.7191416, 151.5351497
+Puma Thornton, 1 Weakleys Dr, THORNTON, 120, r, true, -32.7929384, 151.6376888
+Puma Wetherill Park, 449 Victoria St, WETHERILL PARK, 132, rp, false, -33.8449490, 150.8919590
+Metro Fuel Charlestown, 132/138 Pacific Hwy, Charlestown, 111, r, true, -32.9649426, 151.6951705
+Caltex Yass, 228 Comur St, Yass, 127, rpd, true, -34.8445805, 148.9138907
+Caltex Gladesville, 287-295 Victoria Rd Cnr Stansell Rd, Gladesville, 132, rpd, true, -33.8281258, 151.1265318
+Caltex Macksville, Pacific Hwy, Macksville, 129, rpd, true, -30.7227933, 152.9276014
+Caltex Cabramatta, 166 John St Cnr Gladstone St, Cabramatta, 131, r, true, -33.8938240, 150.9282966
+Caltex North Richmond, 50 Bells Line Of Rd Cnr Terrace Rd, North Richmond, 134, r, false, -33.5798881, 150.7195783
+7-Eleven Charlestown, 273 Charlestown Road, Charlestown, 124, rpd, true, -32.9579672, 151.6898557
+7-Eleven Gateshead, 13-15 Pacific Highway, GATESHEAD, 123, rp, true, -32.9874345, 151.6924020
+Enhance Homebush, 242 Parramatta Road, Homebush, 125, rpd, false, -33.8617091, 151.0764052
+Metro Tuggerah, 150 Pacific Hwy, TUGGERAH, 109, rpd, true, -33.3003248, 151.4208458
+Metro Fuel Berkeley, 57 Winnima Way, Berkeley, 111, rp, false, -34.4801808, 150.8462221
+Metro Fuel Tarro, 107 Anderson Drive, Tarro, 112, rpd, false, -32.8076696, 151.6588462
+Coles Express Coffs Harbour, 208-212 Pacific Hwy North, Coffs Harbour, 132, rp, false, -30.2863518, 153.1241102
+Junee Fuels, 33 Seignior St, JUNEE, 132, r, false, -34.8703048, 147.5823970
+Coles Express Willoughby, 616-626 Willoughby Rd , Willoughby, 143, r, true, -33.8058962, 151.1989154
+Coles Express Yagoona, 112 Rookwood , Yagoona, 138, rpd, true, -33.8985197, 151.0370842
+Coles Express St Helens Park, Lot 201 Appin Road, St Helens Park, 137, rpd, false, -34.1111284, 150.7984654
+Coles Express Strathfield, 9 Albert Rd, Strathfield, 136, r, false, -33.8706734, 151.0924011
+Coles Express Toronto, 133-137 Cary St, Toronto, 141, rp, false, -33.0119233, 151.5931401
+Coles Express Tweed Heads South, 71 Minjungbal Dr, Tweed Heads South, 132, r, true, -28.1946654, 153.5420890
+Coles Express Ultimo, 387-427 Wattle , Ultimo, 142, rpd, false, -33.8814834, 151.1968097
+Coles Express Umina, 1-3 Sydney Ave , Umina, 130, r, false, -33.5212303, 151.3163554
+Coles Express Wahroonga, 1601 Pacific Hwy , Wahroonga, 137, r, true, -33.7196311, 151.1165081
+Coles Express Warrawong, 26-30 King Street, Warrawong, 141, r, false, -34.4827670, 150.8869685
+Coles Express Waterloo, 867-869 South Dowling Street, Waterloo, 143, rpd, true, -33.9017062, 151.2144290
+Coles Express Wattle Grove, 115 Heathcote Rd, Wattle Grove, 137, rpd, false, -33.9464442, 150.9469075
+Coles Express Wetherill Park, 1181 The Horsley Drive, Wetherill Park, 137, r, false, -33.8496416, 150.9010633
+Coles Express Wetherill Park, 37 Elizabeth St , Wetherill Park, 140, r, true, -33.8459454, 150.8994208
+Coles Express Chatswood, 877-879 Pacific Hwy, Chatswood, 136, rp, false, -33.7917255, 151.1804828
+Coles Express Cremorne, 227 Military Rd, Cremorne, 141, rpd, true, -33.8303101, 151.2264980
+Coles Express Brookvale, 198 Harbord Rd , Brookvale, 135, rpd, true, -33.7633208, 151.2793996
+Coles Express Cabramatta, 218 John St , Cabramatta, 134, r, false, -33.8934002, 150.9220700
+Coles Express Camden, 273 Old Hume Highway, Camden, 136, rp, true, -34.0864132, 150.6946176
+Coles Express Campbelltown, 27 Queen Street, Campbelltown, 141, r, false, -34.0604494, 150.8193428
+Coles Express Doyalson North, 260 Pacific Hwy , Doyalson North, 133, rp, false, -33.1864276, 151.5482096
+Coles Express Drummoyne, 38-46 Victoria Rd, Drummoyne, 140, rp, false, -33.8557588, 151.1593072
+Coles Express Drummoyne, 39- 51 Victoria Rd, Drummoyne, 144, rp, true, -33.8560441, 151.1589382
+Coles Express Faulconbridge, 575-581 Great Western Highway, Faulconbridge, 144, rp, false, -33.6941786, 150.5374614
+Coles Express Five Dock, 213-253 Parramatta Rd , Five Dock, 139, rp, true, -33.8696229, 151.1142919
+Coles Express Forestville, 665-671 Warringah Rd , Forestville, 140, rpd, true, -33.7603233, 151.2186117
+Coles Express Annandale, 124-126 Johnston Street, Annandale, 137, rp, false, -33.8808348, 151.1706799
+Coles Express Armidale, 89-93 Marsh St, Armidale, 134, rp, true, -30.5129049, 151.6695992
+Coles Express Avalon Beach, 2 Avalon Pde , Avalon Beach, 143, r, true, -33.6364098, 151.3302939
+Coles Express Bass Hill, 884-888 Hume Hwy , Bass Hill, 135, r, false, -33.8996197, 150.9975012
+Coles Express Baulkham Hills, 4 Century Circuit, Baulkham Hills, 137, r, true, -33.7334649, 150.9626446
+Coles Express Blaxland, 126 Great Western Highway, Blaxland, 137, r, true, -33.7451049, 150.6109504
+Coles Express Gundagai, Mount St , Gundagai, 133, r, true, -35.0813346, 148.0962158
+Coles Express Halfway Creek, 4974 Pacific Highway , Halfway Creek, 129, r, false, -29.9349674, 153.0952842
+Coles Express Hastings Point, 99 Tweed Coast Rd, Hastings Point, 137, r, false, -28.3691713, 153.5726001
+Coles Express Heathcote, 1355 Princess Hwy , Heathcote, 140, r, false, -34.0877903, 151.0070655
+Coles Express Hexham, 21 Maitland Road, Hexham, 133, rpd, false, -32.8465415, 151.6932808
+Coles Express Hoxton Park, 650-652 Hoxton Park Rd, Hoxton Park, 138, r, false, -33.9253198, 150.8489548
+Coles Express Lidcombe, 18 Parramatta Road, Lidcombe, 140, rp, false, -33.8539657, 151.0592923
+Coles Express Maroubra, 959-961 Anzac Pde, Maroubra, 144, rpd, false, -33.9499291, 151.2407728
+Coles Express Marsfield, 189 Epping Rd , Marsfield, 137, r, true, -33.7828913, 151.1151747
+Coles Express Mount Annan, 241 Waterworth Drive, Mount Annan, 135, rpd, false, -34.0494355, 150.7603290
+Coles Express Narellan, 293 Camden Valley Hwy , Narellan, 136, rp, false, -34.0411702, 150.7326882
+Coles Express Neutral Bay, 200-204 Ben Boyd Rd , Neutral Bay, 139, rpd, true, -33.8291334, 151.2195275
+Coles Express North Ryde, 275 Lane Cove Rd, North Ryde, 142, r, true, -33.7955450, 151.1171033
+Coles Express North Ryde, 96 Wicks Road, North Ryde, 134, r, true, -33.7941919, 151.1268216
+Coles Express Pymble, 21 Ryde Rd, Pymble, 139, rpd, false, -33.7519745, 151.1439048
+7-Eleven Georges Hall, Corner Marion Street , Georges Hall, 128, rp, false, -33.9152138, 150.9951463
+7-Eleven Gosford West, 55 Central Coast Highway, Gosford West, 110, rp, true, -33.4269106, 151.3289226
+7-Eleven Five Dock, 231-235 Great North Road, Five Dock, 134, rp, true, -33.8648682, 151.1300733
+7-Eleven Fairfield West, 234 Hamilton Road, Fairfield West, 130, r, false, -33.8721091, 150.9372457
+7-Eleven Goulburn, 88 - 92 Clinton Street, Goulburn, 123, r, false, -34.7566371, 149.7122003
+7-Eleven Granville, 154-160 Parramatta Road , Granville, 125, rp, false, -33.8301334, 151.0102338
+7-Eleven Granville East, Lot 3-4 Parramatta Road , Granville East, 124, r, true, -33.8352894, 151.0215287
+7-Eleven Green Valley, 187 Wilson Road, Green Valley, 126, r, true, -33.9076694, 150.8668749
+7-Eleven Emu Plains, 126-128 Old Bathurst Road , Emu Plains, 126, rpd, true, -33.7429882, 150.6547009
+7-Eleven Emu Plains, 49-51 Great Western Highway, Emu Plains, 132, r, true, -33.7465302, 150.6762172
+7-Eleven Epping, 246 Beecroft , Epping, 126, rpd, false, -33.7707857, 151.0806470
+7-Eleven Erina, 214 The Entrance Road, Erina, 112, r, false, -33.4350293, 151.3877654
+7-Eleven Fairfield, 320 Polding Street, Fairfield, 133, r, true, -33.8594757, 150.9228010
+7-Eleven Casula, 2355 Camden Valley Way , Casula, 121, rp, false, -33.9576135, 150.8847105
+7-Eleven Cranebrook, 212-222 Andrews , Cranebrook, 133, rpd, false, -33.7305081, 150.6951518
+7-Eleven Dee Why, 940 Pittwater Road , Dee Why, 132, rpd, false, -33.7491270, 151.2902720
+7-Eleven Drummoyne, 271A Victoria Road, Drummoyne, 132, r, false, -33.8472064, 151.1514389
+7-Eleven Edensor Park, Corner Elizabeth , Edensor Park, 128, rp, false, -33.8867152, 150.8729566
+7-Eleven Edgeworth, 745 Main Road, Edgeworth, 129, rp, false, -32.9235092, 151.6213670
+7-Eleven Edmondson Park, 1962 Camden Valley Way, Edmondson Park, 130, rp, true, -33.9537805, 150.8563431
+7-Eleven Albion Park Rail, 138-142 Princes Highway, ALBION PARK RAIL, 138, r, false, -34.5589855, 150.7935833
+7-Eleven Albion Park Rail, 47-57 Princess Highway, ALBION PARK RAIL, 139, rp, true, -34.5535166, 150.7897147
+7-Eleven Argenton, 503 Lake Road, Argenton, 128, rp, false, -32.9354367, 151.6306899
+7-Eleven Arncliffe, 28 Princes Highway, Arncliffe, 122, rp, false, -33.9343548, 151.1524950
+7-Eleven Artarmon, 477 Pacific Highway, Artarmon, 132, rpd, true, -33.8105265, 151.1776663
+7-Eleven Ashfield, 132 Hume Highway , Ashfield, 126, rp, false, -33.8905084, 151.1295882
+7-Eleven Bankstown, 180 Stacey , Bankstown, 124, r, false, -33.9214482, 151.0392609
+7-Eleven Baulkham Hills, 217-219 Seven Hills Road, Baulkham Hills, 125, rpd, true, -33.7554992, 150.9634245
+7-Eleven Belmont North, 378 Pacific Highway, Belmont North, 124, rpd, true, -33.0226544, 151.6643338
+7-Eleven Belmore, 792-794 Canterbury Road Chapel Street, Belmore, 132, r, true, -33.9268545, 151.0878087
+7-Eleven Berkeley, 47 Nolan Street , Berkeley, 136, rp, true, -34.4768182, 150.8394484
+7-Eleven Berowra, 965-969 Pacific Highway , Berowra, 132, r, false, -33.6267912, 151.1480497
+7-Eleven Bexley, 474 Forest Road, Bexley, 121, rpd, true, -33.9515238, 151.1251976
+7-Eleven Bexley, 611-615 Mimosa Street , Bexley, 120, rpd, false, -33.9555417, 151.1184361
+7-Eleven Blacktown East, 56 Leabons Lane , Blacktown East, 123, rp, true, -33.7801932, 150.9207246
+7-Eleven Blaxland, 139 Great Western Highway , Blaxland, 134, rpd, true, -33.7441113, 150.6098266
+7-Eleven Bligh Park, 735 George Street, Bligh Park, 128, rp, false, -33.6364679, 150.7838938
+7-Eleven Bonnyrigg, 140 Edensor , Bonnyrigg, 129, r, true, -33.8839695, 150.8919692
+7-Eleven Burwood, Cnr Parramatta , Burwood, 131, rp, false, -33.8690206, 151.1063497
+7-Eleven Campbelltown, 71 Blaxland Road, Campbelltown, 129, rpd, false, -34.0613305, 150.8100161
+7-Eleven Campbelltown, 96 Queen , Campbelltown, 130, r, false, -34.0639792, 150.8170232
+7-Eleven Cardiff, 397 Main Road , Cardiff, 128, rp, true, -32.9339267, 151.6562059
+7-Eleven Carlingford, 243 Pennant Hills Road, Carlingford, 128, r, true, -33.7829651, 151.0456268
+7-Eleven Carlton, 439 Princes Highway , Carlton, 128, r, false, -33.9805275, 151.1191584
+7-Eleven Greenacre, 301-305 Hume Highway , Greenacre, 126, rp, true, -33.9049769, 151.0420027
+7-Eleven Gregory Hills, 1, Gregory Hills, 134, r, false, -33.9505254, 151.0775461
+7-Eleven Guildford, 272-278 Woodville Road, Guildford, 132, rp, false, -33.8481600, 150.9968774
+7-Eleven Guildford West, 534 Guildford Road West , Guildford West, 130, r, false, -33.8515808, 150.9722602
+7-Eleven Haberfield, 25 Parramatta Road, Haberfield, 126, rpd, false, -33.8879719, 151.1428271
+7-Eleven Heatherbrae, 369 Pacific Highway, Heatherbrae, 114, rp, false, -32.7911326, 151.7249819
+7-Eleven Ingleburn, 63 Oxford , Ingleburn, 124, r, false, -34.0004250, 150.8679510
+7-Eleven Karabar, 2 Southqueen Pl, KARABAR, 131, rp, true, -35.3714043, 149.2328135
+7-Eleven Kellyville, 54 - 56 Windsor Road, Kellyville, 133, rpd, false, -33.7123563, 150.9570123
+7-Eleven Kensington, 110 Anzac Parade , Kensington, 130, rp, true, -33.9076396, 151.2238089
+7-Eleven Kensington, 131 Anzac Parade , Kensington, 129, rp, false, -33.9102752, 151.2229147
+7-Eleven Killara, 494 Pacific Hwy, Killara, 132, r, true, -33.7701345, 151.1605034
+7-Eleven Kingswood, 127 Great Western Highway , Kingswood, 126, rp, false, -33.7598762, 150.7265652
+7-Eleven Kirrawee, 542 Princes Highway, Kirrawee, 121, rp, false, -34.0314987, 151.0766346
+7-Eleven Kogarah, 736 Princes Highway , Kogarah, 124, rpd, true, -33.9641162, 151.1375866
+7-Eleven Lake Illawarra, 2 - 4 Peterborough Avenue, Lake Illawarra, 132, rp, true, -34.5438601, 150.8636236
+7-Eleven Lakemba, 222 King Georges Rd , Lakemba, 128, rpd, false, -33.9336163, 151.0736108
+7-Eleven Lane Cove, 203 Burns Bay Road, Lane Cove, 125, r, false, -33.8145601, 151.1544523
+7-Eleven Lansvale South, 44 Hume Highway , Lansvale South, 124, rp, true, -33.8917225, 150.9656593
+7-Eleven Lindfield, 238 Pacific Highway, Lindfield, 130, rpd, false, -33.7788871, 151.1690679
+7-Eleven Lisarow, 911 Pacific Highway, Lisarow, 122, rpd, false, -33.3844515, 151.3673350
+7-Eleven Liverpool, 95 Elizabeth Drive , Liverpool, 123, rp, true, -33.9182506, 150.9160168
+7-Eleven Long Jetty, 184-186 The Entrance Rd , Long Jetty, 125, rp, true, -33.3509529, 151.4925179
+7-Eleven Marks Point, 770 Pacific Highway , Marks Point, 125, rp, true, -33.0563480, 151.6534463
+7-Eleven Maroubra, 1 Meagher Ave , Maroubra, 136, rpd, true, -33.9512854, 151.2492487
+7-Eleven Matraville, 515 Bunnerong Road, Matraville, 133, rpd, false, -33.9594286, 151.2318742
+7-Eleven Menai, Corner Allison Crescent , Menai, 129, r, true, -34.0139088, 151.0176113
+7-Eleven Merrylands, 295-297 Merrylands Road , Merrylands, 129, r, true, -33.8353835, 150.9852268
+7-Eleven Minto, Lot 1 Ben Lomond Road, Minto, 131, rpd, true, -34.0322558, 150.8502650
+7-Eleven Mona Vale, 24 Barrenjoey Road , Mona Vale, 128, rp, true, -33.6768509, 151.3082461
+7-Eleven Mosman, 162A Spit Road , Mosman, 137, rp, true, -33.8175994, 151.2433280
+7-Eleven Mosman, 45 Spit Road, Mosman, 133, rp, true, -33.8230398, 151.2436468
+7-Eleven Mount Pritchard, 352 Elizabeth Drive , Mount Pritchard, 129, r, false, -33.9025160, 150.8962172
+7-Eleven Mount Pritchard, 464 Cabramatta Road West, Mount Pritchard, 130, rp, false, -33.8973645, 150.9129022
+7-Eleven Narrabeen, 1234 Pittwater Road, Narrabeen, 134, rp, true, -33.7194972, 151.2983082
+7-Eleven Narrabeen, 1497 Pittwater Road , Narrabeen, 125, rpd, false, -33.7079296, 151.2964925
+7-Eleven Newport, 307-311 Barrenjoey Road , Newport, 135, r, false, -33.6564017, 151.3181679
+7-Eleven North Ryde, 400 Lane Cove Road, North Ryde, 127, rp, true, -33.7850497, 151.1284429
+7-Eleven Northmead, 137 Windsor Road, Northmead, 132, rp, true, -33.7822271, 150.9970736
+7-Eleven Northmead, 56 Windsor Road , Northmead, 134, rp, false, -33.7908799, 150.9968192
+7-Eleven Paddington, 25 Oxford Street, Paddington, 130, r, false, -33.8828565, 151.2201442
+7-Eleven Pendle Hill, 217 Wentworth Avenue , Pendle Hill, 127, r, false, -33.8017177, 150.9578032
+7-Eleven Penrith, 30 Henry Street, Penrith, 129, r, false, -33.7541623, 150.7045931
+7-Eleven Penrith, 588 High Street, Penrith, 125, r, false, -33.7526110, 150.6912650
+7-Eleven Penrith South, 15-19 Aspen Street, Penrith South, 128, rpd, true, -33.7772772, 150.7107235
+7-Eleven Penshurst, 612 Forest Road, Penshurst, 123, rp, true, -33.9615196, 151.0795025
+7-Eleven Petersham, 8 - 10 Crystal Street, Petersham, 124, rpd, true, -33.8886637, 151.1586275
+7-Eleven Prairiewood, 485 - 487 Smithfield Road, Prairiewood, 131, r, false, -33.8709802, 150.9031136
+7-Eleven Revesby, 275 Canterbury Road , Revesby, 122, rpd, false, -33.9366979, 151.0212672
+7-Eleven Revesby South, 102 Milperra Rd, REVESBY, 129, rp, false, -33.9359628, 151.0093750
+7-Eleven Riverwood, 30 Bonds Road , Riverwood, 132, r, true, -33.9523570, 151.0583220
+7-Eleven Rockdale, 293 West Botany Street , Rockdale, 123, rp, false, -33.9499087, 151.1484909
+7-Eleven Rockdale, 99 Railway Street , Rockdale, 131, rpd, false, -33.9524240, 151.1355463
+7-Eleven Roseville, Corner Pacific Highway , Roseville, 128, rpd, true, -33.7852680, 151.1777488
+7-Eleven Rozelle, 178-184 Victoria Road , Rozelle, 129, rp, false, -33.8629534, 151.1680570
+7-Eleven Sans Souci, 476 Rocky Point Road , Sans Souci, 122, rpd, true, -33.9907986, 151.1333295
+7-Eleven Seven Hills, 151 Prospect Hwy , Seven Hills, 125, r, true, -33.7692704, 150.9425183
+7-Eleven Shellharbour, Corner Shellharbour , Shellharbour, 124, r, true, -34.5792727, 150.8622191
+7-Eleven South Hurstville, 822 King Georges Road , South Hurstville, 122, r, true, -33.9759070, 151.1037600
+7-Eleven Strathfield South, 575-585 Liverpool Road, Strathfield South, 123, rp, false, -33.8873862, 151.0742690
+7-Eleven Thornton, 1 Glenwood Dr, THORNTON, 115, rpd, false, -32.7909145, 151.6360453
+7-Eleven Towradgi, 162 - 166 Pioneer Road, Towradgi, 138, rp, false, -34.3841655, 150.9065372
+7-Eleven Turramurra, 1408 Pacific Highway , Turramurra, 128, rp, true, -33.7331262, 151.1264569
+7-Eleven Tweed Heads South, Home Mart Centre Lot1 Minjungbal Drive, Tweed Heads South, 131, r, true, 1000, 1000
+7-Eleven Wahroonga, 1579 Pacific Highway , Wahroonga, 126, r, false, -33.7196912, 151.1167532
+7-Eleven Werrington, Lot 122 Dunheved Road, Werrington, 124, rpd, true, -33.7467908, 150.7430506
+7-Eleven West Ryde, 919 Victoria Road , West Ryde, 124, rp, true, -33.8091864, 151.0932421
+7-Eleven West Wollongong, Corner Crown , West Wollongong, 127, rpd, true, -34.4254450, 150.8741860
+7-Eleven Wickham, 184-188 Hannell Street, Wickham, 124, r, true, -32.9133690, 151.7580573
+7-Eleven Windsor, 12 Hawkesbury Valley Way, Windsor, 126, r, true, -33.6118058, 150.8121279
+7-Eleven Yagoona, 519 Hume Highway , Yagoona, 121, rpd, false, -33.9075692, 151.0207113
+Speedway Austral, 394 Fifteenth Ave, Austral, 132, rp, true, -33.9194171, 150.8144195
+BP Dundas, 256 Kissing Point Rd, Dundas, 131, r, false, -33.7989744, 151.0545272
+United Petroleum Dee Why, 1 The Strand, Dee Why, 131, rp, false, -33.7554854, 151.2961837
+United Petroleum East Maitland, 250 Newcastle Road, East Maitland, 126, rpd, false, -32.7543336, 151.5880323
+United Turvey Park, 31 Bourke St, Turvey Park, 122, r, false, -35.1262538, 147.3546578
+United Glen Innes, Corner of New England Highway , Glen Innes, 125, rp, true, -29.7426104, 151.7373410
+United Petroleum Grafton Fourway, 105 Bent Street, Grafton Fourway, 125, r, true, 1000, 1000
+United Petroleum Maitland, Les Darcy Drive, Maitland, 126, rpd, true, -32.7414389, 151.5603900
+United Petroleum Mayfield, 40 Industrial Drive, Mayfield, 126, rp, true, -32.8974897, 151.7518603
+United Petroleum Medlow Bath, 90-92 Great Western Highway, Medlow Bath, 127, rp, true, -33.6786016, 150.2823142
+United Petroleum Metford, 114 Chelmsford Drive, Metford, 127, rp, false, -32.7663353, 151.6118511
+United Petroleum Minto, 6 Swettenham Road, Minto, 122, rpd, false, -34.0300727, 150.8318920
+United Petroleum Mullaway, 2910 Pacific Highway, Mullaway, 131, rpd, true, -30.0766689, 153.1884629
+United Petroleum North Richmond, 81-87 Bells Line of Road, North Richmond, 118, rpd, true, -33.5788615, 150.7181727
+United Petroleum North Wyong, 359 Pacific Highway, North Wyong, 132, rp, true, -33.2700207, 151.4426810
+United Petroleum Nowra, 86 Princes Highway, Nowra, 91, rp, false, -34.8810773, 150.6044228
+United Petroleum Singleton, 59 John Street, Singleton, 135, rpd, false, -32.5674417, 151.1653115
+United Petroleum Tweed Heads, 61 Warf St, Tweed Heads, 128, rp, false, -28.1722956, 153.5428296
+United Petroleum Sutton, 1542 Federal Highway Service Road, Sutton, 133, rp, false, -35.1846080, 149.2314356
+United Petroleum Merewether, Cnr Patrick , Merewether, 128, rpd, true, -32.9407313, 151.7610441
+United Petroleum Tomerong, Lot 6 Princes Highway, Tomerong, 122, rpd, false, -35.3122645, 150.4335021
+United Petroleum Whittingham, Lot 2 New England Highway, Whittingham, 134, r, false, -32.6405775, 151.2313050
+United Petroleum Woolgoolga, 58 Clarence Street, Woolgoolga, 131, rpd, false, -30.1103711, 153.1907003
+United Petroleum Wyee, Main Rd , Wyee, 125, r, true, -33.1012616, 151.5015592
+United Petroleum Dee Why Pittwater, 625 Pittwater Road, Dee Why, 128, r, true, -33.7557896, 151.2827150
+United Petroleum Lethbridge Park, 400 Luxford Road, Lethbridge Park, 126, rp, false, -33.7368412, 150.7983674
+United Petroleum East Blaxland, 67 Old Bathurst Road, East Blaxland, 133, rpd, true, -33.7460386, 150.6224537
+United Petroleum Casino, 136-144 Johnston Street, Casino, 120, r, true, -28.8604757, 153.0620664
+United Petroleum Kemps Creek, 1465-1467 Elizabeth Drive, Kemps Creek, 119, r, false, -33.8792121, 150.7889329
+United Petroleum Tweed Heads, 6 Minjungbal Drive, Tweed Heads, 131, r, false, -28.1958949, 153.5440622
+United Petroleum Coffs Central, 165 Pacific Highway, Coffs Central, 133, r, false, -30.2903230, 153.1211200
+United Petroleum Empire Bay, 306 Empire Drive, Empire Bay, 128, r, false, -33.5081283, 151.3717533
+United Petroleum Wagga Wagga, 122 Hammond Avenue, Wagga Wagga, 122, rpd, true, -35.1225581, 147.3920782
+United Petroleum Budgewoi, 67-71 Scenic Drive, Budgewoi, 121, rp, true, -33.2342822, 151.5555130
+United Petroleum Wilberforce, 539 Wilberforce Rd, WILBERFORCE, 128, r, false, -33.5630256, 150.8384028
+United Petroleum Coffs Harbour, 316 Harbour Drive, Coffs Harbour, 130, rpd, true, -30.3058084, 153.1321928
+Metro Fuel Young, 186 Nasmyth St, Young, 128, rpd, true, -34.3096988, 148.2911613
+Metro Petroleum Earlwood, 281 Homer St, EARLWOOD, 113, rpd, true, -33.9263842, 151.1276886
+BP Botany, 1579 Botany Road, Botany, 124, rpd, false, -33.9525610, 151.2012060
+BP Katoomba, 199 Great Western Highway, Katoomba, 130, r, false, -33.7070468, 150.3168687
+BP Wentworth Falls, 340 Great Western Highway, Wentworth Falls, 138, rp, false, -33.7113143, 150.3601156
+Metro Fuel Williamtown, 3 Williamtown Dr, Williamtown, 117, rpd, false, -32.8116701, 151.8433439
+Metro Petroleum Goulburn, 61-68 Clinton Street, GOULBURN, 109, rpd, false, -34.7572564, 149.7140998
+Enhance West Wollongong, 505 Crown St, West Wollongong, 120, rp, true, -34.4255018, 150.8725123
+Independent Five Ways Servo Tumut, 3 Blowering Rd, TUMUT, 123, r, true, -35.3112903, 148.2306955
+Caltex Ulladulla, Princes Hwy Cnr Deering St, Ulladulla, 122, r, true, 1000, 1000
+BP Hamilton South, 67 Stewart Avenue, Hamilton South, 126, r, false, -32.9321179, 151.7534136
+West Yagoona BP, 740 Hume Highway, Yagoona, 131, rp, false, -33.9048797, 151.0114633
+BP Chipping Norton, 7-9 Newbridge Road, Chipping Norton, 130, r, false, -33.9283919, 150.9772006
+Budget Telopea, 57 Adderton Road, Telopea, 123, rp, true, -33.7934044, 151.0412483
+BP Smeaton Grange, 1 Dunn Road, Smeaton Grange, 130, rpd, false, -34.0327499, 150.7563412
+BP Condell Park, 228 Edgar Street, Condell Park, 131, rpd, true, -33.9224335, 151.0125837
+Caltex East Ballina, 30 Links Ave, EAST BALLINA, 121, rpd, true, -28.8500975, 153.5829316
+Caltex Starmart Brookvale, 740-742 Pittwater Rd, BROOKVALE, 135, r, false, -33.7614677, 151.2745320
+BP Thornton, 5 Glenwood Drive, Thornton, 122, rp, false, -32.7899706, 151.6350365
+Independent Casula, 572-574 Hume Hwy, Casula, 118, r, true, -33.9508807, 150.9045131
+Caltex Wallacia, 2510 Silverdale Road, Wallacia, 130, rpd, false, -33.8748179, 150.6184097
+United Cromer, 189 South Creek Rd, Cromer, 137, rpd, false, -33.7361527, 151.2803635
+BP Connect Artarmon, 422 Pacific Hwy, Artarmon, 140, r, true, -33.8111359, 151.1757105
+Budget Petrol St Helens Park, 24 Wooland Rd, St Helens Park, 125, rpd, false, -34.0973916, 150.8134677
+Speedway Meadows, 359 Elizabeth Drive, Mount Pritchard, 120, rpd, true, -33.9021037, 150.8968077
+United Petroleum Waterloo, 941-953 Burke Road, Waterloo, 126, rp, true, -33.9019095, 151.2082286
+Budget Dulwich Hill, 299-303 Wardell Rd, Dulwich Hill, 124, r, false, -33.9128546, 151.1384075
+Caltex Wyee, 105 Wyee Road, Wyee, 123, rpd, false, -33.1751725, 151.4808067
+Coles Express Padstow, 19 Davies Road, Padstow, 134, r, false, -33.9485613, 151.0377200
+Coles Express Taren Point, 102-108 Taren Point Road, Taren Point, 134, rp, true, -34.0202262, 151.1221591
+Coles Express Randwick, Frenchmans Rd , Randwick, 141, rp, true, -33.9081512, 151.2481473
+Coles Express Woolloomooloo, 61-63 Cowper Wharf Rd , Woolloomooloo, 145, rp, false, -33.8696141, 151.2212242
+Coles Express Greenacre, 9-11 Roberts Road, Greenacre, 131, rpd, false, -33.8943744, 151.0667306
+Coles Express Brighton-Le-Sands, 2-6 General Holmes Drive, Brighton-Le-Sands, 141, r, true, -33.9579238, 151.1575677
+Coles Express Baulkham Hills, 363 Windsor Rd , Baulkham Hills, 133, rpd, true, -33.7601992, 150.9915984
+Coles Express Cammeray, 477-483 Miller St , Cammeray, 147, rp, false, -33.8213111, 151.2107863
+Coles Express Carlton, 277-281 Princes Highway, Carlton, 134, rp, true, -33.9749314, 151.1272666
+Coles Express Bexley, 306-312 Forest Road , Bexley, 137, rpd, false, -33.9464409, 151.1283728
+Coles Express Alexandria, 562-572 Botany Rd, Alexandria, 144, rpd, false, -33.9157291, 151.2001355
+Coles Express Merrylands, 398 Merrylands Rd , Merrylands, 134, rp, true, -33.8342649, 150.9775455
+Coles Express Hurstville, 396-404 Forest Road, Hurstville, 139, rp, false, -33.9648828, 151.0990431
+Coles Express Jamisontown, Mulgoa Road , Jamisontown, 136, rp, false, -33.7703384, 150.6746117
+Coles Express Greystanes, Merrylands Road , Greystanes, 132, r, false, -33.8297202, 150.9488800
+Coles Express Greenacre, 74 Roberts Road, Greenacre, 134, rp, true, -33.8921004, 151.0663697
+Coles Express Green Valley, Cowpasture Rd , Green Valley, 133, rp, false, -33.9023527, 150.8552873
+Coles Express Stanmore, 308-310 Parramatta Road, Stanmore, 135, rp, false, -33.8884427, 151.1641479
+Dome Service Station, 1190 Burragorang Rd, The Oaks, 122, r, false, -34.0749674, 150.5385871
+Coles Express Guildford, 295 Woodville Rd, Guildford, 133, rpd, false, -33.8509131, 150.9970341
+Independent Tenterfield, 104 Rouse St, Tenterfield, 133, r, false, -29.0614986, 152.0173269
+Coles Express Strathfield South, 630-634 Liverpool Road, Strathfield South, 134, rp, false, -33.8867256, 151.0709423
+Coles Express Randwick, 54 Alison Road, Randwick, 143, rp, true, -33.9080666, 151.2341511
+Coles Express Bondi Junction, 120-138 Birrell Street, Bondi Junction, 140, rpd, false, -33.8956285, 151.2485338
+Coles Express Narrabeen, 1418 Pittwater Rd, Narrabeen, 140, r, false, -33.7135062, 151.2972371
+Coles Express Lane Cove, 378 Pacific Hwy , Lane Cove, 143, rpd, false, -33.8140490, 151.1768514
+Metro Fuel Hornsby, 275 Pacific Highway, Hornsby, 130, rpd, false, -33.6910592, 151.0995453
+Coles Express Liverpool, 338-340 Hume Highway, Liverpool, 138, rp, true, -33.9313644, 150.9176996
+Caltex Dungog, 23 Hooke Street, Dungog, 128, rp, false, -32.3994550, 151.7573550
+Coles Express Picton, 93-99 Argyle Street, Picton, 146, rpd, false, -34.1685559, 150.6115448
+Coles Express Fairfield, 436-438 The Horsley Dve , Fairfield, 139, rp, false, -33.8637965, 150.9536995
+Coles Express South Hurstville, 835 King Georges Road, South Hurstville, 139, rpd, true, -33.9785931, 151.1054985
+Caltex Gwynneville, 162 Gipps Rd, Gwynneville, 129, r, true, -34.4162331, 150.8849283
+Speedway Bankstown, 49 Canterbury Rd, Bankstown, 122, rp, false, -33.9327995, 151.0396531
+Coles Express Berkshire Park, 746-752 Richmond Road, Berkshire Park, 134, rpd, false, -33.6645882, 150.7997014
+Metro St Andrews, 95 Ballantrae Drive, St Andrews, 125, r, false, -34.0207225, 150.8331980
+Coles Express Canley Vale, 65-99 Hume Highway, Canley Vale, 137, r, false, -33.8929887, 150.9606219
+Coles Express Ramsgate, 274-276 Grand Parade , Ramsgate, 136, r, false, -33.9854492, 151.1471811
+Coles Express Rouse Hill, 43 Panmure Rd , Rouse Hill, 140, r, true, -33.6828426, 150.9163622
+Coles Express Smithfield, 678 The Horsley Drv , Smithfield, 138, rp, true, -33.8537341, 150.9400217
+Coles Express Taren Point, 99 Parraweena Rd , Miranda, 131, rpd, false, -34.0262979, 151.1200922
+Coles Express Pagewood, 297-299 Bunnerong Road, Pagewood, 141, r, true, -33.9405793, 151.2287220
+BP Connect Rozelle, Cnr Victoria Rd , Rozelle, 139, rpd, true, -33.8638872, 151.1702411
+7-Eleven Jamisontown, 92 Mulgoa Road , Jamisontown, 126, r, false, -33.7664087, 150.6794357
+7-Eleven Regentville, 36 Mulgoa Road, Regentville, 134, rpd, false, -33.7750402, 150.6660226
+Coles Express Maitland, 233 High St , Maitland, 134, r, true, -32.7392113, 151.5619836
+Coles Express Rutherford, 118 New England Hwy, Rutherford, 137, rpd, false, -32.7209647, 151.5394111
+Coles Express Wollongong West, 434 Crown St, Wollongong West, 133, r, true, -34.4251468, 150.8735124
+Coles Express Wollongong, 142-148 Corrimal St, Wollongong, 126, r, true, -34.4287147, 150.8989325
+Speedway North Ryde, 118 Coxs Road, North Ryde, 129, rpd, true, -33.8014883, 151.1303335
+BP Connect Regent Street, 116 Regent Street, Redfern, 134, rpd, true, -33.8936314, 151.1995945
+BP Connect Naremburn, 169 Willoughby Road, Naremburn, 139, r, true, -33.8199672, 151.2011604
+Caltex Muswellbrook (Sydney St), 12-16 Sydney Street, MUSWELLBROOK, 130, rp, false, -32.2678114, 150.8879560
+Coles Express Griffith, 121 Banna Avenue, Griffith, 138, r, false, -34.2883465, 146.0512931
+Independent Salt Ash, 3 Salt Ash Ave, Salt Ash, 124, rp, true, -32.7885361, 151.9030444
+Independent Dalmeny, 69 Mort Avenue, Dalmeny, 131, rpd, false, -36.1646386, 150.1257567
+BP Fairy Meadow, Northgate Ctr 224 Princess Hway, Fairy Meadow, 143, rp, false, -34.4035853, 150.8916958
+United Petroleum Viney Creek, 51 Pacific Highway, Viney Creek, 77, rpd, false, -32.6149013, 152.0802321
+Metro Glossodia, 450 Creek Ridge Road, GLOSSODIA, 124, r, false, -33.5457372, 150.7946123
+Caltex Mount Pritchard, 472 Cabramatta Rd, MOUNT PRITCHARD, 130, rpd, true, -33.8970376, 150.9123508
+Metro Padstow, 69 Davies Road, Padstow, 119, rp, true, -33.9510689, 151.0387597
+Metro Marrickville, 103 Sydemham Road, Marrickville, 117, rp, true, -33.9101975, 151.1633930
+Nemingha Fuels, 1049 Armidale Rd, NEMINGHA, 130, rp, true, -31.1240308, 150.9906971
+Medco Windale, 4 Lake Street, Windale, 117, rp, false, -32.9925200, 151.6831184
+Independent Teralba, 63 York St, Teralba, 133, r, false, -32.9634362, 151.6050271
+Shell Mudgee, 56 A Sydney Road, Mudgee, 127, rp, false, -32.6113800, 149.6026819
+Caltex Metro Bow Bowing, 101 Campbelltown Rd, MINTO, 118, rp, true, -34.0237804, 150.8351193
+Metro Fuel Lidcombe, 24 Railwayst, Lidcombe, 121, rp, false, -33.8646997, 151.0457026
+Shell Junee, 1 Illabo Road, Junee, 136, r, false, -34.8588372, 147.5853878
+Speedway Caringbah, 66 Captain Cook Drive, Caringbah, 120, rpd, false, -34.0327784, 151.1239950
+Caltex Star Mart Bondi, 51 Bondi Rd, BONDI, 134, r, true, -33.8937297, 151.2601116
+Caltex Woolworths Carlingford, 131 Pennant Hills Rd, CARLINGFORD, 134, r, true, -33.7876133, 151.0279186
+Independent Sydenham, 31-35 Unwins Bridge, Sydenham, 119, rp, false, -33.9147179, 151.1684514
+Caltex Homebush, 334-336 PARRAMATTA Road, Homebush, 130, rp, true, -33.8581667, 151.0681389
+Caltex Kensington, 211-213 Anzac Parade, KENSINGTON, 133, rpd, false, -33.9144578, 151.2251270
+Caltex Kellyville, 3-5 Windsor Rd, KELLYVILLE, 132, rpd, false, -33.7144809, 150.9602284
+Caltex Starmart Manly, 86 Pittwater Rd, MANLY, 131, rp, false, -33.7930688, 151.2858020
+Caltex Cambridge, Lot 6 Star Court, CAMBRIDGE PARK, 128, rpd, true, -33.7406706, 150.7170756
+Caltex Woolworths Rosebery, 321 Gardeners Rd, ROSEBERY, 135, r, true, -33.9229812, 151.2060166
+Caltex Starmart Lakemba, 516 Punchbowl Rd, LAKEMBA, 134, rpd, false, -33.9112209, 151.0732780
+Caltex Warrawong, 75-77 King St, WARRAWONG, 131, rp, true, -34.4903812, 150.8888150
+BP Padstow, 9 Davies Rd, Padstow, 116, r, true, -33.9472553, 151.0370605
+Independent Kingscliff, 22-26 Pearl Street, Kingscliff, 129, r, false, -28.2564011, 153.5749580
+Caltex Penrith, 153 Coreen Ave Cnr Castlereagh Rd, Penrith, 135, r, true, -33.7438568, 150.6922791
+Caltex Woolworths Revesby, 181 The River Rd, REVESBY, 134, rpd, true, -33.9558363, 151.0172537
+Budget Kogarah, 3 Railway Pde, Kogarah, 118, rp, true, -33.9616899, 151.1332580
+Budget Moorebank, 68 Nuwarra Road, Moorebank, 126, rp, false, -33.9300072, 150.9557575
+Caltex Woolworths Miranda, Cnr The Kingsway , Miranda, 131, rpd, true, -34.0342080, 151.1030099
+BP Maraylya, 415 Boundary Road, Maraylya, 143, r, true, -33.5936670, 150.9168548
+Caltex Gregory Hills, 1 Gregory Hills Drive, Gledswood Hills, 131, r, true, -34.0199265, 150.7630278
+Caltex Kingsford, 603-611 Anzac Pde Cnr Snape St, Kingsford, 152, r, false, -33.9342167, 151.2371558
+Caltex Albion Park Rail, 31 Princes Hwy, Albion Park Rail, 138, rpd, true, -34.5518147, 150.7880686
+Caltex Hornsby Heights, 110 Galston Rd., Hornsby Heights, 141, rp, true, -33.6764940, 151.0984700
+Independent Mudgee, 50 Sydney Road, Mudgee, 142, r, true, -32.6112369, 149.6015505
+Coles Express Tweed Heads, 34 Wharf St , Tweed Heads, 132, rpd, false, -28.1732617, 153.5431984
+Westside Long Jetty, 290 The Entrance Road, Long Jetty, 126, rp, false, -33.3568690, 151.4862292
+Caltex Bomaderry, 246 Princes Hwy, Bomaderry, 128, rp, true, -34.8382207, 150.5957069
+Caltex Rutherford, 134-138 New England Highway, RUTHERFORD, 132, r, true, -32.7203857, 151.5383280
+United Petroleum Beresfield, 261 Anderson Drive, Beresfield, 115, rp, true, -32.7992337, 151.6450448
+Erowal Bay General Store, 42 Naval Pde, EROWAL BAY, 134, rpd, false, -35.0993433, 150.6507378
+Caltex Bomaderry, 1-3 Beinda St, Bomaderry, 127, rpd, false, -34.8576804, 150.6052341
+Caltex Woolworths Moorebank, Cnr Dredge , Moorebank, 132, r, true, -33.9318599, 150.9490821
+Hillston Hardware Mobil Service Station, 8 Grattan St, HILLSTON, 125, rpd, true, -33.4882581, 145.5332816
+United Prairiewood, 522 Smithfield Road, Prairiewood, 131, rpd, true, -33.8722342, 150.9000775
+Metro Kurri Kurri, Victoria Street, Kurri Kurri, 117, rpd, false, -32.8208023, 151.4846119
+Independent Black Mountain, 3174 New England Hig, Black Mountain, 134, rpd, false, 1000, 1000
+Coles Express Kingsford, 48-56 Gardeners Road, Kingsford, 140, rp, true, -33.9250460, 151.2256833
+Caltex Rutherford West, 387 New England Hwy, RUTHERFORD, 129, rp, false, -32.7079023, 151.5073764
+Independent Glenfield, Campbelltown, Glenfield, 132, rpd, true, -33.9650000, 150.8930000
+Metro Fuel Heddon Greta, 81/83 Main Road, Heddon Greta, 117, r, true, -32.8053284, 151.5070839
+BP Shalvey, 481 Luxford Road, Shalvey, 134, r, true, -33.7294820, 150.8052847
+BP Revesby, 196 The River Road, Revesby, 135, r, false, -33.9556495, 151.0165261
+BP Wauchope, 210 High St, WAUCHOPE, 139, r, true, -31.4667143, 152.7192308
+Metro Bonnyrigg, 709 Cabramatta Road, Bonnyrigg, 109, r, false, -33.8930954, 150.8923798
+7-Eleven Moorebank, 102 Heathcote Road, Moorebank, 126, r, false, -33.9381501, 150.9400069
+Caltex Richmond, 98 March St, RICHMOND, 131, rpd, false, -33.5994545, 150.7513159
+BP Macquarie Fields, 72 Harold St, Macquarie Fields, 135, r, true, -33.9850620, 150.8935134
+Independent Weethalle, 47 Railway Street, Weethalle, 134, rpd, false, -33.8751155, 146.6228813
+7-Eleven Hassall Grove, 795 Luxford Road , Hassall Grove, 125, r, false, -33.7353279, 150.8366605
+7-Eleven Emerton, 135-137 Popondetta Road, Emerton, 131, rp, false, -33.7446329, 150.8102848
+Shell Helensburgh, 149 - 151 Parkes Street, Helensburgh, 135, rp, true, -34.1923397, 150.9777831
+7-Eleven Ryde, 326-328 Blaxland Road, Ryde, 124, rp, true, -33.8025134, 151.1003356
+Coles Express Wallsend, 15 Thomas St , Wallsend, 129, rp, true, -32.9071440, 151.6689876
+Coles Express Belmont South, 797 Pacific Hwy, Belmont South, 129, rp, false, -33.0587957, 151.6522899
+Coles Express Belmont, 504 Pacific Hwy , Belmont, 128, rp, false, -33.0323202, 151.6608947
+Coles Express Broadmeadow, 2 Brunker Rd, Broadmeadow, 134, rp, true, -32.9250550, 151.7363882
+Coles Express Wallsend, 14 Thomas St, Wallsend, 117, r, true, -32.9066610, 151.6692610
+Independent Thirlmere, 39 Oaks Rd, Thirlmere, 131, rpd, false, -34.2013683, 150.5608786
+BP Connect Chinderah Bypass, 68-89 Ozone Street, Chinderah, 140, rpd, true, -28.2438787, 153.5571671
+Metro Petroleum Keiraville, 270 Gipps Rd, KEIRAVILLE, 121, rp, false, -34.4147320, 150.8751337
+Mobil Independent, 317A Pacific Hwy, Highfields, 121, rp, false, -32.9565326, 151.7057541
+Budget Erskineville, 25-33 Erskineville Road, ERSKINEVILLE, 124, r, true, -33.8988878, 151.1821510
+BP Connect Kennedy Drive, Cnr Kennedy Dve , Tweed Heads, 138, r, true, -28.1852096, 153.5334958
+Independent Lake Cargelligo, 108 Canada St, Lake Cargelligo, 129, rp, false, -33.2930502, 146.3725186
+Independent Tyndale, 2848 Pacific Highway, Tyndale, 126, rpd, false, -29.5606755, 153.1491700
+Budget Randwick, 8-10 Perouse Rd, Randwick, 124, r, false, -33.9189900, 151.2421524
+BP Yamba - The Bait Place, 11 Yamba Road, Yamba, 132, r, true, -29.4350472, 153.3441321
+Coles Express Merewether, 87 Llewellyn St , Merewether, 136, rp, true, -32.9381716, 151.7497415
+Caltex Toronto, 147 Cary St, TORONTO, 132, r, false, -33.0129149, 151.5927949
+Metro West Gosford, 57 Central Coast Hwy, WEST GOSFORD, 113, rp, true, -33.4269508, 151.3288489
+7-Eleven Adamstown, 531 - 537 Glebe Road , Adamstown, 118, rpd, false, -32.9349777, 151.7296458
+BP Horsley Park, 1642 The Horsley Dr, Horsley Park, 134, rpd, true, -33.8438207, 150.8637397
+Speedway North St Marys, 91 Glossop St, North St Marys, 122, rpd, true, -33.7609631, 150.7806577
+Metro Fuel Killarney Heights, 702-704 Warringah Road, Forestville, 125, rpd, false, -33.7617610, 151.2070510
+BP Narellan, 271 Camden Valley Way, NARELLAN, 132, rpd, false, -34.0415946, 150.7307572
+BP West Wollongong, 438 Crown St, West Wollongong, 138, rpd, true, -34.4250438, 150.8729280
+Coles Express Parklea, 484 Sunnyholt Road, Parklea, 137, r, true, -33.7296714, 150.9215754
+Independent Tamworth, 68 Duri Road, Tamworth, 126, rp, false, -31.1081816, 150.8996708
+7-Eleven Mayfield, 132 Maitland Road, Mayfield, 126, rpd, false, -32.9017321, 151.7420232
+7-Eleven Mayfield West, 412-416 Maitland Road , Mayfield West, 115, rpd, true, -32.8928091, 151.7300366
+Metro Petroleum Islington, 144 Maitland Rd, ISLINGTON, 112, rp, true, -32.9014769, 151.7416885
+Caltex Cessnock, 105 Wollombi Rd, CESSNOCK, 125, rpd, false, -32.8393601, 151.3430099
+Caltex Berrigan, 155-165 Chanter St, Berrigan, 130, rp, true, -35.6557616, 145.8015557
+Sussex Inlet Service Station, 1 Jacobs Dr, SUSSEX INLET, 136, r, false, -35.1583250, 150.5840417
+Metro Petroleum Lavington, 2/407 Wagga Road, Lavington, 112, rp, false, -36.0460546, 146.9413682
+Metro Petroleum Lakemba, 47 Lakemba Street, Belmore, 125, rp, true, -33.9137840, 151.0854640
+Independent Gunning, 56 Yass St, Gunning, 134, rpd, true, -34.7816165, 149.2683761
+Caltex Berridale, 68 Jindabyne Rd, Berridale, 137, r, false, -36.3654187, 148.8270148
+Caltex Castlereagh, 1141 Castlereagh Rd, Castlereagh, 133, r, true, -33.6692709, 150.6771910
+Caltex Elermore Vale, 52 Cardiff Road, Elermore Vale, 75, r, true, -32.9144986, 151.6723590
+BP Bondi, 185 Bondi Rd, Bondi, 131, rp, false, -33.8944035, 151.2647348
+Independent Bonny Hills, 923 Ocean Drive, Bonny Hills, 128, rpd, false, -31.5907277, 152.8393004
+BP Auburn, 179 Parramatta Road, Auburn, 124, r, false, -33.8410721, 151.0361649
+Metro St Andrews, 72 Stranraer Drive, St Andrews, 125, rpd, true, -34.0289539, 150.8279473
+Independent Roselands, 948-950 Canterbury Rd, Roselands, 131, rp, false, -33.9282074, 151.0779790
+Independent Ingleburn, 21-23 Cumberland Rd, Ingleburn, 119, rpd, true, -33.9966462, 150.8712051
+Caltex Wyong, M1 Southbound, Wyong, 126, rp, false, -33.2540870, 151.4054091
+Caltex Wollongong North, 9 Flinders St, Wollongong North, 138, r, true, -34.4150500, 150.8932117
+Caltex Eden, 159 Imlay St, Eden, 118, rp, false, -37.0631530, 149.9046370
+Caltex Cundletown, Old Pacific Highway, Cundletown, 127, rp, true, 1000, 1000
+Caltex Canley Heights, 280-286 Canley Vale Rd, Canley Heights, 126, rpd, true, -33.8838593, 150.9241242
+Caltex Brownsville, 342 Kanahooka Rd, Brownsville, 137, rp, false, -34.4859174, 150.8065645
+Caltex Bomaderry, 341 Princes Hwy, Bomaderry, 119, rp, false, -34.8456636, 150.5947423
+Caltex Bonnyrigg, Smithfield Rd Cnr Elizabeth Dr, Bonnyrigg, 133, rpd, false, -33.8883880, 150.8811669
+Caltex Kempsey South, 52 Lachlan St, Kempsey South, 122, r, true, -31.0935230, 152.8370930
+Caltex Lilli Pilli, 477-481 Port Hacking Rd, Lilli Pilli, 134, r, false, -34.0524306, 151.1215625
+Caltex Heathcote, 1403 Princes Hwy, Heathcote, 128, rpd, false, -34.0905378, 151.0041386
+Caltex Goulburn, 315 Auburn St Cnr Bradley St, Goulburn, 113, r, true, 1000, 1000
+Caltex Warners Bay, 55 King St, Warners Bay, 123, r, true, -32.9741369, 151.6475616
+Caltex Taren Point, 114 Taren Point Rd, Taren Point, 142, rp, true, -34.0206494, 151.1219560
+Caltex St Ives North, 363 Mona Vale Rd, St Ives North, 136, rp, false, -33.7168700, 151.1734779
+Caltex Raymond Terrace, Cnr Adelaide , Raymond Terrace, 142, rpd, false, -32.7624143, 151.7468993
+Caltex Punchbowl, 1285-1289 Canterbury Rd Cnr Duncan, Punchbowl, 127, rpd, true, -33.9317158, 151.0591841
+Caltex Parklea, 1190 Old Windsor Rd Near Miami St , Parklea, 130, rpd, false, -33.7251932, 150.9392537
+Caltex Merimbula, 19-25 Merimbula Drive, Merimbula, 92, rpd, true, -36.8875785, 149.9089176
+Caltex Narwee, Cnr Broadarrow , Narwee, 127, rpd, false, -33.9487065, 151.0689436
+Caltex Narellan, Narellan Rd Cnr Maxwell Pl, Narellan, 125, rpd, false, -34.0401220, 150.7435634
+Caltex Moorebank, 216 Newbridge Rd, Moorebank, 121, rp, true, -33.9294742, 150.9548624
+Caltex Macksville, Pacific Hwy, Macksville, 130, r, true, -30.7227933, 152.9276014
+7-Eleven New Lambton, 289 - 291 Turton Road , New Lambton, 128, rpd, true, -32.9177497, 151.7243849
+7-Eleven Petersham, 8 - 10 Crystal Street, Petersham, 126, r, true, -33.8886637, 151.1586275
+7-Eleven Rockdale, 99 Railway Street , Rockdale, 112, r, false, -33.9524240, 151.1355463
+7-Eleven Wahroonga, 1579 Pacific Highway , Wahroonga, 126, rp, true, -33.7196912, 151.1167532
+7-Eleven Turramurra, 1408 Pacific Highway , Turramurra, 110, r, false, -33.7331262, 151.1264569
+7-Eleven Narrabeen, 1497 Pittwater Road , Narrabeen, 131, rp, true, -33.7079296, 151.2964925
+7-Eleven Narrabeen, 1234 Pittwater Road, Narrabeen, 130, rpd, true, -33.7194972, 151.2983082
+7-Eleven Mount Pritchard, 464 Cabramatta Road West, Mount Pritchard, 119, rp, false, -33.8973645, 150.9129022
+7-Eleven Pendle Hill, 217 Wentworth Avenue , Pendle Hill, 118, rp, true, -33.8017177, 150.9578032
+7-Eleven Merrylands, 295-297 Merrylands Road , Merrylands, 118, rp, false, -33.8353835, 150.9852268
+7-Eleven Matraville, 515 Bunnerong Road, Matraville, 111, r, true, -33.9594286, 151.2318742
+7-Eleven Mona Vale, 24 Barrenjoey Road , Mona Vale, 141, rp, false, -33.6768509, 151.3082461
+7-Eleven Lakemba, 222 King Georges Rd , Lakemba, 129, rpd, false, -33.9336163, 151.0736108
+7-Eleven Arncliffe, 28 Princes Highway, Arncliffe, 117, rp, true, -33.9343548, 151.1524950
+7-Eleven Adamstown, 531 - 537 Glebe Road , Adamstown, 131, r, false, -32.9349777, 151.7296458
+7-Eleven Belmore, 792-794 Canterbury Road Chapel Street, Belmore, 133, rpd, true, -33.9268545, 151.0878087
+7-Eleven Carlton, 439 Princes Highway , Carlton, 114, rpd, false, -33.9805275, 151.1191584
+7-Eleven Drummoyne, 271A Victoria Road, Drummoyne, 122, rpd, true, -33.8472064, 151.1514389
+7-Eleven Fairfield, 320 Polding Street, Fairfield, 132, rpd, true, -33.8594757, 150.9228010
+7-Eleven Five Dock, 231-235 Great North Road, Five Dock, 137, rpd, false, -33.8648682, 151.1300733
+7-Eleven Caringbah, 367 The Kingsway , Caringbah, 133, rpd, false, -34.0393440, 151.1203632
+7-Eleven Woolooware, 192-198 The Kingsway, Woolooware, 132, rpd, false, -34.0463340, 151.1335659
+Star Mart Chinderah, Tweed Valley Way, CHINDERAH, 135, r, false, -28.2609554, 153.5213268
+7-Eleven McGraths Hill, 142 Windsor Road , McGraths Hill, 133, rp, false, -33.6167380, 150.8342260
+7-Eleven Lurnea, Corner Hoxton Park , Lurnea, 131, rp, false, -33.9265370, 150.8995549
+Coles Express Berowra, 955 Pacific Highway , Berowra, 145, r, true, -33.6282278, 151.1476475
+Coles Express Lane Cove, 378 Pacific Hwy , Lane Cove, 162, rpd, false, -33.8140490, 151.1768514
+Willawarrin General Store and Post Office, 44 Main St, WILLAWARRIN, 141, rpd, true, -30.9290723, 152.6270645
+BP Connect Kellyville, 19-21 Windsor Road, Kellyville, 136, rpd, false, -33.7128002, 150.9589397
+BP Connect Thornleigh, Cnr Pennant Hills Rd , Thornleigh, 140, rpd, false, -33.7289520, 151.0839397
+BP Shop Rutherford, 360 New England Hwy, Rutherford, 131, r, true, -32.7101530, 151.5167250
+BP South Moorebank, 80 Heathcote Road, Moorebank, 134, r, true, -33.9359390, 150.9358170
+BP Rose Bay, 777 New South Head Rd, ROSE BAY, 140, r, true, -33.8704795, 151.2690562
+BP Connect Wiley Park, 24-42 King Georges Road, Wiley Park, 136, rp, false, -33.9191753, 151.0665566
+BP Connect Woollahra, 39 Vernon Street, Woollahra, 140, rp, true, -33.8928290, 151.2504710
+BP Connect Eagle Vale, Cnr Eagle Vale Dve , Eagle Vale, 136, r, true, -34.0350072, 150.8082747
+BP Connect Carlingford, 712 Pennant Hills Road, Carlingford, 138, rp, true, -33.7637531, 151.0473629
+BP Connect Balgowlah, 485 Sydney Road, Balgowlah, 138, rpd, false, -33.7954014, 151.2559432
+BP Potts Hill Truckstop, 155-157 Rockwood Road, Yagoona, 135, rp, true, -33.8931397, 151.0385345
+BP Kemps Creek, 1443 Elizabeth Drive, Kemps Creek, 129, rpd, false, -33.8796276, 150.7916215
+BP Airds, 60 Riverside, Airds, 123, rp, false, -34.0858544, 150.8286872
+BP Express Northwood, 7-9 Northwood Road, Northwood, 140, r, false, -33.8245017, 151.1725814
+Shell Ulmarra, 29 Pacific Highway, Ulmarra, 132, rp, false, -29.6284225, 153.0300730
+BP 2Go Albion Park, 83 Princes Highway, Albion Park Rail, 146, r, true, -34.5545550, 150.7905730
+BP Redfern, 411-417 Clenveland St, Redfern, 137, rpd, true, -33.8917916, 151.2131727
+7-Eleven Castle Hill, 255 -257 Old Northern Road, Castle Hill, 132, rpd, false, -33.7347310, 151.0035726
+BP Mayfield, 286 Maitland Road, Mayfield, 121, rpd, true, -32.8971052, 151.7353566
+United Petrol Rozelle, 127 Victoria Rd, ROZELLE, 132, rp, false, -33.8619670, 151.1676530
+Caltex Strathfield South, 600 Liverpool Rd, STRATHFIELD SOUTH, 129, r, false, -33.8884839, 151.0750667
+BP Connect Mosman, Cnr Avenue , Mosman, 134, rpd, true, -33.8324852, 151.2371475
+Caltex McDougalls Hill, 4949 New England Hwy, McDougalls Hill, 139, rp, false, -32.5453616, 151.1491801
+Coles Express Yallah, 1 Macquarie Place Haywards Bay, Yallah, 143, rpd, false, -34.5412259, 150.7858123
+Coles Express Oak Flats, Lot 2 Lake Entrance Road, Oak Flats, 141, rp, true, -34.5707088, 150.8225287
+Shell Luddenham, 2140 The Northern Rd, Luddenham, 132, rp, true, -33.8833620, 150.6933191
+BP Express Mosman, 175 Ourimbah Road, Mosman, 138, rp, true, -33.8209621, 151.2333193
+Speedway Northwood, Northwood Road, Northwood, 132, r, true, -33.8286314, 151.1775486
+Metro Fuel Marrickville, 93-99 Addison Road, Marrickville, 117, rp, false, -33.9024308, 151.1645486
+Caltex Edgeworth, 662 Main Rd, EDGEWORTH, 127, rpd, false, -32.9256630, 151.6278890
+7-Eleven Warners Bay, 393 Hillsborough Road , Warners Bay, 114, r, false, -32.9659076, 151.6543842
+BP Putney, 236 Morrison Road, Putney, 136, rp, true, -33.8238745, 151.1084045
+Coles Express St Clair, 247 Banks Drive , St Clair, 138, rpd, false, -33.7882833, 150.7715784
+BP Express Penrith, Cnr Castlereagh , Penrith, 138, r, false, -33.7582124, 150.6961540
+Caltex Londonderry, 521 Carrington Road, LONDONDERRY, 133, r, false, -33.6448192, 150.7362905
+BP Berowra, 111 Berowra Waters Rd, BEROWRA HEIGHTS, 133, rpd, false, -33.6155411, 151.1416168
+BP Mayfield West, 15 Murray Dwyer Circ, Mayfield West, 121, rpd, false, -32.8851363, 151.7270697
+Advanced Fuel Kanahooka, 92 Lakeside Drive, KANAHOOKA, 131, rpd, true, -34.5011750, 150.8145749
+Caltex Starmart Concord, 87-89 Parramatta Rd, CONCORD, 129, r, false, -33.8678601, 151.0993810
+Caltex Starmart Concord, 87-89 Parramatta Rd, CONCORD, 124, rpd, false, -33.8678601, 151.0993810
+BP Boolaroo, No 6 Main Road, Boolaroo, 121, rpd, true, -32.9505339, 151.6236976
+Metro Fuel Cremorne, 51 Spofforth St, Cremorne, 130, rp, true, -33.8325487, 151.2294305
+Independent Lakemba, 1/3 Haldon St, Lakemba, 117, r, true, -33.9179636, 151.0763299
+BP Gulgong, 77 Medley St, Gulgong, 136, r, true, -32.3667511, 149.5323259
+Coles Express Taree, 59-63 Victoria Street, Taree, 139, rp, false, -31.9104430, 152.4653660
+Coles Express Dubbo, Whylandra St , Dubbo, 137, r, true, -32.2485427, 148.5930014
+Coles Express Muswellbrook, 148 Bridge Street , Muswellbrook, 141, r, true, -32.2608509, 150.8889681
+Coles Express Wauchope, 64 High Street, Wauchope, 141, rpd, true, -31.4575903, 152.7316309
+Coles Express Tamworth West, 147-149 Bridge St, Tamworth West, 140, rpd, false, -31.0949872, 150.9119989
+Coles Express Scone, 91-93 Kelly St, Scone, 129, rp, true, -32.0471969, 150.8678810
+Coles Express Bega, 2-6 Swan St, Bega, 145, r, true, -36.6738789, 149.8381732
+Coles Express Bathurst, 59 Durham Street, Bathurst, 140, r, false, -33.4163188, 149.5843408
+Coles Express Nowra, 55 Kinghorne St , Nowra, 129, r, false, -34.8764482, 150.6026697
+Coles Express Dubbo, 131-133 Cobra St , Dubbo, 137, r, false, -32.2551158, 148.6126162
+BP Jamison Town, 126-130 Mulgoa Road, Penrith, 131, rpd, false, -33.7700301, 150.6760776
+BP Connect Parramatta, 435 Church Street, Parramatta, 142, rpd, false, -33.8048597, 151.0055598
+BP Connect St Marys, 76 Glossop Street, St Marys, 141, rp, true, -33.7600482, 150.7816185
+BP 2Go Hornsby, Cnr George St and Burdett St, Hornsby, 140, rp, false, -33.7023572, 151.0993995
+Coles Express Deniliquin, 336 Victoria Street, Deniliquin, 142, rpd, true, -35.5236772, 144.9806796
+Coles Express Kotara, 93 Park Avenue, Kotara, 135, rpd, true, -32.9409043, 151.7088273
+Coles Express Tweed Heads South, 71 Minjungbal Dr, Tweed Heads South, 144, r, true, -28.1946654, 153.5420890
+BP 2Go Peninsula, Cnr Barrenjoey , Mona Vale, 139, rpd, true, -33.6743474, 151.3104266
+BP Connect Caringbah, Cnr Captain Cook Dve , Caringbah, 135, rp, false, -34.0331554, 151.1283229
+BP Connect Cronulla, Cnr Wilbur , Cronulla, 139, rp, false, 1000, 1000
+BP Express Engadine (1234, 1234 Princess Highway, Engadine, 138, rpd, true, -34.0772668, 151.0108517
+BP Shop Springwood (NSW), 28 Great Western Highway, Valley Heights, 139, rp, false, -33.7017728, 150.5818015
+Coles Express Wyalong, Mid Western Hwy , Wyalong, 131, r, false, -33.9221846, 147.2006745
+Caltex Kurri Kurri, 95 Northcote St, Kurri Kurri, 117, r, true, -32.8121944, 151.4761195
+Enhance Waratah, 51 Lambton Rd, WARATAH, 119, rpd, false, -32.9068600, 151.7195130
+Caltex Winmalee, 281 Hawkesbury Rd, Winmalee, 128, rpd, true, -33.6821926, 150.5994660
+Independent Tyagarah, 5 Yarun Road, Tyagarah, 135, r, true, 1000, 1000
+Coles Express Gilgandra, Portion 101 Newell Highway , Gilgandra, 127, rp, false, -31.7030846, 148.6784498
+Independent Mullumbimby, 44 Dalley Street, Mullumbimby, 135, rpd, true, -28.5516878, 153.5002220
+7-Eleven Campbelltown, 96 Queen , Campbelltown, 138, r, false, -34.0639792, 150.8170232
+7-Eleven Newport, 307-311 Barrenjoey Road , Newport, 131, rpd, true, -33.6564017, 151.3181679
+7-Eleven St Marys, Corner Forrester Road , St Marys, 135, r, true, -33.7519976, 150.7762980
+BP Charmhaven, Pacific Highway, Charmhaven, 122, rp, true, -33.2284616, 151.5030413
+Metro Fuel Kogarah, 120 Rocky Points Rd, Kogarah, 127, rpd, false, -33.9769227, 151.1368205
+Caltex Thornleigh, 200 Pennant Hills Rd, THORNLEIGH, 127, r, true, -33.7265323, 151.0836537
+7-Eleven Parramatta, 81 Victoria Road , Parramatta, 128, r, true, -33.8091434, 151.0143724
+BP North Manly, 504 Pittwater road, North Manly, 137, rp, true, -33.7751939, 151.2708256
+Caltex Camden, 21 Barsden St Cnr Cawdor Rd, Camden, 121, rpd, true, -34.0582445, 150.6909559
+Speedway Rockdale, 651 Princes Highway, Rockdale, 122, r, false, -33.9591615, 151.1377026
+Enhance Cardiff, 200 Main Road, Cardiff, 128, r, false, -32.9410246, 151.6684364
+Westside Petroleum Lidcombe, 32 Joseph St, LIDCOMBE, 122, rpd, true, -33.8648656, 151.0432344
+Metro Petroleum Forestville, 656 Warringah Rd, FORESTVILLE, 127, r, false, -33.7596126, 151.2120428
+Caltex Kingsgrove, 351-357 Stoney Creek, KINGSGROVE, 133, rp, false, -33.9513515, 151.0924693
+Independent Camden, 30 Argyle Street, Camden, 119, rpd, false, -34.0551506, 150.6994923
+Caltex Woollahra, 118 Old South Head Rd, Woollahra, 139, rp, false, -33.8896235, 151.2553519
+Caltex Lake Haven, Goobarabah Ave Cnr Gorokan Drive, Lake Haven, 127, rp, false, 1000, 1000
+Caltex Luddenham, 19 The Northern Rd, Luddenham, 116, r, true, -33.8740734, 150.6900898
+Caltex Heathcote, 1344 Princes Highway, Heathcote, 133, rp, true, -34.0882811, 151.0075092
+Caltex Dubbo, Cobra St Cnr Brisbane St, Dubbo, 125, r, true, -32.2534852, 148.6026645
+Caltex Drummoyne, 191-195 Lyons Rd, Drummoyne, 140, rpd, true, -33.8569342, 151.1460021
+Caltex Bathurst, 53 Durham St, Bathurst, 124, rp, false, -33.4168511, 149.5848755
+Caltex Beresfield, Yangan Avenue, Beresfield, 124, r, false, -32.8094221, 151.6321212
+Caltex North Richmond, 50 Bells Line Of Rd Cnr Terrace Rd, North Richmond, 132, rpd, false, -33.5798881, 150.7195783
+Caltex Alexandria, 133 Wyndham St Cnr Mcevoy St, Alexandria, 113, r, true, -33.9017381, 151.2001398
+Caltex Tweed Heads West, 96-98 Kennedy Dr Cnr Barrett St, Tweed Heads West, 131, r, true, -28.1867536, 153.5231419
+Caltex Lane Cove, Burns Bay Road, Lane Cove, 134, r, true, -33.8148218, 151.1573650
+Caltex Yass, 1715 Yass Valley Way, Yass, 136, r, false, -34.8069633, 148.8825199
+Caltex Gladesville, 287-295 Victoria Rd Cnr Stansell Rd, Gladesville, 138, rp, true, -33.8281258, 151.1265318
+7-Eleven Northmead, 137 Windsor Road, Northmead, 129, rp, false, -33.7822271, 150.9970736
+7-Eleven Parramatta, 81 Victoria Road , Parramatta, 121, rp, false, -33.8091434, 151.0143724
+7-Eleven New Lambton, 289 - 291 Turton Road , New Lambton, 128, r, true, -32.9177497, 151.7243849
+7-Eleven McGraths Hill, 142 Windsor Road , McGraths Hill, 126, rpd, true, -33.6167380, 150.8342260
+7-Eleven Moorebank, 102 Heathcote Road, Moorebank, 127, rpd, true, -33.9381501, 150.9400069
+7-Eleven Lindfield, 238 Pacific Highway, Lindfield, 137, r, false, -33.7788871, 151.1690679
+7-Eleven Killara, 494 Pacific Hwy, Killara, 133, rp, false, -33.7701345, 151.1605034
+7-Eleven Haberfield, 25 Parramatta Road, Haberfield, 151, rpd, true, -33.8879719, 151.1428271
+7-Eleven Kellyville, 54 - 56 Windsor Road, Kellyville, 132, rpd, false, -33.7123563, 150.9570123
+7-Eleven Georges Hall, Corner Marion Street , Georges Hall, 131, rpd, false, -33.9152138, 150.9951463
+7-Eleven Berowra, 965-969 Pacific Highway , Berowra, 125, r, true, -33.6267912, 151.1480497
+7-Eleven Bexley, 474 Forest Road, Bexley, 124, rpd, false, -33.9515238, 151.1251976
+7-Eleven Ashfield, 132 Hume Highway , Ashfield, 149, rpd, false, -33.8905084, 151.1295882
+7-Eleven Caringbah, 367 The Kingsway , Caringbah, 144, rp, false, -34.0393440, 151.1203632
+7-Eleven Bligh Park, 735 George Street, Bligh Park, 132, rpd, true, -33.6364679, 150.7838938
+7-Eleven Woolooware, 192-198 The Kingsway, Woolooware, 137, rpd, true, -34.0463340, 151.1335659
+7-Eleven Windsor, 12 Hawkesbury Valley Way, Windsor, 117, rp, true, -33.6118058, 150.8121279
+7-Eleven Rockdale, 293 West Botany Street , Rockdale, 136, rpd, true, -33.9499087, 151.1484909
+7-Eleven Regentville, 36 Mulgoa Road, Regentville, 130, r, false, -33.7750402, 150.6660226
+Caltex Lake Illawarra, 37 Shellharbour Road, Lake Illawarra, 128, r, true, -34.5450803, 150.8628666
+Enhance Barrack Heights, 254-256 Shellharbour Rd, Barrack Heights, 128, r, true, -34.5594249, 150.8594128
+Fuelmart, 450 Great Western Hw, Faulconbridge, 126, rp, false, -33.6942956, 150.5479036
+Budget Bexley, 295 Forrest Road, Bexley, 121, r, true, -33.9444759, 151.1283492
+Budget Oatley, 12B Oatley Parade, Oatley, 123, r, true, -33.9823281, 151.0791437
+7-Eleven Randwick, 128 Barker Street, Randwick, 133, rp, true, -33.9209800, 151.2355770
+Independent North Ryde, 320 Lane Cove Road, North Ryde, 117, rpd, true, -33.7923494, 151.1201707
+7 Express Carlton, 370 Railway Parade, Carlton, 120, r, false, -33.9692496, 151.1220470
+Budget Chester Hill, 41 Boundary Road, Chester Hill, 126, rp, true, -33.8738408, 151.0071710
+7-Eleven Shortland, 300 Sandgate Road, Shortland, 120, r, false, -32.8861683, 151.6955022
+Coles Express Albion Park, 252 Princes Highway, Albion Park, 149, rpd, false, -34.5676634, 150.8022336
+BP Fairfield, 115 Sackville St, FAIRFIELD, 121, rpd, false, -33.8727231, 150.9452203
+United Edgeworth, 780 Main Rd, Edgeworth, 124, r, true, -32.9239707, 151.6148988
+BP Epping, 30 Bridge St, Epping, 134, rpd, false, -33.7747403, 151.0797567
+BP Haberfield, 95-97 Ramsay St, HABERFIELD, 137, rpd, false, -33.8816520, 151.1401488
+BP Connect Glendenning, 646 Richmond Rd, Glendenning, 135, rp, false, -33.7375692, 150.8533717
+BP Connect Woodcroft, Cnr Woodcroft Dr , Doonside, 138, rp, true, -33.7549561, 150.8797299
+Caltex Woolworths Waitara, 59-61 Pacific Highway, WAITARA, 135, r, true, -33.7106584, 151.1023535
+BP Eastern Creek, 101 Wallgrove Rd, EASTERN CREEK, 137, rp, false, -33.8067100, 150.8518593
+BP Connect Quakers Hill, 45 Hambledon Road, Quakers Hill, 137, rpd, true, -33.7175350, 150.8921090
+BP Connect Revesby, Cnr Milperra , Revesby, 134, rp, true, -33.9347994, 151.0070575
+BP Connect Rosehill, Cnr Hassall , Rosehill, 140, rp, true, -33.8190690, 151.0206679
+BP Marsden Park, 851 Richmond Road, Marsden Park, 136, rpd, false, -33.7194701, 150.8456283
+BP Silverwater, Cnr Silverwater Road , SILVERWATER, 135, r, false, -33.8339895, 151.0482217
+BP Shop Dural, 582 Old Northern Road, Dural, 140, rp, true, -33.6957300, 151.0283680
+BP 2Go Rydalmere, Cnr Victora Rd , Rydalmere, 138, r, false, -33.8122462, 151.0409949
+BP 2Go Canterbury, 322 Canterbury Road, Canterbury, 136, r, false, -33.9149737, 151.1130375
+BP 2Go Milperra, 5 Bullecourt Avenue, Milperra, 139, rp, false, -33.9375157, 150.9889779
+BP 2Go Bankstown Airport, Henry Lawson Drive, Bankstown, 137, rpd, true, -33.9384156, 150.9835980
+BP Roseville, 20-22 Babbage Rd, Roseville, 134, rpd, true, -33.7780213, 151.1945551
+Metro Fuel Wiley Park, 618 Punchbowl Rd, Wiley Park, 120, rpd, false, -33.9167729, 151.0663547
+Caltex Ermington, 560-562 Victoria Road, ERMINGTON, 134, rpd, false, -33.8139726, 151.0547996
+BP Riverwood, 189 Belmore Road, Riverwood, 138, rpd, false, -33.9557016, 151.0510246
+BP Shop Crossroads, Cnr Hume Hwy , Casula, 136, r, true, -33.9530434, 150.9001672
+BP Shop Forestville, 632 Warringah Road, Forestville, 133, rpd, false, -33.7600027, 151.2143834
+BP Ingleburn, Cnr Williamson , INGLEBURN, 140, rp, true, -33.9964721, 150.8521047
+BP Express West Ryde, 1233 Victoria Road , West Ryde, 132, rp, true, -33.8066450, 151.0710450
+BP Connect Ashfield, 580-586 Parramatta Road, Croydon, 136, rpd, false, -33.8744317, 151.1264216
+BP Connect Kingsford, 368 Anzac Parade, Kingsford, 139, rpd, true, -33.9196208, 151.2267950
+BP Connect Mortdale, 21 Boundary Road, Mortdale, 139, r, false, -33.9699169, 151.0731651
+BP Connect Sydenham, 339 Princes Highway, Sydenham, 138, rpd, true, -33.9162497, 151.1728502
+BP 2Go St Peters (NSW), 2 Princes Highway, St Peters, 135, rpd, true, -33.9076096, 151.1815032
+BP 2Go Mona Vale, 1721 Pittwater Road, Mona Vale, 135, rp, false, -33.6805090, 151.3023531
+Budget South Penrith, 184 Smith Street, South Penrith, 133, r, true, -33.7672568, 150.7025478
+7-Eleven Plumpton, Corner Richmond Road , Plumpton, 134, rp, true, -33.7298174, 150.8546012
+7-Eleven Mayfield West, 412-416 Maitland Road , Mayfield West, 116, rp, true, -32.8928091, 151.7300366
+Speedway Arncliffe, 32 Princes Hwy, Arncliffe, 116, rp, true, -33.9345813, 151.1521309
+7-Eleven North Rocks, 340 North Rocks Road, North Rocks, 138, rpd, false, -33.7689645, 151.0304656
+BP Connect Runway, Cnr Butler Rd , Mascot, 139, rp, true, -33.9442478, 151.1856281
+BP Connect Macarthur, Cnr Campbelltown , Campbelltown, 135, rp, true, -34.0550115, 150.8239976
+Independent Punchbowl, 10-12 Park Ave, Punchbowl, 119, rp, true, -33.9180459, 151.0631799
+Enhance Oak Flats, 77 Old Lake Entrance Rd, Oak Flats, 131, rpd, true, 1000, 1000
+Enhance Albion Park, 253 Princes Hwy, Albion Park Rail, 134, rpd, true, -34.5675925, 150.8033855
+Caltex, 5-11 Gateway Bvd, MORISSET, 136, rp, true, -33.1165310, 151.4711478
+BUDGET PETROL BEXLEY ROAD CAMPSIE, 65 Bexley Rd, Campsie, 127, r, false, -33.9223709, 151.1067478
+BP Rose Bay, 599 Old South Head Rd, Rose Bay, 133, rpd, true, -33.8692319, 151.2771385
+BP North Rocks, 369 North Rocks Rd, North Rocks, 132, r, true, -33.7692160, 151.0319813
+Matilda Muswellbrook, 42-50 Sydney St, MUSWELLBROOK, 128, rpd, false, -32.2686268, 150.8867393
+7-Eleven Hurlstone Park, 670 New Canterbury Road , Hurlstone Park, 134, rp, true, -33.9051000, 151.1300000
+Budget North Rocks, 264-266 North Rocks Rd, North Rocks, 131, rp, true, -33.7754788, 151.0228931
+Metro Petroleum Oakflats, 80-82 Central Ave, OAK FLATS, 131, rp, false, -34.5626790, 150.8194170
+Metro Warilla, 230 Shellharbour Rd, Warilla, 129, r, false, -34.5569739, 150.8592776
+United Blackheath, 263 Great Western Highway, Blackheath, 125, rpd, true, -33.6337476, 150.2850830
+Metro Leichhardt, 127-129 Marion St, Leichhardt, 139, rpd, false, -33.8839070, 151.1507412
+Independent Wiley Park, 107 King Georges Rd, Wiley Park, 128, rpd, false, -33.9250878, 151.0692475
+Caltex Woolworths Cherrybrook, 67 Shepherds Dr, CHERRYBROOK, 131, rp, false, -33.7206720, 151.0451569
+BP Baulkham Hills, 134 Seven Hills Rd, Baulkham Hills, 130, rp, false, -33.7616170, 150.9740750
+Coles Express Glendale, 593 Main Rd, Glendale, 138, rp, false, -32.9268770, 151.6379991
+Independent Colo Vale, 1 Elm St, Colo Vale, 124, rp, true, -34.4030868, 150.4884684
+BP The Oaks, 38 John St, The Oaks, 129, r, true, -34.0801266, 150.5704336
+BP Denham Court, 505 Campbelltown Road, Denham Court, 131, rpd, false, -33.9825100, 150.8468505
+Speedway Miranda, 181 The Boulevarde, Miranda, 127, r, true, -34.0301774, 151.1096635
+BP Clarendon, 244 Hawkesbury Valley Way, CLARENDON, 122, rpd, false, -33.6083642, 150.7882470
+BP Connect Minchinbury, 1055 Great Western Highway, Minchinbury, 135, r, false, -33.7820690, 150.8244989
+BP Express Willoughby, 316 Penhurst St, Willoughby, 139, r, false, -33.7942086, 151.1961065
+BP Casula, 461 Hume Hwy, Casula, 141, r, false, -33.9408828, 150.9118174
+Caltex Maryland, 41 Minmi Rd, WALLSEND, 125, r, false, -32.8896671, 151.6618639
+BP Mcgraths Hill, 126 Windsor Road, Mcgraths Hill, 129, r, true, -33.6152339, 150.8335206
+BP Carss Park, 294 Princess Hwy, Carss Park, 139, r, true, -33.9820023, 151.1178200
+BP Picton, 403 Argyle St, Picton, 126, rpd, false, -34.1880593, 150.6051262
+Coles Express Northmead, 197 Windsor Road, Northmead, 137, rp, false, -33.7774110, 151.0002100
+Coles Express Northmead, 100 Briens Road, Northmead, 140, rpd, false, -33.7962467, 150.9897121
+Independent Randwick, 88 Clovelly Road, Randwick, 134, r, true, -33.9087151, 151.2485378
+Berrigan Fuels and Newsagency, 160-162 Jerilderie St, BERRIGAN, 136, rp, false, -35.6643908, 145.8164423
+7-Eleven St Ives, 157-159 Mona Vale Rd, ST IVES, 129, rp, true, -33.7326308, 151.1563367
+Budget Ashfield, 22 Charlotte Street, Ashfield, 121, r, false, -33.8864630, 151.1256877
+Budget Belmore, 607 Canterbury Road, Belmore, 125, r, true, -33.9214794, 151.0959163
+Caltex Star Mart Dural, 917-923 Old Northern Rd, DURAL, 129, rpd, true, -33.6831208, 151.0287492
+Independent Murwillumbah, 51 Tweed Valley Way, Murwillumbah, 125, r, false, -28.3188044, 153.4294149
+Gas Point, 54C Fairfield Road, Guildford West, 126, r, true, -33.8472109, 150.9623342
+Metro St Ives Chase, 164 Warrimoo Avenue, St Ives Chase, 130, rp, false, -33.7106550, 151.1600790
+BP Enfield, 184 Liverpool Road, Enfield, 139, rpd, false, -33.8872320, 151.0977821
+Westside Blakehurst, 338 Princes Highway, Blakehurst, 123, rp, true, -33.9866267, 151.1126438
+Budget Petrol Eastlakes, 102 Maloney St, Eastlakes, 129, rp, false, -33.9309142, 151.2058274
+Budget Petrol Concord, 20 Burwood Rd, Concord, 129, rp, false, -33.8675400, 151.1053364
+Westside Maroota, 1563 Wisemanferry Rd, Maroota, 135, rpd, false, -33.4722070, 150.9748203
+Independent Wallabadah, 3055 New England Hwy, Wallabadah, 125, rpd, true, -31.5506501, 150.8268025
+BP Port Kembla, 144 Wentworth Street, Port Kembla, 124, r, false, -34.4838641, 150.9049148
+BP Rossmore, 832 Bringelly Road, Rossmore, 122, r, false, -33.9454067, 150.7701315
+Independent North Ryde, 38 Kent RD, North Ryde, 120, rp, true, -33.7916867, 151.1159807
+Shell Glen Innes, 102 Church Street, Glen Innes, 138, r, true, -29.7430363, 151.7367740
+BP Connect Seven Hills, Abbott Road, Seven Hills, 136, r, false, -33.7665435, 150.9543622
+Westside Adamstown, 125 Brunker Rd, Adamstown, 120, rpd, false, -32.9299483, 151.7302518
+Caltex Gilgandra, 6425 Newell Hwy, Gilgandra, 128, rpd, false, -31.7255587, 148.6531188
+Caltex Narrabri, Anne St Cnr Dangar St, Narrabri, 130, r, false, -30.3304507, 149.7756005
+Caltex Mount Druitt, 17 Mount St, Mount Druitt, 125, r, true, -33.7656167, 150.8244953
+Caltex Mittagong, 65 Bowral Rd, Mittagong, 140, r, true, -34.4524823, 150.4383585
+Caltex Tamworth, Kent St Cnr Kathleen St, Tamworth, 142, r, true, -31.1033294, 150.9183327
+Caltex Ambarvale, 37 Woodhouse Dr Cnr Wickfield St, Ambarvale, 139, r, false, -34.0837852, 150.8024716
+Caltex Yass, 228 Comur St, Yass, 135, rpd, true, -34.8445805, 148.9138907
+Metro Lane Cove, owbray Rd, Lane Cove, 127, r, false, -33.8022560, 151.1854328
+Coles Express Chatswood, 877-879 Pacific Hwy, Chatswood, 142, rpd, false, -33.7917255, 151.1804828
+Coles Express Cammeray, 477-483 Miller St , Cammeray, 144, rpd, false, -33.8213111, 151.2107863
+Coles Express Camden, 273 Old Hume Highway, Camden, 149, rp, true, -34.0864132, 150.6946176
+Coles Express Five Dock, 213-253 Parramatta Rd , Five Dock, 126, rpd, true, -33.8696229, 151.1142919
+Coles Express Alexandria, 562-572 Botany Rd, Alexandria, 145, rpd, true, -33.9157291, 151.2001355
+Coles Express Berowra, 955 Pacific Highway , Berowra, 142, r, true, -33.6282278, 151.1476475
+Coles Express Northmead, 100 Briens Road, Northmead, 139, rpd, false, -33.7962467, 150.9897121
+Coles Express Merrylands, 398 Merrylands Rd , Merrylands, 122, rp, true, -33.8342649, 150.9775455
+Coles Express Guildford, 295 Woodville Rd, Guildford, 162, rpd, true, -33.8509131, 150.9970341
+Coles Express Jamisontown, Mulgoa Road , Jamisontown, 140, rp, true, -33.7703384, 150.6746117
+Coles Express Maitland, 233 High St , Maitland, 133, rp, true, -32.7392113, 151.5619836
+Coles Express Wollongong, 142-148 Corrimal St, Wollongong, 131, rpd, true, -34.4287147, 150.8989325
+Coles Express Wahroonga, 1601 Pacific Hwy , Wahroonga, 142, rp, false, -33.7196311, 151.1165081
+Coles Express Tweed Heads, 34 Wharf St , Tweed Heads, 128, rpd, true, -28.1732617, 153.5431984
+Coles Express Taren Point, 99 Parraweena Rd , Miranda, 133, r, true, -34.0262979, 151.1200922
+Coles Express Waterloo, 867-869 South Dowling Street, Waterloo, 144, rpd, false, -33.9017062, 151.2144290
+Coles Express Smithfield, 678 The Horsley Drv , Smithfield, 136, rpd, false, -33.8537341, 150.9400217
+Speedway Green Valley, 182 Green Valley Rd, Green Valley, 124, r, false, -33.9023921, 150.8682763
+7-Eleven Revesby South, 102 Milperra Rd, REVESBY, 131, rpd, false, -33.9359628, 151.0093750
+7-Eleven South Hurstville, 822 King Georges Road , South Hurstville, 112, r, false, -33.9759070, 151.1037600
+7-Eleven St Marys, Corner Forrester Road , St Marys, 133, r, false, -33.7519976, 150.7762980
+7-Eleven Wickham, 184-188 Hannell Street, Wickham, 125, rp, false, -32.9133690, 151.7580573
+7-Eleven North Rocks, 340 North Rocks Road, North Rocks, 137, r, false, -33.7689645, 151.0304656
+7-Eleven Mayfield, 132 Maitland Road, Mayfield, 131, r, true, -32.9017321, 151.7420232
+7-Eleven Greenacre, 301-305 Hume Highway , Greenacre, 125, r, true, -33.9049769, 151.0420027
+7-Eleven Edmondson Park, 1962 Camden Valley Way, Edmondson Park, 135, rp, false, -33.9537805, 150.8563431
+7-Eleven Bonnyrigg, 140 Edensor , Bonnyrigg, 124, r, false, -33.8839695, 150.8919692
+7-Eleven Belmont North, 378 Pacific Highway, Belmont North, 131, rpd, true, -33.0226544, 151.6643338
+Metro Fuel Ruse, 2 Acacia Av, Ruse, 125, rpd, false, -34.0730900, 150.8419695
+Budget Kogarah, 132 Princes Hway, Kogarah, 113, rp, true, -33.9748566, 151.1283728
+Independent West Pymble, 45 Yanko Road, West Pymble, 142, r, true, -33.7620792, 151.1285255
+BP West Pennant Hills, 48-50 Aiken Road, West Pennant Hills, 132, r, false, -33.7541509, 151.0406154
+BP Allambie Heights, 132 Allambie road, Allambie Heights, 139, r, true, -33.7650913, 151.2496733
+BP Manly, 133-139 Pettwater Rd, Manly, 124, r, false, -33.7903441, 151.2848154
+BP Bargo, 116-118 Railside Ave, BARGO, 136, r, true, -34.2929107, 150.5799718
+Metro Fuel North Avalon, 662-664 Barrenjoey Rd, North Avalon, 137, rpd, true, -33.6259370, 151.3344985
+BUDGET PETROL MASCOT, 1004 Botany Rd., Mascot, 127, r, false, -33.9327122, 151.1936435
+7-Eleven West Pennant Hills, 552 Pennant Hills Road, West Pennant Hills, 120, r, true, -33.7468476, 151.0507795
+Metro Fuel Berkeley Vale, Lot 4 Tumbi Creek Rd, Berkeley Vale, 119, r, false, -33.3612743, 151.4448926
+Independent Wagga Wagga, 85 Travers St, Wagga Wagga, 126, r, false, -35.0990454, 147.3564862
+Metro Tuggerawong, 2 Cadonia Rd, TUGGERAWONG, 114, rpd, false, -33.2806484, 151.4804418
+BP Hoxton Park, Lot 1 Cowpasture Rd, Hoxton Park, 133, rpd, false, -33.9256894, 150.8491868
+Metro Fuel Miranda, 220 Port Hacking Road, Miranda, 125, r, false, -34.0282072, 151.1063876
+BP Bonnyrigg, 451 Nth Liverpool Rd, Bonnyrigg, 134, rpd, true, -33.8942700, 150.8579828
+Coles Express Ryde, 45 Lane Cove Rd , Ryde, 140, rp, false, -33.8073037, 151.1099877
+BP Mascot, 1077 Botany Road, Mascot, 122, rpd, true, -33.9284390, 151.1954590
+Coles Express St Ives, 179-181 Mona Vale Rd, St Ives, 142, r, false, -33.7312840, 151.1576300
+Coles Express West Ryde, 1032-1036 Victoria Rd, West Ryde, 133, rp, false, -33.8074717, 151.0852027
+Coles Express Lawson, 311 Great Western Highway, Lawson, 147, r, false, -33.7219274, 150.4260376
+Coles Express Parramatta, 88 Victoria Rd , Parramatta, 136, rpd, false, -33.8087395, 151.0153888
+Coles Express Dapto, 152-158 Princes Hwy, Dapto, 148, rpd, true, -34.4940144, 150.7955566
+Coles Express Carlingford, 286-288 Pennant Hills Rd , Carlingford, 139, r, true, -33.7848873, 151.0435817
+Coles Express Corrimal, 269-275 Princes Highway, Corrimal, 146, rp, true, -34.3752921, 150.8963440
+Coles Express Colyton, 88-90 Great Western Highway, Colyton, 134, r, false, -33.7754732, 150.7953305
+Coles Express Minto, 73 Pembroke Rd , Minto, 138, r, false, -34.0230484, 150.8502371
+Coles Express Dundas, 199-203 Kissing Point Rd , Dundas, 137, rpd, false, -33.7995085, 151.0451965
+Coles Express Hunters Hill, 4 Ryde Rd, Hunters Hill, 142, rp, true, -33.8317033, 151.1416679
+Coles Express Marsden Park, 920 Richmond Rd, Marsden Park, 134, r, true, -33.7155972, 150.8425615
+Westside Manly, 209 Pittwater Road, Manly, 127, rp, true, -33.7874041, 151.2840945
+Coles Express Lane Cove, 250 Burns Bay Road, Lane Cove, 145, rp, false, -33.8175154, 151.1516567
+Coles Express Gymea, 470 Princes Hwy , Gymea, 130, rp, true, -34.0275322, 151.0843534
+Coles Express Oyster Bay, 26-28 Georges River Rd , Oyster Bay, 143, r, true, -34.0015615, 151.0871654
+BP Whitebridge, 170 Dudley Road, Whitebridge, 121, rpd, true, -32.9815041, 151.7117660
+Coles Express Kooragang, 130 Cormorant Rd , Kooragang, 132, rp, true, -32.8838059, 151.7620151
+BP Lansvale, 115-119 Hume Hwy, Lansvale, 136, r, false, -33.8937299, 150.9587288
+United Beacon Hill, 214 Warringah Road, Beacon Hill, 128, rp, false, -33.7525722, 151.2549098
+Coles Express Leppington, 1443 Camden Valley Way, Leppington, 132, r, false, -33.9664297, 150.8155569
+Coles Express Hornsby, 194-206 Pacific Hwy, Hornsby, 140, r, true, -33.7071996, 151.0991475
+Coles Express Blacktown, 132-136 Sunnyholt Road, Blacktown, 132, rpd, false, -33.7540830, 150.9145724
+BP Prestons, 14- Bernera Road, Prestons, 134, rpd, true, -33.9359104, 150.8703243
+Coles Express Doonside, 427 Bungarribee Road, Doonside, 132, r, false, -33.7729735, 150.8763299
+Coles Express Eastern Creek, 611 Great Western Hwy , Eastern Creek, 133, r, true, -33.7926824, 150.8705064
+Coles Express Kingsgrove, 137-141 Kingsgrove Road, Kingsgrove, 145, r, true, -33.9328051, 151.0991063
+Coles Express Pennant Hills, 369-371 Pennant Hills Rd, Pennant Hills, 136, r, true, -33.7388423, 151.0734061
+Coles Express Thornleigh, 188-190 Pennant Hills Rd, Thornleigh, 142, rp, true, -33.7247935, 151.0852848
+BP Willoughby, 157 Penshurst street, Willoughby, 136, rpd, false, -33.7978837, 151.1981823
+Coles Express Dural, 592-596 Old Northern Rd, Dural, 135, rp, false, -33.6942897, 151.0313508
+BP Summer Hill, 3 Carlton Cres, Summer Hill, 132, rp, false, -33.8924923, 151.1431510
+BP New Lambton, 105 St. James rd., New Lambton, 128, r, true, -32.9291193, 151.7155797
+Speedway West Ryde, 899 Victoria Road, West Ryde, 119, rpd, false, -33.8102702, 151.0942038
+Independent Pitt Town, 24 Chatham Rd, Pitt Town, 135, rpd, false, -33.5867782, 150.8603225
+7-Eleven Colyton, 104 Great Western Highway , Colyton, 126, r, true, -33.7749959, 150.7934588
+7-Eleven Minchinbury, 1042 Great Western Highway, Minchinbury, 128, rp, true, -33.7821955, 150.8286158
+7-Eleven Eastern Creek, Lot 16 - 25 Great Western Highway, Eastern Creek, 127, r, true, -33.7759809, 150.8006380
+7-Eleven Sans Souci, 476 Rocky Point Road , Sans Souci, 113, rp, false, -33.9907986, 151.1333295
+7-Eleven Rooty Hill, Corner Evans , Rooty Hill, 131, rpd, true, -33.7813540, 150.8473344
+United Vineyard, 1540 Windsor Road, Vineyard, 130, rp, false, -33.6499171, 150.8626849
+7-Eleven St Clair, 4 Endeavour , St Clair, 128, rpd, true, -33.7943086, 150.7886495
+Coles Express Bulli, 279-287 Princes Highway, Bulli, 150, r, false, -34.3365369, 150.9121426
+7-Eleven Minchinbury, Lot 3 Great Western Highway , Minchinbury, 126, rp, true, -33.7765673, 150.8019140
+7-Eleven Gymea, 110 Gymea Bay Rd , Gymea, 132, rp, true, -34.0373199, 151.0848847
+7-Eleven St Clair, 4 Endeavour , St Clair, 131, r, false, -33.7943086, 150.7886495
+7-Eleven Sutherland, 693 Old Princes Highway , Sutherland, 138, r, false, -34.0297891, 151.0589016
+7-Eleven Blacktown, 62 Walters Road, Blacktown, 129, rp, false, -33.7759669, 150.8949673
+BP Yagoona, 405 Hume Highway, Yagoona, 132, rpd, true, -33.9089155, 151.0291505
+7-Eleven Blacktown, 175 Richmond Road, Blacktown, 131, rp, true, -33.7554937, 150.8917589
+7-Eleven Arndell Park, 180 Reservoir Road, Arndell Park, 126, rpd, false, -33.7967754, 150.8971416
+Budget Brighton, 275 Bay Street, Brighton-Le-Sands, 127, rp, false, -33.9599129, 151.1531144
+Metro Warners Bay, 1 Warners Bay Rd, WARNERS BAY, 122, r, false, -32.9817795, 151.6462947
+BP Cabramatta West, 90 Joseph St, Cabramatta West, 129, rpd, false, -33.8983056, 150.9200005
+BP Liverpool, 69 Hoxton Park Road, Liverpool, 127, rpd, false, -33.9275028, 150.9095992
+Budget Freshwater, 119 Harbord Rd, Freshwater, 130, rpd, false, -33.7724600, 151.2794479
+Budget Granville, 27 Woodville Rd, Granville, 118, rp, true, -33.8309899, 151.0040802
+Westside Kenthurst, 86 Kenthurst Road, Kenthurst, 134, r, true, -33.6821972, 151.0107960
+Shell Bargo, 3030 Remembrance Driveway, BARGO NSW, 134, r, true, -34.2550541, 150.5739765
+Aberdeen Fuels, 134 MacQueen St, ABERDEEN, 110, rp, false, -32.1683592, 150.8917867
+BP Bexley North, 369C Bexley Road, Bexley, 135, r, false, -33.9458271, 151.1230203
+Westside Granville, 2 Blaxcell St, Granville, 122, rp, false, -33.8362561, 151.0110136
+BP Sans Souci, 518 Rocky Point Road, Sans Souci, 137, rpd, false, -33.9924690, 151.1324083
+7-Eleven Toongabbie, 3 Metella Road , Toongabbie, 132, rpd, false, -33.7869273, 150.9463855
+BP Warwick Farm, 6 Hume Hwy, Warwick Farm, 133, r, false, -33.9143477, 150.9307756
+BP Quakers Hill, 450 Quakers Hill Pkw, Quakers Hill, 136, rp, false, -33.7299930, 150.9023622
+Independent Wisemans Ferry, 5558 Old Northern Road, Wisemans Ferry, 139, r, true, -33.3847285, 150.9858127
+Metro Castle Cove, 327 Eastern Valley Way, Castle Cove, 130, rp, true, -33.7848641, 151.2008872
+BP Mays Hill, 149 Great Western Hwy, Mays Hill, 134, rpd, false, -33.8194030, 150.9892970
+BP Willoughby, 500 Willoughby Rd, Willoughby, 133, rpd, true, -33.8102420, 151.1993340
+BP Turramurra, 213 Kissing Point Rd, Turramurra, 140, rpd, true, -33.7485023, 151.1119479
+BP North Richmond, 3 Bells Line Of Road, North Richmond, 136, r, false, -33.5841123, 150.7235754
+BP Matraville, 585 Bunnerong Rd, MATRAVILLE, 133, rp, true, -33.9632013, 151.2321007
+BP Kingsgrove, 152 Moorefields Road, Kingsgrove, 137, rp, false, -33.9355015, 151.0863744
+Metro South Hurstville, 930 King Georges Road South, HURSTVILLE, 123, rp, false, -33.9812428, 151.1082070
+Speedway Parramatta, 127A Alfred Street, Parramatta, 130, rp, false, -33.8178639, 151.0175440
+Independent Culburra Beach, 159 Prince Edward Av, Culburra Beach, 131, r, true, -34.9301361, 150.7580695
+Caltex StarMart Lambton, 422 Newcastle Road, Lambton, 130, rp, true, -32.9096867, 151.7111110
+Independent Turramurra, 105 Eastern Rd, Turramurra, 153, rp, false, -33.7202493, 151.1313310
+BP South Hurstville, 61-63 Connells Point South, HURSTVILLE, 135, rp, true, -33.9780942, 151.1042187
+Metro Lurnea, 96 Hoxton Park Rd, Lurnea, 130, r, false, -33.9276361, 150.9060396
+BP Penshurst, 494 Forest Rd, PENSHURST, 135, rp, true, -33.9632869, 151.0901489
+Metro Petroleum Temora, 90 Victoria St, TEMORA, 125, r, true, -34.4488177, 147.5352406
+BP Werrington, 569 Great Western Highway, Werrington, 137, rp, true, -33.7680869, 150.7583646
+Speedway Blacktown, 90 Blacktown Road, Blacktown, 125, rpd, true, -33.7789980, 150.9200305
+BP Bexley, 610 Forest Road, Bexley, 129, rp, true, -33.9574512, 151.1182976
+Budget Petrol, 365 Liverpool Rd, South Strathfield, 127, r, true, -33.8883612, 151.0906901
+United Ryde, 36 -38 Lanecove Road, Ryde, 126, rpd, true, -33.8075114, 151.1086039
+BP Dundas, 256 Kissing Point Rd, Dundas, 146, r, true, -33.7989744, 151.0545272
+Independent Marrar, 3 York Street, Marrar, 123, rp, true, -34.8252846, 147.3541741
+Metro Fuel Canterbury, 280 Canterbury Road, Canterbury, 127, rp, false, -33.9140228, 151.1151866
+Metro Fuel Wyong, 35 Alison Road, Wyong, 115, rpd, true, -33.2834101, 151.4210910
+Caltex Moulamein, 66 Tallow Street, Moulamein, 121, rpd, false, -35.0892711, 144.0347543
+Metro Revesby, oyle Rd, Revesby, 128, rpd, false, -33.9480530, 151.0229412
+7-Eleven Lambton, 21 Croudace , Lambton, 128, rpd, false, -32.9108351, 151.7052691
+Independent Ermington, 700 Victoria Road, Ermington, 128, rpd, false, -33.8085971, 151.0661237
+Metro Tempe, 531 Princes Highway, Tempe, 117, rp, false, -33.9202656, 151.1675351
+Enhance Kiama, 41 Collins St, KIAMA, 134, rp, true, -34.6680421, 150.8532894
+Caltex Kiama, 180 Manning St, KIAMA, 138, r, true, -34.6824590, 150.8482610
+Independent Cessnock, 75 Allandale Road, Cessnock, 122, rpd, false, -32.8245231, 151.3523615
+Independent Mangoplah, Kyeamba Street, Mangoplah, 127, r, true, -35.3772731, 147.2544302
+Metro Peakhurst, oundary Rd, Peakhurst, 119, rp, true, -33.9651705, 151.0692936
+Metro Bankstown, 160 South Terrace, Bankstown, 123, r, true, -33.9186355, 151.0441662
+Metro Lansdowne, 987 Hume Highway, Lansdowne, 118, r, false, -33.8892764, 150.9708735
+Shell Rylstone, 25 Louee Street, Rylstone, 138, r, true, -32.7954591, 149.9710494
+BP Seven Hills, 154-156 Prospect Hwy, Seven Hills, 124, rp, true, -33.7692082, 150.9416202
+Independent Rosebery, 395 Gardeners Rd, Rosebery, 134, r, false, -33.9224674, 151.2024581
+Metro Faulconbridge, 680 Great Western Hwy, FAULCONBRIDGE, 113, rpd, false, -33.7054514, 150.5284221
+Independent Ramsgate, 112-114 Ramsgate Rd, Ramsgate, 123, rpd, true, -33.9844236, 151.1401398
+Speedway Croydon, 418 Liverpool Road, Croydon, 98, rpd, false, -33.8882000, 151.1150000
+Caltex Cabramatta, 166 John St Cnr Gladstone St, Cabramatta, 124, rpd, true, -33.8938240, 150.9282966
+Caltex Eastern Creek, M4 Motorway Westbound, Eastern Creek, 135, r, true, -33.8023821, 150.8811129
+Caltex Bombala Depot, Cnr High St , BOMBALA, 129, rpd, true, -36.9070380, 149.2379152
+Metro Randwick, 345 Avoca St, RANDWICK, 120, rp, false, -33.9253528, 151.2398325
+Metro Fuel Blacktown, 140 Flushcombe Road, Blacktown, 120, rp, false, -33.7775285, 150.9078124
+Metro Fuel Homebush, 134 John Street, Lidcombe, 122, rpd, false, -33.8548225, 151.0466477
+Caltex Vincentia, 153 Elizabeth Dr, Vincentia, 138, rp, true, -35.0698398, 150.6756624
+Metro Fuel Greenacre, 331 Waterloo Road, Greenacre, 125, rp, true, -33.8959797, 151.0592662
+Budget Petrol, 143 Concord Rd, North Strathfield, 135, rpd, true, -33.8594235, 151.0927651
+Budget Blacktown, 143 Kildare Road, Blacktown, 130, rpd, false, -33.7684170, 150.8915565
+BP Anna Bay, 133-135 Gan Gan Rd, Anna Bay, 133, rpd, true, -32.7775480, 152.0845262
+BP Normanhurst, 155 Pennant Hills Rd, Normanhurst, 137, r, true, -33.7245245, 151.0900699
+Speedway Ingleburn, 13/3 Lancester St, Ingleburn, 119, rp, true, -33.9901384, 150.8676598
+BP Merrylands West, 65 Kenyons Road, Merrylands West, 134, rpd, false, -33.8368004, 150.9684867
+BP Bankstown, 126 Chapel Rd South, Bankstown, 134, r, true, -33.9278698, 151.0298158
+BP Greenfield Park, 1 Greenfield Rd, Greenfield Park, 134, r, false, -33.8722165, 150.8901031
+7-Eleven Shellharbour, Corner Shellharbour , Shellharbour, 145, rp, true, -34.5792727, 150.8622191
+Puma Energy Marsden Park, 65 Garfield Road West , Marsden Park, 127, rp, false, -33.6850551, 150.8531076
+BP Fox Hills, 152 Toongabbie Rd, Girraween, 135, rp, false, -33.7955510, 150.9390748
+7-Eleven Croydon Park, 45 Georges River Road, Croydon Park, 132, rp, false, -33.8942780, 151.1115051
+United Petroleum Rydalmere, 262-272 Victoria Road, Rydalmere, 130, rp, true, -33.8100763, 151.0323885
+Caltex Shoalhaven Heads, 52-54 Shoalhaven Heads Rd, Shoalhaven Heads, 131, rpd, false, -34.8483362, 150.7356922
+Metro Minto, 1 Brookfield Road, Minto, 118, rpd, false, -34.0315380, 150.8479658
+Westside Doonside, 13-15 Doonside Rd, Doonside, 127, rpd, false, -33.7653777, 150.8692471
+Independent Lalor Park, Lot 8 Comercial Road, Lalor Park, 126, r, false, -33.7628296, 150.9308224
+Metro Londonderry, 486 Londonderry Rd, LONDONDERRY, 128, rpd, false, -33.6425585, 150.7356436
+Caltex Woolworths Dural, 532 Old Northern Road, Dural, 126, rp, true, -33.6935004, 151.0203935
+BP Brunswick Heads, 50 Tweed Street, Brunswick Heads, 132, rp, false, -28.5418890, 153.5473706
+Metro Pendle Hill, 229 Wentworth Avenue, Pendle Hill, 124, r, true, -33.8002287, 150.9559619
+Independent Oberon, 84 Oberon Street, Oberon, 125, rpd, false, -33.7050647, 149.8604802
+7-Eleven Riverstone, 55 Garfield Road, Riverstone, 125, rpd, true, -33.6779341, 150.8636809
+7-Eleven Dapto, 125 Princes Highway , Dapto, 133, r, false, -34.4987473, 150.7914033
+7-Eleven Kings Park, 363 Vardys Road, Kings Park, 125, rp, true, -33.7466000, 150.9068804
+BP Greystanes, 2-4 Kippax St, Greystanes, 133, r, false, -33.8279127, 150.9379245
+Metro Fuel Fairfield West, 72 Thorney Road, Fairfield West, 123, r, true, -33.8736690, 150.9241931
+Caltex Kenthurst, 137 Kenthurst Rd, Kenthurst, 142, rp, false, -33.6608489, 151.0053857
+7-Eleven Plumpton, 291 Rooty Hill Road North, Plumpton, 133, rpd, true, -33.7535721, 150.8404348
+7-Eleven Quakers Hill, 83 Lalor Road , Quakers Hill, 123, r, false, -33.7275320, 150.8965981
+7-Eleven Corrimal, 138-146 Princes Highway, Corrimal, 142, r, true, -34.3699146, 150.8977565
+Caltex East Corrimal, 2-4 Railway Street, East Corrimal, 135, r, false, -34.3743967, 150.9088200
+Speedway Regents Park, 27-29 Amy Steet, Regents Park, 125, rpd, true, -33.8837053, 151.0268751
+Budget Petrol Matraville, 553 Bunnerong Road, Matraville, 129, r, false, -33.9609075, 151.2314871
+Independent Oberon, Oberon Street, Oberon, 127, r, true, -33.7049005, 149.8629171
+Metro Fuel Frenchs Forest, 663 Warringah Road, Forestville, 129, rp, true, -33.7598885, 151.2114194
+BP Smithfield, 846 The Horsley Dr, Smithfield, 141, rpd, true, -33.8514982, 150.9256232
+BP Lane Cove, 62-70 Epping Rd, Lane Cove, 123, rp, false, -33.8110107, 151.1641754
+Independent Tarago, 2 Braidwood Rd, Tarago, 131, rpd, true, -35.0691438, 149.6547104
+Westside Petroleum (Wyong), 140 Pacific Hwy, WYONG, 117, rpd, false, -33.2821226, 151.4256048
+Independent Nowra, 215 Kinghorne Street, Nowra, 130, rpd, true, -34.8911089, 150.6012485
+Liberty Bonnyrigg, 61 Brown Road, Bonnyrigg, 120, rp, true, -33.8969330, 150.8838647
+BP Cabramatta West, 208-212 Cabramatta Rd, Cabramatta West, 134, r, false, -33.8960850, 150.9364730
+Independent Liverpool, 86 Castlereagh Stree, Liverpool, 126, rp, false, -33.9247084, 150.9199851
+BP Croydon Park, 236-240 Georges Rive, Croydon Park, 140, rp, false, -33.8963032, 151.1052919
+Speedway Westmead, 67-69 Hawkesbury Rd, Westmead, 126, rpd, false, -33.8133464, 150.9857100
+Coles Express Lismore Heights, 426 Ballina Road, Lismore Heights, 141, rp, false, -28.8106288, 153.3052913
+BP Villawood, 896A Woodville Rd, Villawood, 126, r, true, -33.8838909, 150.9760272
+United Petroleum Dubbo, Cnr Fitzroy , Dubbo, 127, rp, false, -32.2476438, 148.6137434
+Enhance Granville, 2 Rawson Road, GRANVILLE, 132, rpd, false, -33.8636255, 151.0088382
+United Petroleum Leeton, 110 Kurrajong Avenue, Leeton, 132, rpd, true, -34.5557137, 146.4099481
+United Petroleum Orange, 174 Woodward Street, Orange, 117, r, true, -33.2801786, 149.0872687
+United Petroleum Bathurst, 35 William Street, Bathurst, 123, rp, false, -33.4161438, 149.5829172
+Independent Riverstone, 129 Piccadilly St, Riverstone, 120, r, true, -33.6762357, 150.8667758
+Caltex Charlestown, 81 Pacific Hwy, CHARLESTOWN, 124, rpd, false, -32.9671807, 151.6954957
+Caltex Coffs Harbour, 157 Orlando St, Coffs Harbour, 134, rp, true, -30.2896985, 153.1307527
+United Petroleum Pambula, Corner Quondola Street , Pambula, 132, r, false, -36.9280073, 149.8748423
+Srini Associates Pty Ltd, 42-46 King St, WARRAWONG, 121, rpd, false, -34.4837432, 150.8870811
+BP Leppington, 1389 Camden Valley Way, Leppington, 127, rpd, false, -33.9705440, 150.8127320
+BP Guildford, 257 Guildford Rd, GUILDFORD, 123, r, false, -33.8542315, 150.9888101
+Budget Oatley, 12B Oatley Parade, Oatley, 129, rp, true, -33.9823281, 151.0791437
+Metro Petroleum St Marys, 516-526 Great Western Hwy, ST MARYS, 120, rpd, false, -33.7703269, 150.7661360
+7-Eleven Kirrawee, 529-531 Princes Highway , Kirrawee, 137, rp, false, -34.0315015, 151.0766345
+Metro Fuel Regents Park, 360 Park Road, Regents Park, 106, rp, false, -33.8790087, 151.0248032
+Fast and Ezy, 104-106 Elizabeth Drive, Liverpool, 129, rpd, false, -33.9184100, 150.9132597
+United Petroleum Yagoona, 100 Rookwood Road, Yagoona, 124, rpd, false, -33.8992579, 151.0369241
+Metro Fuel Canterbury, 13 Canterbury Road, Canterbury, 124, r, true, -33.9078127, 151.1252332
+Independent Birrong, 1/158 Auburn Rd, Birrong, 125, r, false, -33.8975252, 151.0212829
+Speedway Woodpark, 32-36 Woodpark Rd, Woodpark, 126, rp, true, -33.8410479, 150.9633347
+United Petroleum Yagoona South, 45 Rookwood road, Yagoona South, 126, r, false, -33.9018769, 151.0371784
+Budget West Ryde, 2-4 Chatham Road, West Ryde, 125, rp, true, -33.8066846, 151.0867365
+Westside Campbelltown, 104 Lindsay Street, Campbelltown, 126, rp, false, -34.0655773, 150.8258332
+BP Fairfield, 183 The Horsley Drive, Fairfield, 115, r, false, -33.8778303, 150.9661868
+Speedway Kings Langley, 18 Solander Road, Kings Langley, 130, rpd, true, -33.7560684, 150.9435594
+BP Engadine, 963 Old Princes Hwy, Engadine, 136, rpd, true, -34.0642990, 151.0167048
+Coles Express Orange, Summer St , Orange, 125, r, true, -33.2838014, 149.1012640
+Caltex Hoxton Park, 358 Hoxton Park Road, HOXTON PARK, 144, r, false, -33.9282285, 150.8817251
+BP Lugarno, 1046 Forest Road, Lugarno, 131, rpd, true, -33.9774099, 151.0469226
+BP Wilberforce, 362 Putty Road, Wilberforce, 135, rp, true, -33.5287176, 150.8301421
+Metro Fuel Doyalson, 50 Pacific Highway, Doyalson, 107, rpd, true, -33.1996914, 151.5233893
+Russell Vale Service Station, 115 Bellambi Lane, BELLAMBI, 134, rpd, false, -34.3613368, 150.8995117
+Metro Fuel Narwee, 34 Bryant street, Narwee, 123, r, true, -33.9404058, 151.0308067
+Shell Young, 85 Main St, YOUNG, 128, rp, true, -34.3138214, 148.2953061
+Westside Guildford, 210 Guildford road, Guildford, 126, r, false, -33.8551556, 150.9908562
+Budget Auburn, 98 Park Road, Auburn, 127, rpd, true, -33.8571410, 151.0289206
+Caltex Port Kembla, 1-3 Church St, PORT KEMBLA, 122, rp, true, -34.4845684, 150.9040058
+Freedom Fuel, 119 Towradgi Road, Towradgi, 136, r, false, -34.3843822, 150.9035335
+Metro Petroleum Blacktown, 144 Sunnyholt Road, Blacktown, 121, rp, false, -33.7534134, 150.9151649
+Independent Port Kembla, 2-4 Church Street, Port Kembla, 122, rp, false, -34.4856092, 150.9032748
+Enhance Merrylands, 506 Merrylands Road, Merrylands, 124, rpd, true, -33.8326826, 150.9697462
+BP Blacktown, 162 Sunnyholt Rd, Blacktown, 128, rp, false, -33.7516930, 150.9152130
+Speedway Haberfield, 273 Parramatta Rd, Haberfield, 119, rpd, true, -33.8750322, 151.1287355
+BP Belfield, 53 Punchbowl Rd, Belfield, 136, r, true, -33.9027314, 151.0824099
+Speedway Granville, 348 Blaxcell Street, Granville, 120, r, false, -33.8571632, 151.0070898
+United Marulan, 84-90 George Street, Marulan, 131, r, false, -34.7084057, 150.0085929
+Caltex Wetherill Park, Cnr The Horsley Dr , Wetherill Park, 128, rpd, true, -33.8496102, 150.9056100
+Caltex Port Macquarie, 100 Hastings River Dr, Port Macquarie, 104, rpd, true, -31.4289249, 152.8820717
+Caltex Seven Hills, 38 Abbott Rd, Seven Hills, 128, rpd, true, -33.7668196, 150.9546672
+Caltex Seven Hills, 105 Station Rd Cnr Powers St, Seven Hills, 133, rp, true, -33.7738903, 150.9443515
+Caltex Taree South, Cnr Manning River Dr , Taree South, 124, rpd, true, -31.9296893, 152.4655584
+Caltex Wagga Wagga, Docker St Cnr Edward St, Wagga Wagga, 119, rp, false, -35.1171564, 147.3562138
+Caltex South Wentworthville, 313 Great Western Hwy, South Wentworthville, 124, rpd, true, -33.8163788, 150.9718311
+Caltex Merrylands, 229 Woodville Rd Cnr Lackey St, Merrylands, 137, r, true, -33.8457021, 150.9979126
+Caltex Moruya, 80-84 Campbell Street, Moruya, 129, rp, true, -35.9120161, 150.0823744
+Caltex North Bondi, 321 Old South Head Rd, North Bondi, 143, rp, true, -33.8846731, 151.2686065
+Caltex Kooringal, 265-267 Lake Albert Rd, Kooringal, 98, r, true, -35.1407736, 147.3755366
+Caltex Broken Hill, 73-87 Oxide St Cnr Beryl St, Broken Hill, 121, rpd, false, -31.9547962, 141.4659472
+Caltex Buronga, 3-7 Hendy Rd, Buronga, 129, r, true, -34.1705662, 142.1813574
+Caltex Balranald, Sturt Highway, Balranald, 119, r, false, -34.6212878, 143.3910720
+Puma Energy Marsden Park, 65 Garfield Road West , Marsden Park, 132, rp, false, -33.6850551, 150.8531076
+BP St Marys, 12 Gallipoli St, St Marys, 134, rpd, true, -33.7813250, 150.7711334
+Coles Express Wyalong, Mid Western Hwy , Wyalong, 133, rp, true, -33.9221846, 147.2006745
+Coles Express Umina, 1-3 Sydney Ave , Umina, 138, rp, true, -33.5212303, 151.3163554
+Coles Express Wattle Grove, 115 Heathcote Rd, Wattle Grove, 129, rpd, true, -33.9464442, 150.9469075
+Coles Express Ryde, 45 Lane Cove Rd , Ryde, 139, rpd, false, -33.8073037, 151.1099877
+Coles Express Rouse Hill, 43 Panmure Rd , Rouse Hill, 149, r, true, -33.6828426, 150.9163622
+Coles Express Albion Park, 252 Princes Highway, Albion Park, 152, rpd, false, -34.5676634, 150.8022336
+Coles Express Bass Hill, 884-888 Hume Hwy , Bass Hill, 157, rpd, false, -33.8996197, 150.9975012
+Coles Express Canley Vale, 65-99 Hume Highway, Canley Vale, 129, rp, true, -33.8929887, 150.9606219
+Coles Express Bulli, 279-287 Princes Highway, Bulli, 150, rpd, false, -34.3365369, 150.9121426
+Coles Express Dural, 592-596 Old Northern Rd, Dural, 142, rpd, false, -33.6942897, 151.0313508
+Coles Express Doonside, 427 Bungarribee Road, Doonside, 136, r, false, -33.7729735, 150.8763299
+Coles Express Dapto, 152-158 Princes Hwy, Dapto, 138, r, true, -34.4940144, 150.7955566
+Coles Express Oyster Bay, 26-28 Georges River Rd , Oyster Bay, 165, rp, false, -34.0015615, 151.0871654
+Coles Express Ramsgate, 274-276 Grand Parade , Ramsgate, 134, r, true, -33.9854492, 151.1471811
+Coles Express Pennant Hills, 369-371 Pennant Hills Rd, Pennant Hills, 140, r, false, -33.7388423, 151.0734061
+Coles Express Minto, 73 Pembroke Rd , Minto, 140, rpd, false, -34.0230484, 150.8502371
+Coles Express Leppington, 1443 Camden Valley Way, Leppington, 133, r, true, -33.9664297, 150.8155569
+Coles Express Kingsgrove, 137-141 Kingsgrove Road, Kingsgrove, 149, r, false, -33.9328051, 151.0991063
+Coles Express Lane Cove, 250 Burns Bay Road, Lane Cove, 150, r, false, -33.8175154, 151.1516567
+Coles Express Gymea, 470 Princes Hwy , Gymea, 116, r, true, -34.0275322, 151.0843534
+7-Eleven Corrimal, 138-146 Princes Highway, Corrimal, 140, r, false, -34.3699146, 150.8977565
+7-Eleven Gosford West, 55 Central Coast Highway, Gosford West, 106, rpd, true, -33.4269106, 151.3289226
+7-Eleven Baulkham Hills, 217-219 Seven Hills Road, Baulkham Hills, 136, rp, false, -33.7554992, 150.9634245
+7-Eleven Bexley, 611-615 Mimosa Street , Bexley, 127, rpd, false, -33.9555417, 151.1184361
+7-Eleven Castle Hill, 255 -257 Old Northern Road, Castle Hill, 149, rp, false, -33.7347310, 151.0035726
+7-Eleven Campbelltown, 71 Blaxland Road, Campbelltown, 133, r, false, -34.0613305, 150.8100161
+7-Eleven Kensington, 131 Anzac Parade , Kensington, 126, rp, true, -33.9102752, 151.2229147
+7-Eleven Kirrawee, 529-531 Princes Highway , Kirrawee, 136, rp, false, -34.0315015, 151.0766345
+7-Eleven Guildford, 272-278 Woodville Road, Guildford, 150, r, true, -33.8481600, 150.9968774
+7-Eleven Gymea, 110 Gymea Bay Rd , Gymea, 143, rpd, false, -34.0373199, 151.0848847
+7-Eleven Northmead, 56 Windsor Road , Northmead, 135, rp, true, -33.7908799, 150.9968192
+7-Eleven Minchinbury, 1042 Great Western Highway, Minchinbury, 119, rpd, true, -33.7821955, 150.8286158
+7-Eleven Penshurst, 612 Forest Road, Penshurst, 127, rp, true, -33.9615196, 151.0795025
+7-Eleven Plumpton, 291 Rooty Hill Road North, Plumpton, 127, r, false, -33.7535721, 150.8404348
+7-Eleven Riverstone, 55 Garfield Road, Riverstone, 136, rp, true, -33.6779341, 150.8636809
+7-Eleven Rooty Hill, Corner Evans , Rooty Hill, 128, rpd, false, -33.7813540, 150.8473344
+7-Eleven Seven Hills, 151 Prospect Hwy , Seven Hills, 131, rp, true, -33.7692704, 150.9425183
+7-Eleven Toongabbie, 3 Metella Road , Toongabbie, 130, r, true, -33.7869273, 150.9463855
+Independent Sefton, 101 Hector Street, Sefton, 119, r, true, -33.8839080, 151.0071480
+Caltex Villawood, 276 Miller Road, Villawood, 129, rp, false, -33.8876146, 150.9920889
+Budget Campsie, 403 Canterbury Road, Campsie, 129, rp, true, -33.9161108, 151.1086980
+Budget Annangrove, 1/169 Annangrove Rd, Annangrove, 135, rpd, true, -33.6710816, 150.9562552
+Metro Redhead, 100 Collier Street, Redhead, 132, rpd, true, -33.0087800, 151.7102660
+Metro Fuel Blacktown, 69 Richmond Road, Blacktown, 115, rpd, true, -33.7635099, 150.9023929
+Westside Greenacre, 192-196 Waterloo Rd, Greenacre, 132, rp, false, -33.9062938, 151.0573482
+Blue Dolphin Service Station Yamba, 31-65 Yamba Road, Yamba, 139, r, false, -29.4337219, 153.3411878
+7-Eleven Mount Druitt, Lot 6 Luxford Road, Mount Druitt, 125, rp, false, -33.7646334, 150.8266994
+7-Eleven Blacktown, 354 Corner Flushcombe Road , Blacktown, 129, r, false, -33.7953856, 150.9046320
+Speedway Bass Hill, 972 Hume Highway, Bass Hill, 124, rpd, false, -33.8960464, 150.9913336
+7-Eleven Enmore, 22 Stanmore Road , Enmore, 132, r, true, -33.8993626, 151.1697697
+Budget Petrol Petersham, 208 Newcanterbury Rd, Petersham, 123, rpd, false, -33.8970389, 151.1489567
+South Petrol, 48 Illawarra St, PORT KEMBLA, 126, rpd, false, -34.4866832, 150.9017531
+Metro Auburn, 74-78 Auburn Road, Auburn, 123, r, false, -33.8546493, 151.0325076
+BP West Ryde, 898-902 Victoria Rd, West Ryde, 127, r, true, -33.8119226, 151.0947297
+Costco Marsden Park, 10 Langford Drive, MARSDEN PARK, 110, rp, false, -33.7212934, 150.8400435
+Metro Toongabbie, 59 The Crescent, Toongabbie, 127, rp, false, -33.7963004, 150.9297148
+Independent Condell Park, 130 Edgar Street, Condell Park, 120, rp, true, -33.9162246, 151.0137337
+Costco Casula, 20 Parkersfarm Place, Casula, 120, rp, false, -33.9593252, 150.8793440
+Metro Petroleum Chester Hill, 172 Hector St, CHESTER HILL, 139, r, false, -33.8889333, 151.0054332
+Metro Fuel Cranebrook, 1 Cranebrook Rd, Cranebrook, 124, r, false, -33.6892535, 150.7267128
+Metro Fuel Old Toongabbie, 5 Picasso Cr, Old Toongabbie, 123, r, true, -33.7863623, 150.9673428
+BP Newcastle West, 113 Parry Street, Newcastle West, 123, rp, false, -32.9256590, 151.7559340
+Budget Earlwood, 200 Homer St, Earlwood, 130, r, false, -33.9270762, 151.1285834
+Metro Marrickville, 379 Enmore Road, Marrickville, 129, r, false, -33.9044479, 151.1679720
+Metro Fuel Condell Park, 149 Eldridge Road, Condell Park, 119, rpd, false, -33.9304726, 151.0119877
+United Sutherland, 1-3 East Parade, Sutherland, 139, r, true, -34.0301306, 151.0575000
+Independent Balgownie, 99 Balgownie Road, Balgownie, 132, rpd, true, -34.3892562, 150.8808540
+BP Muswellbrook, 139-141 Maitland St, MUSWELLBROOK, 129, rpd, false, -32.2818008, 150.9010431
+BP Connect Ashfield, 580-586 Parramatta Road, Croydon, 140, rp, true, -33.8744317, 151.1264216
+BP Connect Quakers Hill, 45 Hambledon Road, Quakers Hill, 156, rpd, true, -33.7175350, 150.8921090
+Speedway Liverpool, 406 Macquarie Street, Liverpool, 118, r, false, -33.9281803, 150.9191163
+United Bass Hill, 924-928 Hume Highway, BASS HILL, 114, rp, true, -33.8978331, 150.9947713
+Shell Kemps Creek, 1413 Elizabeth Drive, Kemps Creek, 120, r, true, -33.8789556, 150.7951152
+Independent North Lismore, 111 Terania Street, North Lismore, 122, rp, true, -28.8016302, 153.2695714
+7-Eleven St Marys, Corner Mamre Road , St Marys, 119, rpd, true, -33.7773306, 150.7722766
+Metro Fuel Croydon, 221-229 Elizabeth St, Croydon, 125, r, false, -33.8827815, 151.1178571
+Mountain Motors Walcha, 18n Derby St, WALCHA, 130, rp, false, -30.9846130, 151.5937762
+Independent Bradbury, 310 St Johns Road, Bradbury, 120, rp, false, -34.0894059, 150.8079043
+Independent Canley Heights, 190 Canley Vale Rd, Canley Heights, 132, rpd, true, -33.8845270, 150.9285570
+BP Moama, 49/51 Meninya St, Moama, 134, r, false, -36.1110520, 144.7548760
+Prime Earlwood, 33-35 Wardell Road, Earlwood, 128, rpd, true, -33.9160066, 151.1335715
+Speedway Fairfield, 251 The Horsley Drive, Fairfield, 124, rp, false, -33.8713737, 150.9627980
+Independent Culburra Beach, 77 Lake Circuit, Culburra Beach, 129, r, true, -34.9324380, 150.7708047
+Metro Williamtown, Cnr Nelson Bay Road And Lavis Lane, WILLIAMTOWN, 125, rpd, false, -32.8178434, 151.8438976
+BP Morisset, 50 Alliance Avenue, Morisset, 140, rp, false, -33.1164000, 151.4776000
+Westside Cringila, 95 Five Islands Road, Cringila, 126, r, false, -34.4660170, 150.8720510
+Budget Kingsgrove, 2 Commercial Rd, Kingsgrove, 124, rpd, true, -33.9396406, 151.1005236
+United Petroleum Ourimbah, 52 Pacific Highway, Ourimbah, 121, rp, true, -33.3498917, 151.3695328
+7-Eleven Unanderra, 41 - 43 Princes Highway, Unanderra, 137, rpd, false, -34.4502963, 150.8492785
+Independent Brunswick Heads, 23 Old Pacific Highway, Brunswick Heads, 128, rp, true, -28.5535366, 153.5457109
+Caltex Thornleigh, 200 Pennant Hills Rd, THORNLEIGH, 155, r, true, -33.7265323, 151.0836537
+7-Eleven Camperdown, 198 Parramatta Road , Camperdown, 115, rpd, true, -33.8870534, 151.1741399
+Independent Coffs Harbour, 33 Ocean Parade, Coffs Harbour, 129, rpd, true, -30.2905092, 153.1378390
+BP Austinmer, 42 Lawrence Hargrave, Austinmer, 142, rpd, false, -34.3004516, 150.9388366
+7-Eleven Pheasants Nest North, Lot 13 South Western Fwy , Pheasants Nest North, 92, rp, true, 1000, 1000
+Westside Petroleum Ingleburn, 24 Lagonda Dr, INGLEBURN, 116, rp, false, -34.0103374, 150.8761363
+Speedway Auburn, 238 Cumberland Rd, Auburn, 118, rp, true, -33.8642090, 151.0231530
+7-Eleven Pheasants Nest, Lot 12 South Western Freeway , Pheasants Nest, 69, rp, true, -34.2828800, 150.6394311
+Speedway Horsley Drive, 769 The Horsley Drive, Smithfield, 120, r, false, -33.8521323, 150.9321366
+Speedway Smithfield, 26-26 Smithfield Rd, Smithfield, 119, rpd, true, -33.8514800, 150.9429309
+BP Denistone East, 295 Quarry Rd, Denistone East, 132, r, true, -33.7958574, 151.1029574
+Caltex Granville, 144 Parramatta Rd, GRANVILLE, 132, rp, true, -33.8305080, 151.0110880
+BP Roadhouse Murrurundi, 3-5 Mayne Street, MURRURUNDI, 127, r, false, -31.7658228, 150.8427037
+Caltex Port Kembla, 16 Flinders St, Port Kembla, 119, rp, false, -34.4700489, 150.8942571
+Caltex Belmont North, 406 Pacific Hwy, BELMONT NORTH, 125, rpd, false, -33.0247855, 151.6624347
+Independent Girraween, 133-137 Targo, Girraween, 127, rp, false, -33.7994749, 150.9516374
+Prime Earlwood, 108 Homer St, Earlwood, 124, rp, true, -33.9240465, 151.1358821
+Caltex Charmhaven, 13-15 Pacific Hwy Cnr Costa Ave, Charmhaven, 114, rp, false, -33.2165476, 151.5084819
+Lurnea Service Station, 60 Hill Road, Lurnea, 139, rpd, true, -33.9315947, 150.8965807
+Independent Walbundrie, 7 Billabong St., Walbundrie, 130, rpd, true, -35.6916321, 146.7215255
+Independent Bungendore, 44 Malbon Street, Bungendore, 140, rp, false, -35.2561968, 149.4426314
+Metro Fuel Deniliquin, 90 Davidson Street, Deniliquin, 120, rpd, false, -35.5265987, 144.9752743
+Metro Fuel Alfredtown, 3012 Sturt Highway, Alfredtown, 122, r, false, -35.1609932, 147.5119666
+Metro Fuel Narrandera, 224 Irrigation Way, Narrandera, 122, rpd, false, -34.7366925, 146.5319597
+Liberty Coffs Harbour, 150 Pacific Highway, COFFS HARBOUR, 131, r, true, -30.2904469, 153.1195309
+BP Greta, 122 High St, GRETA, 125, rpd, true, -32.6762511, 151.3874526
+Speedway Villawood, 45 Fairfield St, Villawood, 117, rpd, false, -33.8695737, 150.9806258
+Metro Warwick Farm, 64 Orange Grove Road, Warwick Farm, 120, r, false, -33.9124779, 150.9193580
+Independent Carlingford, 482 North Rocks Rd, Carlingford, 135, rp, false, -33.7650735, 151.0579015
+BP Woonona, 426 Princes Hwy, Woonona, 133, rp, true, -34.3416423, 150.9056012
+Independent Appin, 71 Appin Road, Appin, 119, rp, true, -34.2008853, 150.7875840
+Metro Fuel Doonside, 198 Hill End Road, Doonside, 116, rpd, false, -33.7471215, 150.8722673
+Powerfuel, 101 Blaxcell St, GRANVILLE, 116, rp, true, -33.8426213, 151.0106369
+Metro Revesby, 10 Milperra Road, Revesby, 120, rp, false, -33.9383715, 151.0171926
+Lucky7 Grose Vale, 659 Grose Vale Road, Grose Vale, 128, rp, true, -33.5822601, 150.6606730
+Caltex Tahmoor, 2900 Remembrance Drwy, BARGO, 140, rpd, false, -34.2442749, 150.5765719
+APW, 449 Great Western Highway, Wentworthville, 126, r, false, -33.8126694, 150.9571701
+Metro Fuel Bolwarra Heights, 200 Paterson Rd, Bolwarra Heights, 119, r, false, -32.7010902, 151.5845807
+BP Lake Munmorah, 335 Pacific Highway, Lake Munmorah, 127, rpd, false, -33.1901871, 151.5678539
+Independent Tumbarumba, 76 The Parade, Tumbarumba, 132, rp, false, -35.7730016, 148.0112368
+Metro Fuel Jannali, 97-99 Wattle Road, Jannali, 127, rp, false, -34.0167138, 151.0674171
+Laurinda Pty Ltd, 126 Pacific Hwy, SWANSEA, 124, rp, false, -33.0881270, 151.6382615
+Caltex Coolongolook, Cnr Pacific Hway , COOLONGOLOOK, 131, r, true, -32.2156259, 152.3227334
+Caltex Woolworths Taree, 70-76 Manning Street , Taree, 133, rpd, true, -31.9092136, 152.4583298
+Metro Peakhurst, 836 Forest Road, Peakhurst, 122, rpd, true, -33.9599634, 151.0607363
+Independent Horsley Park, 1766 Horsley Drive, Horsley Park, 129, rpd, false, -33.8420055, 150.8536228
+Speedway Revesby, 106 Milperra Rd, Revesby, 116, rpd, true, -33.9355143, 151.0087313
+BP Wallacia, 1595 Mulgoa Rd, Wallacia, 131, rp, false, -33.8641720, 150.6405792
+Independent Albion Park, 114 Tongarra Rd, Albion Park, 136, rpd, false, -34.5704066, 150.7765938
+Budget Ashfield, 22 Charlotte Street, Ashfield, 134, r, false, -33.8864630, 151.1256877
+Independent Laurieton, 461 Ocean Drive, Laurieton, 126, rp, true, -31.6437716, 152.7977800
+BP Gymea, 760 Kingswat, Gymea, 131, r, false, -34.0328976, 151.0851420
+Caltex Kelso, 17 Great Western Hwy, Kelso, 134, rpd, false, -33.4186308, 149.6022851
+Caltex Glen Innes, Cnr Church Street , GLEN INNES, 135, rp, false, -29.7383021, 151.7379861
+Riverview Service Centre, 595 Ocean Dr, NORTH HAVEN, 129, rpd, true, -31.6405027, 152.8154641
+BP Chinderah, 2-12 Chinderah Bay Drive, Chinderah, 142, rpd, false, -28.2272739, 153.5571628
+Caltex Tamworth, 21 White St Cnr Marius St, Tamworth, 135, r, true, 1000, 1000
+BP Kirrawee, 596 Princes Highway, Kirrawee, 131, rpd, true, -34.0322988, 151.0711519
+7-Eleven Orange, 90 Bathurst Road, Orange, 135, r, false, -33.2917156, 149.1107271
+Metro Petroleum Cootamundra, 111 Sutton St, COOTAMUNDRA, 127, rpd, true, -34.6440316, 148.0246285
+Junction Hill Family Store, 5 Casino Rd, JUNCTION HILL, 126, rp, true, -29.6450725, 152.9268896
+Metro Fuel Fairfield, 82-86 Hamilton Road, Fairfield, 118, rpd, false, -33.8729033, 150.9499226
+Metro Yagoona, 585 Hume Hwy, YAGOONA, 101, rpd, true, -33.9061028, 151.0140595
+Metro Fuel Ulladulla, 74 Princess Highway, ULLADULLA, 124, rpd, true, -35.3507505, 150.4760921
+Caltex Orange, 70-74 Summer St, Orange, 142, r, true, -33.2831181, 149.0940725
+Caltex North Ryde, 41-43 Epping Rd Cnr Wicks Rd, North Ryde, 138, rpd, false, -33.7912863, 151.1304060
+Caltex Sandgate, 162 Maitland Rd, Sandgate, 119, rpd, true, -32.8650429, 151.7061704
+Caltex Wamberal, 656 The Entrance Rd, Wamberal, 113, rpd, false, -33.4234643, 151.4375194
+Caltex Batemans Bay, 2 Princes Hwy Cnr Kings Hwy, Batemans Bay, 114, rp, true, 1000, 1000
+Caltex Cobar, Barrier Highway, Cobar, 130, rp, false, -31.5061637, 145.7973928
+Caltex Dee Why, 793-797 Pittwater Rd, Dee Why, 132, rp, false, -33.7456837, 151.2920603
+Caltex Kirrawee, 487 Princes Hwy, Kirrawee, 115, rpd, true, -34.0292721, 151.0805339
+Caltex Longueville, 5-7 Northwood Rd, Longueville, 145, rp, false, -33.8242994, 151.1724645
+Caltex Lansvale, 141-151 Hume Hwy Cnr Chadderton St, Lansvale, 134, r, false, -33.8945348, 150.9577319
+Caltex Gosford West, 30A Pacific Hwy, Gosford West, 99, rpd, false, -30.8010167, 152.8690518
+Caltex Gosford West, 283 Manns Rd Cnr Merinee Rd, Gosford West, 116, rp, true, -33.4169310, 151.3247698
+Caltex Tamworth, 21 White St, TAMWORTH, 137, r, true, -31.0924908, 150.9342339
+Caltex Armidale, 6-8 Queen Elizabeth Dr, ARMIDALE, 134, r, true, -30.5034629, 151.6510958
+Westside Freshwater, 46 Albert Street, Freshwater, 130, r, false, -33.7773132, 151.2869189
+The Pit Stop Service Station & Cafe, 2842 Nelson Bay Rd, SALT ASH, 124, r, true, -32.7865973, 151.9282550
+7-Eleven Warners Bay, 393 Hillsborough Road , Warners Bay, 115, rpd, false, -32.9659076, 151.6543842
+7-Eleven West Pennant Hills, 552 Pennant Hills Road, West Pennant Hills, 123, r, true, -33.7468476, 151.0507795
+7-Eleven St Marys, Corner Mamre Road , St Marys, 128, r, false, -33.7773306, 150.7722766
+7-Eleven Ryde, 326-328 Blaxland Road, Ryde, 124, r, true, -33.8025134, 151.1003356
+7-Eleven Arndell Park, 180 Reservoir Road, Arndell Park, 124, r, true, -33.7967754, 150.8971416
+7-Eleven Enmore, 22 Stanmore Road , Enmore, 134, rp, true, -33.8993626, 151.1697697
+7-Eleven Eastern Creek, Lot 16 - 25 Great Western Highway, Eastern Creek, 136, rpd, true, -33.7759809, 150.8006380
+7-Eleven Dapto, 125 Princes Highway , Dapto, 131, rpd, false, -34.4987473, 150.7914033
+7-Eleven Minchinbury, Lot 3 Great Western Highway , Minchinbury, 136, rpd, false, -33.7765673, 150.8019140
+7-Eleven Hassall Grove, 795 Luxford Road , Hassall Grove, 120, r, false, -33.7353279, 150.8366605
+Independent Walcha, 50E Fitzroy Street, Walcha, 140, r, false, -30.9859364, 151.5958757
+Tanwar Petroleum, 281 New Canterbury Rd, Lewisham, 122, rp, false, -33.8985445, 151.1456662
+Budget Smithfield, 729 The Horsley Drive, Smithfield, 123, r, false, -33.8522655, 150.9357342
+Metro Fuel Tahmoor, Remembrance Driveway, Tahmoor, 120, rpd, true, -34.2246766, 150.5927948
+7-Eleven Toukley, 287 Main Street, Toukley, 127, r, true, -33.2649374, 151.5460650
+Caltex Fairy Meadow, 30-34 Princes Hwy, FAIRY MEADOW, 131, rp, true, -34.3891955, 150.8940568
+Westside Unanderra, 40 Princes Hwy, UNANDERRA, 129, r, true, -34.4519307, 150.8469844
+Independent Eden, 26 Mitchell St, Eden, 134, rp, true, -37.0636943, 149.9029367
+BP Macksville, Partridge Street, Macksville, 129, r, false, -30.7088051, 152.9227089
+United Macksville, 44 Cooper Street, Macksville, 129, rp, true, -30.7128688, 152.9211714
+United South West Rocks, 102 Gregory Street, South West Rocks, 129, r, true, -30.8942531, 153.0399629
+BP Kempsey, 22 Carri Street, Kempsey, 131, rpd, true, -31.0915648, 152.8369678
+Budget Petrol, 37 Crystal St., Petersham, 128, rp, false, -33.8901281, 151.1586491
+BP Edgecliff, 67 New South Head Rd, EDGECLIFF, 155, rpd, true, -33.8769513, 151.2312987
+Mobil Gundagai, 223 Sheridan Street, Gundagai, 129, rpd, true, -35.0634754, 148.1033174
+BP Ingleburn, Cnr Williamson , INGLEBURN, 124, rp, false, -33.9964721, 150.8521047
+BP Raglan (NSW), 39 Sydney Road, Raglan, 134, rpd, true, -33.4227340, 149.6485351
+BP Kelso, 63 Sydney Road, Kelso, 139, rp, true, -33.4191666, 149.6076844
+BP Orange (Bathurst Road), 56-60 Bathurst Road, Orange, 140, rp, false, -33.2897828, 149.1086318
+BP Karuah, 403 Tarean Street, Karuah, 128, r, false, -32.6539823, 151.9629892
+United Sanctuary Point, 147 Larmer Ave, Sanctuary Point, 130, r, true, -35.0991910, 150.6330299
+Shell Condobolin, 114-118 Bathurst St, Condobolin, 129, r, false, -33.0887370, 147.1467670
+BP Wellington, Cnr Arthur , Wellington, 133, rp, false, -32.5558027, 148.9447654
+Independent Krambach, 2/3728 Bucketts Way, Krambach, 126, r, false, -32.0516578, 152.2593727
+Metro Fuel East Corrimal, 61-63 Murray Road, East Corrimal, 125, rpd, true, -34.3762829, 150.9084003
+Caltex Starmart Goulburn, 68 Goldsmith Street, Goulburn, 130, r, true, -34.7505216, 149.7192280
+Caltex Starshop, 315 Auburn Street, Goulburn, 126, rp, false, -34.7494460, 149.7233308
+Caltex Wyoming, 465 Pacific Hwy, WYOMING, 126, rpd, false, -33.4093924, 151.3500005
+BP Shalvey, 481 Luxford Road, Shalvey, 69, rp, false, -33.7294820, 150.8052847
+Caltex Armidale, 142 Marsh St, ARMIDALE, 138, r, true, -30.5168864, 151.6676611
+Werris Creek Fuels, 18 Single St, WERRIS CREEK, 131, r, true, -31.3444291, 150.6476869
+Shell Kurri Kurri, 307 Lang Street, Kurri Kurri, 124, rp, false, -32.8238996, 151.4650173
+Caltex Coffs Harbour, 157 Orlando St, Coffs Harbour, 99, rp, true, -30.2896985, 153.1307527
+BP Queanbeyan, 2 Lowe Street, Queanbeyan, 141, r, true, -35.3510022, 149.2297815
+Caltex Young Roadhouse, Young Roadhouse 4623 Olympic Hwy, YOUNG, 132, rpd, true, -34.3375578, 148.2824729
+Matilda Eden, 52 Mitchell Street, Eden, 135, rpd, true, -37.0652738, 149.8989743
+BP Coffs Harbour, 380 Pacific Hwy, Coffs Harbour, 135, rp, false, -30.3172140, 153.0914578
+7-Eleven Mount Druitt, Lot 6 Luxford Road, Mount Druitt, 124, r, false, -33.7646334, 150.8266994
+Caltex Figtree, 99 Bellevue Rd, Figtree, 140, rpd, false, -34.4280895, 150.8543783
+Coles Express Eastern Creek, 611 Great Western Hwy , Eastern Creek, 132, rp, false, -33.7926824, 150.8705064
+Metro Fuel Ourimbah, 12 Pacific Hwy, Ourimbah, 119, rp, true, -33.3629699, 151.3713531
+BP Taree, 102 Commerce Street, Taree, 141, r, false, -31.9071017, 152.4501324
+7-Eleven Kelso, 64-68 Sydney Rd, Kelso, 135, rpd, true, -33.4184897, 149.6059998
+Metro Fuel Alexandria, 36 Henderson Road, Alexandria, 127, rp, true, -33.8974078, 151.1972045
+Caltex Five Dock, Fairlight St Cnr Ramsay Rd, Five Dock, 136, r, false, -33.8701144, 151.1309131
+Junee Tyre Service, Corner Cox And Main Street, JUNEE, 132, r, true, -34.8675057, 147.5847400
+Independent Broken Hill, 1 Blende St, Broken Hill, 132, r, false, -31.9641280, 141.4533598
+BP Loftus, 127 Loftus Ave, Loftus, 126, rp, false, -34.0456802, 151.0507289
+Metro Petroleum Forestville, 656 Warringah Rd, FORESTVILLE, 133, r, true, -33.7596126, 151.2120428
+Independent Toormina, 1/1 Craft Close, Toormina, 130, rp, true, -30.3416797, 153.0923325
+Independent Candelo, 40 William St, Candelo, 151, rp, true, -36.7665019, 149.6960370
+United Petroleum Dubbo, 195 Cobra Street, DUBBO, 135, rpd, false, -32.2571927, 148.6234937
+BK Cafe and Fuel, 70 Court St, MANILLA, 135, r, false, -30.7483521, 150.7245789
+Shell Temora, 145 - 147 Hoskins Street, Temora, 129, rp, true, -34.4457095, 147.5337162
+Metro Fuel Bellambi, 209-211 Rothery St, Bellambi, 130, rp, true, -34.3683005, 150.9101201
+Caltex Casino, 28-32 Dyraaba St, Casino, 124, r, false, -28.8550247, 153.0447913
+7-Eleven Kings Park, 363 Vardys Road, Kings Park, 124, rpd, true, -33.7466000, 150.9068804
+Mobil East Nowra, 112 Kalander Street, East Nowra, 124, r, true, -34.8881753, 150.6085039
+BP Boambee, 601 Pacific Hwy, Boambee, 138, r, true, -30.3351893, 153.0802826
+Mobil North Nowra, Lot23 Illaroo Road, North Nowra, 126, rpd, false, -34.8619625, 150.5982797
+Independent Kangaroo Valley, 32 Moss Vale Road, Kangaroo Valley, 130, rpd, true, -34.7300695, 150.5217476
+Shell Peak Hill, 112-118 Caswell St, Peak Hill, 135, rpd, false, -32.7265526, 148.1914795
+Metro Bilpin, 2742 Bells Line of Road, BILPIN, 117, rp, true, -33.5069479, 150.4990153
+Prime Silverdale, 2320 Silverdale Rd, Silverdale, 126, rp, true, -33.8906250, 150.6187461
+Independent Darlington Point, 7 Sturt Highway, Darlington Point, 122, rp, true, -34.5943702, 145.9925827
+Liberty Boambee, 752 Pacific Highway, Boambee, 133, r, false, -30.3441954, 153.0692397
+Metro Petroleum Morisset, 57 Dora St, Morisset, 120, rp, true, -33.1074112, 151.4901027
+Mobil Bomaderry, 33 Bolong Road, Bomaderry, 121, rp, false, -34.8560120, 150.6074530
+United Petroleum Cundletown, Cnr Main and Else Streets, Cundletown, 127, r, true, -31.8982032, 152.5172810
+United Taree, 85 Muldoon Street, Taree, 127, rp, false, -31.8976122, 152.4519203
+United Petroleum Taree, 56 Victoria Street, Taree, 132, r, true, -31.9105734, 152.4663299
+Metro Long Jetty, 326 The Entrance Rd, LONG JETTY, 113, rp, true, -33.3590227, 151.4845937
+Shell Cartwrights Hill, LOT 4 Bomen Rd, Cartwrights Hill, 128, rpd, false, -35.0697536, 147.3894114
+Metro Fuel Queanbeyan, 65 Tharwa Road, Queanbeyan, 132, rp, true, -35.3582843, 149.2207868
+Independent Leeton, 1 Pine Avenue, Leeton, 136, r, true, -34.5516168, 146.3999290
+Shell Wilton, 1109 Argyle St, WILTON, 138, rp, false, -34.2404434, 150.6991022
+Liberty Yamba, 30 Yamba street, Yamba, 135, rpd, true, -29.4371973, 153.3619494
+Metro Old Bar, 124 Old Bar Rd, OLD BAR, 134, rpd, false, -31.9668170, 152.5746110
+BP Termeil, 1600 Princes Hwy, TERMEIL, 131, r, true, -35.4854286, 150.3389024
+Caltex Greta, 2021 New England Hwy, Greta, 126, rp, false, -32.6669417, 151.3749112
+Independent Wagga Wagga, Edwards St, Wagga Wagga, 125, rp, true, -35.1175259, 147.3591016
+Independent Wagga Wagga, 151 Hammond Ave, Wagga Wagga, 127, r, false, -35.1224620, 147.3962860
+Independent Wagga Wagga, 7 Lake Albert Road, Wagga Wagga, 125, r, true, -35.1214490, 147.3784807
+Caltex Windsor South, 741 George St, Windsor South, 131, r, false, -33.6387055, 150.7839799
+Caltex Leppington, 1370-1380 Camden Valley Hwy, Leppington, 125, rpd, true, -33.9633190, 150.8182660
+Caltex Berowra, 12-14 Berowra Waters Rd, Berowra, 147, rp, true, -33.6233814, 151.1505540
+Caltex Belrose, 153 Forest Way, Belrose, 140, r, true, -33.7347490, 151.2212191
+Caltex Eastern Creek, M4 Motorway Eastbound, Eastern Creek, 135, r, false, -33.8016005, 150.8859626
+Caltex Chipping Norton, 30-40 Alfred Rd, Chipping Norton, 129, r, true, -33.9244447, 150.9648489
+Caltex Orange, 91-93 Elsham Ave Leewood Estate, Orange, 141, rp, true, -33.2833330, 149.1000000
+Caltex Wyong, M1 Northbound, Wyong, 125, r, true, -33.2795285, 151.4233877
+Independent Wagga Wagga, 131 Fernleigh Road, Wagga Wagga, 125, rpd, false, -35.1303081, 147.3418136
+Coles Express Fairfield, 436-438 The Horsley Dve , Fairfield, 133, r, true, -33.8637965, 150.9536995
+Coles Express Drummoyne, 39- 51 Victoria Rd, Drummoyne, 145, rpd, true, -33.8560441, 151.1589382
+Coles Express Avalon Beach, 2 Avalon Pde , Avalon Beach, 145, rpd, true, -33.6364098, 151.3302939
+Coles Express Blacktown, 132-136 Sunnyholt Road, Blacktown, 134, r, true, -33.7540830, 150.9145724
+Coles Express Hunters Hill, 4 Ryde Rd, Hunters Hill, 160, r, false, -33.8317033, 151.1416679
+Coles Express Kooragang, 130 Cormorant Rd , Kooragang, 129, rp, false, -32.8838059, 151.7620151
+Coles Express Northmead, 197 Windsor Road, Northmead, 140, rpd, true, -33.7774110, 151.0002100
+Coles Express Narrabeen, 1418 Pittwater Rd, Narrabeen, 135, r, false, -33.7135062, 151.2972371
+Coles Express North Ryde, 96 Wicks Road, North Ryde, 129, rp, true, -33.7941919, 151.1268216
+Coles Express Yallah, 1 Macquarie Place Haywards Bay, Yallah, 149, rpd, false, -34.5412259, 150.7858123
+Coles Express Thornleigh, 188-190 Pennant Hills Rd, Thornleigh, 136, rpd, true, -33.7247935, 151.0852848
+Coles Express St Ives, 179-181 Mona Vale Rd, St Ives, 157, r, false, -33.7312840, 151.1576300
+7-Eleven Shortland, 300 Sandgate Road, Shortland, 121, r, false, -32.8861683, 151.6955022
+7-Eleven Rozelle, 178-184 Victoria Road , Rozelle, 131, rp, true, -33.8629534, 151.1680570
+7-Eleven Hurlstone Park, 670 New Canterbury Road , Hurlstone Park, 133, rp, false, -33.9051000, 151.1300000
+7-Eleven Orange, 90 Bathurst Road, Orange, 133, rp, true, -33.2917156, 149.1107271
+7-Eleven Mosman, 45 Spit Road, Mosman, 123, rp, false, -33.8230398, 151.2436468
+7-Eleven Erina, 214 The Entrance Road, Erina, 109, rp, true, -33.4350293, 151.3877654
+7-Eleven Edgeworth, 745 Main Road, Edgeworth, 122, r, true, -32.9235092, 151.6213670
+7-Eleven Bankstown, 180 Stacey , Bankstown, 141, rpd, true, -33.9214482, 151.0392609
+7-Eleven Camperdown, 198 Parramatta Road , Camperdown, 125, rpd, true, -33.8870534, 151.1741399
+7-Eleven Burwood, Cnr Parramatta , Burwood, 133, rpd, false, -33.8690206, 151.1063497
+Kiah General Store, Kiah General Store 4 Kiah Store Rd, KIAH, 134, r, false, -37.1575422, 149.8563769
+Vignes Independent Petroleum, 28 Sawtell Rd, TOORMINA, 139, r, true, -30.3522394, 153.1003806
+7-Eleven Paddington, 25 Oxford Street, Paddington, 137, r, false, -33.8828565, 151.2201442
+Independent Casino, 80 Barker St, Casino, 122, r, true, -28.8643660, 153.0458904
+Independent Marrickville, 73-81 Marrickville Road, Marrickville, 127, rp, false, -33.9131635, 151.1620938
+Coles Express Casula, 629-631 Hume Highway, CASULA, 136, rpd, false, -33.9561595, 150.8927722
+7-Eleven Blacktown, 175 Richmond Road, Blacktown, 121, r, false, -33.7554937, 150.8917589
+Transwest Fuels, 286 Manilla St, MANILLA, 134, rp, true, -30.7397134, 150.7162884
+Transwest Fuels Nemingha, 1019 New England Hwy, Nemingha, 124, r, true, -31.1242388, 150.9878567
+Golden Apple Super Store, 2637 Irrigation Way, Leeton, 127, rp, false, -34.5742080, 146.4116767
+Caltex Starmart Manly, 86 Pittwater Rd, MANLY, 145, rpd, true, -33.7930688, 151.2858020
+Caltex Forresters Beach, The Entrance, FORRESTERS BEACH, 123, rpd, false, -33.4091248, 151.4618696
+Independent Albury, 127 North Street, Albury, 134, r, true, -36.0708184, 146.9441329
+Caltex Lake Munmorah, 1135 Pacific Highway, LAKE MUNMORAH, 127, rp, false, -33.1864909, 151.5522249
+Shell Crabbes Creek, 24-28 Crabbes Creek, Crabbes Creek, 134, r, true, -28.4557806, 153.4960491
+Metro Petroleum Peakhurst, 637 Forest Rd, PEAKHURST, 121, rpd, true, -33.9583766, 151.0687546
+BP Overlander (NSW), 81 Summer Street, Orange, 142, rp, true, -33.2827010, 149.0951360
+Coles Express Moss Vale, 571 Argyle St , Moss Vale, 127, rp, false, -34.5530011, 150.3649759
+Metro Fuel Abermain, 289 Cessnock Road, Abermain, 117, rpd, true, -32.8112835, 151.4260607
+7-Eleven Kensington, 110 Anzac Parade , Kensington, 137, rp, false, -33.9076396, 151.2238089
+BP Singleton, 53 George Street, Singleton, 138, rp, false, -32.5618882, 151.1748905
+BP Express Wyoming, 481 Pacific Highway, Wyoming, 128, rp, true, -33.4090378, 151.3499812
+Shell Berry, 88 Queen Street, Berry, 137, r, false, -34.7757211, 150.6961427
+Caltex Bega Depot, 36-40 Lagoon Street, BEGA, 127, rpd, true, -36.6685265, 149.8292354
+Mobil Goulburn, 129 Lagoon Street, Goulburn, 119, rp, true, -34.7460856, 149.7327433
+Independent Kearsley, 18 Allandale St, Kearsley, 117, r, true, -32.8586632, 151.3951061
+Metro Petroleum Temora, 90 Victoria St, TEMORA, 124, rp, false, -34.4488177, 147.5352406
+Independent Murrumbateman, 22 East Street, Murrumbateman, 128, rp, true, -34.9698948, 149.0297711
+Independent Rankins Springs, 20 Boomerang Street, Rankins Springs, 134, rp, true, -33.8418170, 146.2605962
+BP Lithgow, 1106 Great Western Hwy., Lithgow, 131, rpd, false, -33.4825250, 150.1364904
+Independent Howlong, 61 Hawkins Street, Howlong, 130, rp, false, -35.9794913, 146.6281492
+Pitt Town Hardware, 85 Bathurst Street, Pitt Town, 131, r, true, -33.5855797, 150.8584598
+Budget Goulburn, 53 Sydney Rd, Goulburn, 117, r, true, -34.7488132, 149.7503468
+Independent Neath, 66-68 Cessnock Road, Neath, 118, rp, true, -32.8261520, 151.4141312
+Shell Cooma, 51 Sharp Street, Cooma, 129, r, true, -36.2328557, 149.1296396
+Independent Young, 31 Boorowa St, Young, 125, rpd, false, -34.3135496, 148.3002212
+Caltex Star Mart Brunswick Heads, 5 Tweed St, BRUNSWICK HEADS, 133, rpd, false, -28.5381822, 153.5487213
+Metro Fuel Ashmont, 47 -49 Tobruk Street, Ashmont, 123, rpd, false, -35.1251682, 147.3299070
+Metro Petroleum Lavington, 2/407 Wagga Road, Lavington, 129, r, true, -36.0460546, 146.9413682
+Shell Cooma, 686 Snowy Mountains Highway, Cooma, 131, rpd, true, -36.2455949, 149.0534085
+Independent Gerringong, 142 Fern St, Gerringong, 135, r, true, -34.7475767, 150.8274992
+Shell Yenda Roadhouse, 30-32 Mirrool Ave, YENDA, 135, r, true, -34.2494388, 146.1981365
+BP WAGGA WAGGA, 180 Edward St, WAGGA WAGGA, 137, rp, true, -35.1184948, 147.3638782
+SWIFT Independent Wagga Wagga, 175 Fitzmaurice St, Wagga Wagga, 122, rpd, true, -35.1023348, 147.3683804
+Greenwell Point Service Centre, 85 Greenwell Point Rd, GREENWELL POINT, 133, rpd, false, -34.9077229, 150.7319441
+BP Aberdare, 81 Aberdare Rd, ABERDARE, 124, rp, true, -32.8437052, 151.3744109
+Budget Goulburn, 53 Sydney Rd, Goulburn, 85, r, true, -34.7488132, 149.7503468
+Caltex Mittagong, 115 Main St, MITTAGONG, 135, rp, true, -34.4504033, 150.4451201
+BP Bowral, 202 Bong Bong Street, Bowral, 138, rp, true, -34.4759602, 150.4187741
+Independent Milperra, 144 Beaconsfield St, Milperra, 121, r, true, -33.9421145, 150.9979042
+Metro Wollongong, 394-396 Crown Street, Wollongong, 117, rp, true, -34.4257988, 150.8776085
+Shell Charmhaven, 209 Pacific Hwy, CHARMHAVEN, 123, rp, false, -33.2274276, 151.5034370
+Caltex Yetholme, 3529 Greatwestern Hi, Yetholme, 125, rp, true, 1000, 1000
+BP Lake Cargelligo, 44 Foster St, Lake Cargelligo, 126, rpd, true, -33.2992560, 146.3700727
+Westside Petroleum Oberon, 1 Horace St, OBERON, 123, rp, true, -33.6984149, 149.8591893
+7-Eleven Croydon Park, 342 Georges River Road , Croydon Park, 123, rpd, true, -33.8977798, 151.0997067
+Caltex Wingham, Isabella St Cnr Primrose St, Wingham, 136, r, false, 1000, 1000
+Caltex Kariong, Lot 2 Langford Drive Cnr Mitchell D, Kariong, 111, rpd, false, -33.4397330, 151.2933411
+Caltex Goulburn, 68 Goldsmith St Cnr Bourke St, Goulburn, 139, rpd, false, 1000, 1000
+Caltex Moonbi, New England Highway, Moonbi, 132, r, false, -30.9744363, 151.1028659
+Caltex Merrylands, 150 Woodville Rd Cnr Merrylands Rd, Merrylands, 130, r, true, -33.8385235, 150.9999902
+Caltex Parkes, 352-360 Clarinda St Cnr Bushman St, Parkes, 107, rp, false, -33.1420047, 148.1823244
+Caltex Albion Park Rail, 172-174 Princes Highway, Albion Park Rail, 134, rpd, false, -34.5612792, 150.7955746
+Coles Express Colyton, 88-90 Great Western Highway, Colyton, 138, r, false, -33.7754732, 150.7953305
+Coles Express Bega, 2-6 Swan St, Bega, 142, r, false, -36.6738789, 149.8381732
+Coles Express North Ryde, 275 Lane Cove Rd, North Ryde, 163, r, false, -33.7955450, 151.1171033
+Coles Express St Clair, 247 Banks Drive , St Clair, 128, rpd, false, -33.7882833, 150.7715784
+Coles Express Ultimo, 387-427 Wattle , Ultimo, 151, rpd, false, -33.8814834, 151.1968097
+Coles Express West Ryde, 1032-1036 Victoria Rd, West Ryde, 130, rpd, false, -33.8074717, 151.0852027
+7-Eleven Randwick, 128 Barker Street, Randwick, 133, rpd, false, -33.9209800, 151.2355770
+7-Eleven Penrith South, 15-19 Aspen Street, Penrith South, 114, rpd, true, -33.7772772, 150.7107235
+7-Eleven Argenton, 503 Lake Road, Argenton, 125, rpd, false, -32.9354367, 151.6306899
+7-Eleven Croydon Park, 342 Georges River Road , Croydon Park, 128, r, false, -33.8977798, 151.0997067
+7-Eleven Emerton, 135-137 Popondetta Road, Emerton, 125, rpd, true, -33.7446329, 150.8102848
+7-Eleven Emu Plains, 49-51 Great Western Highway, Emu Plains, 132, rp, true, -33.7465302, 150.6762172
+7-Eleven Jamisontown, 92 Mulgoa Road , Jamisontown, 113, rp, false, -33.7664087, 150.6794357
+Independent Merimbula, Cnr Arthur Kaine Dr and Dunns Ln, MERIMBULA, 129, rp, true, -36.8965169, 149.9108506
+Caltex Bonalbo, lot 8 Woodenbong Road, Bonalbo, 142, rp, true, -28.7380121, 152.6289163
+Independent Glen Innes, 94-96 Church Street, Glen Innes, 136, rpd, true, -29.7441645, 151.7362483
+7-Eleven Kelso, 64-68 Sydney Rd, Kelso, 143, rpd, false, -33.4184897, 149.6059998
+Independent Yamba, 7 Wooli Street, Yamba, 136, r, true, -29.4354110, 153.3598490
+Metro Weston, 191-193 Cessnock Rd, Weston, 117, rpd, true, -32.8124841, 151.4438421
+Quikstop West Albury, 997 Pemberton St, WEST ALBURY, 125, r, true, -36.0737942, 146.8911145
+Quikstop West Albury, 997 Pemberton St, WEST ALBURY, 129, rpd, true, -36.0737942, 146.8911145
+7-Eleven Watanobbi, 156 Pacific Highway, Watanobbi, 125, r, true, -33.2743601, 151.4292550
+Caltex Warialda, 46 Geddes St, WARIALDA, 131, r, true, -29.5427956, 150.5749095
+Independent Coleambally, Bencubbin Avenue, Coleambally, 129, rp, true, -34.8018968, 145.8957656
+Independent Huskisson, N2 Woollamia Rd, Huskisson, 133, rp, true, -35.0312141, 150.6650255
+Independent Grenfell, 39 Alexandra St, Grenfell, 120, rp, false, -33.8932300, 148.1568000
+BP Berkeley Vale, 1 Blade Close, Berkeley Vale, 125, rp, true, -33.3305938, 151.4238038
+Caltex Walcha, 108W Fitzroy St, Walcha, 140, rpd, true, -30.9840671, 151.5875376
+United Petroleum Lidsdale, Cnr. Mudgee , Lidsdale, 122, rp, true, -33.3976124, 150.0837466
+United Petroleum Marrangaroo, Great Western Highway, Marrangaroo, 122, rpd, false, -33.4463637, 150.1154774
+Rural Supplies Coolamon, 82 Cowabbie St, COOLAMON, 124, rp, false, -34.8173635, 147.2002423
+Caltex Milton, 331 Princes Hwy, Milton, 127, rpd, false, -35.3311518, 150.4487194
+Shell Milton, 90 Princes Highway, Milton, 130, rp, false, -35.3170868, 150.4371123
+Shell Wagga Wagga, 81 Docker Street, Wagga Wagga, 123, rp, false, -35.1153950, 147.3571763
+Coles Express Bondi Junction, 120-138 Birrell Street, Bondi Junction, 137, r, false, -33.8956285, 151.2485338
+Coles Express South Hurstville, 835 King Georges Road, South Hurstville, 142, rp, false, -33.9785931, 151.1054985
+Coles Express Oak Flats, Lot 2 Lake Entrance Road, Oak Flats, 143, rpd, true, -34.5707088, 150.8225287
+Summers Oxley Vale Takeaway & Superette, 171 Manilla Rd, OXLEY VALE, 135, r, false, -31.0577180, 150.8950281
+BP Kyogle, 13-15 Summerland Way, Kyogle, 134, rp, true, -28.6183500, 153.0031934
+7-Eleven Lurnea, Corner Hoxton Park , Lurnea, 133, rp, true, -33.9265370, 150.8995549
+Independent Rylstone, 88 Louee St, Rylstone, 126, rp, false, -32.7991630, 149.9707187
+Caltex Merriwa, 167 Bettington St, Merriwa, 128, rpd, true, -32.1393739, 150.3530607
+Mobil Cooma, 42 Sharp Street, Cooma, 132, r, true, -36.2327012, 149.1317408
+Caltex Bega, 277 Newtown Road, Bega, 142, r, true, -36.6911109, 149.8397182
+Caltex Tuggerah, 2 Johnson Road, Tuggerah, 133, r, true, -33.2943037, 151.4210656
+Caltex Cooma, 41 Sharpe Street, Cooma, 143, rp, false, -36.2324124, 149.1307314
+BP Milton, 32-36 Princes Highway, MILTON, 127, rpd, false, -35.3134293, 150.4333229
+BP Connect Cronulla, Cnr Wilbur , Cronulla, 132, rp, true, 1000, 1000
+BP Connect Mortdale, 21 Boundary Road, Mortdale, 148, rp, true, -33.9699169, 151.0731651
+Caltex Woolworths Carlingford, 131 Pennant Hills Rd, CARLINGFORD, 149, rp, true, -33.7876133, 151.0279186
+Independent Mandurama, 49-55 Olive St, Mandurama, 134, rp, true, -33.6516864, 149.0725927
+Independent Blayney, 3 Maria Street, Blayney, 126, rp, false, -33.5262040, 149.2576780
+Independent Blayney, 140 Adelaide St, Blayney, 126, rpd, false, -33.5280352, 149.2564452
+CALTEX STAR SHOP CARLINGFORD COURT, 797 Pennant Hills Road, CARLINGFORD, 133, rpd, false, -33.7756009, 151.0520683
+BP Bathurst (Stewart Street), 255-257 Stewart Street, Bathurst, 140, r, false, -33.4173441, 149.5692134
+Independent Canowindra, 43 Ferguson Street, Canowindra, 135, rpd, false, -33.5622731, 148.6654121
+Quinn's on Melbourne Street, U 1 39 Melbourne St, EAST MAITLAND, 120, rp, false, -32.7449121, 151.5835550
+Caltex Dunedoo, 20 Bolaro Street, Dunedoo, 127, r, false, -32.0164920, 149.3984705
+Silvalite Fuel Stop, 210 Ashmont Avenue, Ashmont, 129, r, false, -35.1222828, 147.3213551
+Caltex Woolworths Dural, 532 Old Northern Road, Dural, 127, r, true, -33.6935004, 151.0203935
+Caltex Casula, 646 Hume Hwy, Casula, 120, rpd, true, -33.9564132, 150.8934788
+7-Eleven Maroubra, 1 Meagher Ave , Maroubra, 132, rp, true, -33.9512854, 151.2492487
+7-Eleven Goulburn, 88 - 92 Clinton Street, Goulburn, 125, r, false, -34.7566371, 149.7122003
+7-Eleven Unanderra, 41 - 43 Princes Highway, Unanderra, 137, r, true, -34.4502963, 150.8492785
+Independent Molong, 2 Gidley St, Molong, 113, rp, true, -33.0902804, 148.8694577
+BP Bingara, 56 Finch St, BINGARA, 136, r, true, -29.8676582, 150.5691520
+BP Port Macquarie, 100 Ocean Drive, Port Macquarie, 136, rpd, true, -31.4773309, 152.9144320
+7-Eleven Mount Pritchard, 352 Elizabeth Drive , Mount Pritchard, 145, rpd, true, -33.9025160, 150.8962172
+Metro Petroleum West Wallsend, 7 Withers St, WEST WALLSEND, 126, r, true, -32.9036120, 151.5814690
+The Gullie Roadhouse, The Gullie Store 2356 Sturt Hwy, COLLINGULLIE, 123, r, false, -35.0880018, 147.1281407
+Bridgestone Service Centre Laurieton, 2 Kew Road, Laurieton, 126, r, true, -31.6479322, 152.7964894
+Westside Blayney, 27 Orange Road, Blayney, 138, rp, false, -33.5270028, 149.2445981
+BP Connect Woodcroft, Cnr Woodcroft Dr , Doonside, 152, rp, true, -33.7549561, 150.8797299
+BP Bondi, 185 Bondi Rd, Bondi, 146, rp, true, -33.8944035, 151.2647348
+BP South Nowra, 202 Princes Hwy, South Nowra, 124, rp, false, -34.9162892, 150.6042434
+Gooloogong Handymart, 5 King St, GOOLOOGONG, 135, rp, false, -33.6145225, 148.4352001
+Shell Aberdare, 68 Aberdare Road, Aberdare, 122, rp, false, -32.8413886, 151.3678076
+Enhance Mittagong, 224 Old Hume Highway, Mittagong, 133, r, true, -34.4473654, 150.4323679
+Casino Roadhouse, 86 Johnston St, CASINO, 126, rp, false, -28.8596645, 153.0561987
+Coles Express Cessnock, 183 Vincent St, Cessnock, 127, rp, false, -32.8383287, 151.3554494
+BP Kurmond, 501-509 Bells Line Of Road, Kurmond, 116, rp, true, -33.5510005, 150.6908892
+Independent Kulnura, 4 Greta Road, Kulnura, 131, rpd, false, -33.2251289, 151.2226615
+Independent Westleigh, 128 Duffy Avenue, Westleigh, 130, rp, false, -33.7203893, 151.0689312
+BP Mittagong, 51-59 Main Street, Mittagong, 136, rp, false, -34.4499577, 150.4501442
+United Petroleum Dorrigo, 3 Cudgery Street, Dorrigo, 142, rpd, true, -30.3402653, 152.7100932
+Metro Fuel Fairfield, 130 Hamilton Road, Fairfield, 119, rp, false, -33.8726343, 150.9459385
+Metro Croydon Park, 274 Georges River Rd, Croydon Park, 115, r, true, -33.8968159, 151.1032077
+Caltex Greenacre, 87-91 Roberts Rd Cnr Moondo St, Greenacre, 137, rpd, false, -33.9050959, 151.0640241
+7-Eleven Watanobbi, 156 Pacific Highway, Watanobbi, 130, rpd, true, -33.2743601, 151.4292550
+7-Eleven Liverpool, 95 Elizabeth Drive , Liverpool, 140, rpd, true, -33.9182506, 150.9160168
+Coles Express Greystanes, Merrylands Road , Greystanes, 128, r, false, -33.8297202, 150.9488800
+Bates General Store, 2 Bate St, CENTRAL TILBA, 129, rpd, false, -36.3132251, 150.0750518
+Independent Medowie, 701 Medowie Road, Medowie, 148, r, true, -32.7477289, 151.8685766
+Coles Express Carlingford, 286-288 Pennant Hills Rd , Carlingford, 129, rp, false, -33.7848873, 151.0435817
+Caltex Rose Bay, 488 Old South Head Rd Cnr Albemarle, Rose Bay, 148, r, false, -33.8751813, 151.2724728
+Budget Petrol Bundeena, 27 Thompson St, Bundeena, 130, rp, false, -34.0839052, 151.1454198
+7-Eleven St Ives, 157-159 Mona Vale Rd, ST IVES, 126, rpd, true, -33.7326308, 151.1563367
+7-Eleven Quakers Hill, 83 Lalor Road , Quakers Hill, 110, rp, false, -33.7275320, 150.8965981
+7-Eleven Granville, 154-160 Parramatta Road , Granville, 113, r, false, -33.8301334, 151.0102338
+7-Eleven Guildford West, 534 Guildford Road West , Guildford West, 130, rp, true, -33.8515808, 150.9722602
+B & E Doherty P/L Independent Wauchope, 57 High Street, Wauchope, 135, r, false, -31.4572181, 152.7305973
+Independent Medowie, 26 Ferodale Road, Medowie, 131, rpd, false, -32.7398402, 151.8544970
+BP 2Go St Peters (NSW), 2 Princes Highway, St Peters, 126, r, false, -33.9076096, 151.1815032
+BP Mays Hill, 149 Great Western Hwy, Mays Hill, 154, rp, true, -33.8194030, 150.9892970
+Liberty Moorland, 99 Jericho Road, Moorland, 133, rpd, true, -31.7943785, 152.6514819
+Independent Cootamundra, 30 Hovell St, Cootamundra, 125, rpd, false, -34.6361744, 148.0345722
+ENHANCE Forster, 86-88 Macintosh St, Forster, 87, rp, false, -32.1907934, 152.5154818
+BP Wallsend, 103- Newcastle Road, Wallsend, 130, rp, false, -32.9040151, 151.6823664
+Puma Energy Kurri Kurri, Lang Street and Hunter ExpressWay, Kurri Kurri, 126, r, true, -32.8141572, 151.4923895
+Matilda Murwillumbah, 182 Tweed Valley Way, Murwillumbah, 125, rp, false, -28.3262601, 153.4102399
+BP Narooma, 90 Campbell St, Narooma, 151, r, false, -36.2163600, 150.1303048
+BP Express Valentine, 855 Macquarie Drive, Valentine, 129, r, true, -33.0079408, 151.6425510
+BP Connect Sydenham, 339 Princes Highway, Sydenham, 130, rp, true, -33.9162497, 151.1728502
+BP Connect Heatherbrae, 2398 Pacific Highway, Heatherbrae, 124, r, true, -32.7832978, 151.7370223
+Independent West Dubbo, 98 Victoria Street, West Dubbo, 131, rpd, true, -32.2416778, 148.5854320
+BP Express Toronto, 132 CAREY STREET, Toronto, 129, rpd, true, -33.0115636, 151.5938287
+BP Parkes Truckstop, Forbes Street, Parkes, 138, r, false, -33.1483014, 148.1694709
+BP Beresfield Truckstop, Lot 201 John Renshaw Drive, Beresfield, 132, r, true, -32.8117310, 151.6392639
+Caltex Muswellbrook (Maitland Rd), 84-86 Maitland St, MUSWELLBROOK, 131, rp, true, -32.2779325, 150.8980933
+BP Grenfell Rd (Cowra), 11 Grenfell Road, Cowra, 137, rpd, false, -33.8343667, 148.6733838
+BP Express Marulan Northbound, Hume Highway, Marulan North, 121, r, false, -34.7086413, 150.0098438
